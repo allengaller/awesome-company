@@ -84,7 +84,7 @@
   - [美团外卖](https://waimai.meituan.com/)
   - [大众点评](https://www.dianping.com/)
 - **自媒体**:
-  - 微信公众号: 美团技术团队
+  - 微信公众号: 美团
   - 微博: @美团
 - **技术博客**: [美团技术团队](https://tech.meituan.com/)
 - **开发者社区**: [美团技术服务合作中心](https://developer.meituan.com/)
@@ -110,17 +110,17 @@
 - **自媒体**:
   - 微信公众号: 网易
   - 微博: @网易
-- **开发者社区**: [网易云信开发者中心](https://doc.yunxin.163.com/)
 
 ### 小米
 
 - **集团官网**: [小米](https://www.mi.com/)
 - **产品**:
-  - [小米澎湃OS](https://dev.mi.com/)
+  - [MIUI](https://www.miui.com/)
   - [小米IoT开发者平台](https://iot.mi.com/)
 - **自媒体**:
   - 微信公众号: 小米
   - 微博: @小米公司
+- **技术博客**: [小米信息部技术团队](https://xiaomi-info.github.io/)
 - **开发者社区**: [小米澎湃OS开发者平台](https://dev.mi.com/)
 
 ### 华为
@@ -134,4 +134,5 @@
 - **自媒体**:
   - 微信公众号: 华为
   - 微博: @华为中国
+- **技术博客**: [华为云博客](https://bbs.huaweicloud.com/blogs)
 - **开发者社区**: [华为开发者联盟](https://developer.huawei.com/consumer/cn/)
