@@ -136,3 +136,63 @@
   - 微博: @华为中国
 - **技术博客**: [华为云博客](https://bbs.huaweicloud.com/blogs)
 - **开发者社区**: [华为开发者联盟](https://developer.huawei.com/consumer/cn/)
+
+## 美国公司
+
+### Google / Alphabet
+
+- **Official Site**: [Alphabet](https://abc.xyz/) | [Google](https://www.google.com/)
+- **Products**:
+  - [Google Search](https://www.google.com/)
+  - [YouTube](https://www.youtube.com/)
+  - [Android](https://www.android.com/)
+  - [Google Cloud](https://cloud.google.com/)
+  - [Google DeepMind](https://deepmind.google/)
+- **Tech Blog**: [Google AI Blog](https://blog.google/innovation-and-ai/technology/ai/) | [Google Developers Blog](https://developers.googleblog.com/)
+- **Developer Community**: [Google Developers](https://developers.google.com/)
+
+### Meta
+
+- **Official Site**: [Meta](https://about.meta.com/)
+- **Products**:
+  - [Facebook](https://www.facebook.com/)
+  - [Instagram](https://www.instagram.com/)
+  - [WhatsApp](https://www.whatsapp.com/)
+  - [Messenger](https://www.messenger.com/)
+- **Tech Blog**: [Engineering at Meta](https://engineering.fb.com/) | [AI at Meta Blog](https://ai.meta.com/blog/)
+- **Developer Community**: [Meta for Developers](https://developers.facebook.com/)
+
+### Amazon
+
+- **Official Site**: [Amazon](https://www.amazon.com/)
+- **Subsidiaries**:
+  - [AWS](https://aws.amazon.com/)
+- **Products**:
+  - [Amazon](https://www.amazon.com/)
+  - [Prime Video](https://www.primevideo.com/)
+- **Tech Blog**: [AWS News Blog](https://aws.amazon.com/blogs/aws/) | [Amazon Science](https://www.amazon.science/blog)
+- **Developer Community**: [AWS Developer Community](https://builder.aws.com/community)
+
+### Apple
+
+- **Official Site**: [Apple](https://www.apple.com/)
+- **Products**:
+  - [iPhone](https://www.apple.com/iphone/)
+  - [App Store](https://www.apple.com/app-store/)
+  - [iCloud](https://www.icloud.com/)
+  - [Apple Music](https://www.apple.com/apple-music/)
+- **Tech Blog**: [Apple Machine Learning Research](https://machinelearning.apple.com/)
+- **Developer Community**: [Apple Developer](https://developer.apple.com/)
+
+### Microsoft
+
+- **Official Site**: [Microsoft](https://www.microsoft.com/)
+- **Subsidiaries**:
+  - [GitHub](https://github.com/)
+  - [LinkedIn](https://www.linkedin.com/)
+- **Products**:
+  - [Azure](https://azure.microsoft.com/)
+  - [Microsoft 365](https://www.microsoft.com/microsoft-365)
+  - [Xbox](https://www.xbox.com/)
+- **Tech Blog**: [Microsoft Dev Blogs](https://devblogs.microsoft.com/) | [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)
+- **Developer Community**: [Microsoft Developer Community](https://developer.microsoft.com/en-us/community)
