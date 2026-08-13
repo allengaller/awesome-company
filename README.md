@@ -1,5 +1,35 @@
 # Awesome Company
 
+A curated navigation list of major Chinese and US internet companies — official sites, products, tech blogs, and developer communities.
+
+## Contents
+
+**中国公司**
+
+- [阿里巴巴](#阿里巴巴)
+- [腾讯](#腾讯)
+- [字节跳动](#字节跳动)
+- [百度](#百度)
+- [京东](#京东)
+- [美团](#美团)
+- [拼多多](#拼多多)
+- [网易](#网易)
+- [小米](#小米)
+- [华为](#华为)
+
+**美国公司**
+
+- [Google / Alphabet](#google--alphabet)
+- [Meta](#meta)
+- [Amazon](#amazon)
+- [Apple](#apple)
+- [Microsoft](#microsoft)
+- [Netflix](#netflix)
+- [Tesla / X](#tesla--x)
+- [NVIDIA](#nvidia)
+- [Salesforce](#salesforce)
+- [Oracle](#oracle)
+
 ## 中国公司
 
 ### 阿里巴巴
@@ -196,3 +226,45 @@
   - [Xbox](https://www.xbox.com/)
 - **Tech Blog**: [Microsoft Dev Blogs](https://devblogs.microsoft.com/) | [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)
 - **Developer Community**: [Microsoft Developer Community](https://developer.microsoft.com/en-us/community)
+
+### Netflix
+
+- **Official Site**: [Netflix](https://www.netflix.com/)
+- **Tech Blog**: [Netflix TechBlog](https://netflixtechblog.com/)
+- **Developer Community**: [Netflix Open Source](https://netflix.github.io/)
+
+### Tesla / X
+
+- **Official Site**: [Tesla](https://www.tesla.com/) | [X](https://x.com/)
+- **Tech Blog**: [Tesla AI](https://www.tesla.com/AI) | [X Engineering](https://blog.x.com/engineering/en_us)
+- **Developer Community**: [X Developer Platform](https://developer.x.com/)
+
+### NVIDIA
+
+- **Official Site**: [NVIDIA](https://www.nvidia.com/)
+- **Products**:
+  - [GeForce](https://www.nvidia.com/en-us/geforce/)
+  - [CUDA](https://developer.nvidia.com/cuda-zone)
+  - [Omniverse](https://www.nvidia.com/en-us/omniverse/)
+- **Tech Blog**: [NVIDIA Technical Blog](https://developer.nvidia.com/blog/)
+- **Developer Community**: [NVIDIA Developer](https://developer.nvidia.com/)
+
+### Salesforce
+
+- **Official Site**: [Salesforce](https://www.salesforce.com/)
+- **Products**:
+  - [Sales Cloud](https://www.salesforce.com/sales/)
+  - [Service Cloud](https://www.salesforce.com/service/)
+  - [Slack](https://slack.com/)
+- **Tech Blog**: [Salesforce Engineering](https://engineering.salesforce.com/)
+- **Developer Community**: [Salesforce Developers](https://developer.salesforce.com/)
+
+### Oracle
+
+- **Official Site**: [Oracle](https://www.oracle.com/)
+- **Products**:
+  - [Oracle Cloud](https://www.oracle.com/cloud/)
+  - [Oracle Database](https://www.oracle.com/database/)
+  - [Java](https://www.oracle.com/java/)
+- **Tech Blog**: [Oracle Blogs](https://blogs.oracle.com/)
+- **Developer Community**: [Oracle Developer Community](https://www.oracle.com/developer/community/)
