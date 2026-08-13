@@ -76,3 +76,62 @@
   - 微博: @京东
 - **技术博客**: [京东云技术团队](https://blog.csdn.net/JDDTechTalk)
 - **开发者社区**: [京东云开发者社区](https://developer.jdcloud.com/)
+
+### 美团
+
+- **集团官网**: [美团](https://www.meituan.com/)
+- **产品**:
+  - [美团外卖](https://waimai.meituan.com/)
+  - [大众点评](https://www.dianping.com/)
+- **自媒体**:
+  - 微信公众号: 美团技术团队
+  - 微博: @美团
+- **技术博客**: [美团技术团队](https://tech.meituan.com/)
+- **开发者社区**: [美团技术服务合作中心](https://developer.meituan.com/)
+
+### 拼多多
+
+- **集团官网**: [拼多多](https://www.pinduoduo.com/)
+- **产品**:
+  - [拼多多](https://www.pinduoduo.com/)
+  - [Temu](https://www.temu.com/)
+- **自媒体**:
+  - 微信公众号: 拼多多
+  - 微博: @拼多多
+
+### 网易
+
+- **集团官网**: [网易](https://www.163.com/)
+- **子公司**:
+  - [网易游戏](https://game.163.com/)
+- **产品**:
+  - [网易云音乐](https://music.163.com/)
+  - [网易有道](https://www.youdao.com/)
+- **自媒体**:
+  - 微信公众号: 网易
+  - 微博: @网易
+- **开发者社区**: [网易云信开发者中心](https://doc.yunxin.163.com/)
+
+### 小米
+
+- **集团官网**: [小米](https://www.mi.com/)
+- **产品**:
+  - [小米澎湃OS](https://dev.mi.com/)
+  - [小米IoT开发者平台](https://iot.mi.com/)
+- **自媒体**:
+  - 微信公众号: 小米
+  - 微博: @小米公司
+- **开发者社区**: [小米澎湃OS开发者平台](https://dev.mi.com/)
+
+### 华为
+
+- **集团官网**: [华为](https://www.huawei.com/)
+- **子公司**:
+  - [华为云](https://www.huaweicloud.com/)
+- **产品**:
+  - [鸿蒙HarmonyOS](https://www.harmonyos.com/)
+  - [华为消费者业务](https://consumer.huawei.com/cn/)
+- **自媒体**:
+  - 微信公众号: 华为
+  - 微博: @华为中国
+- **开发者社区**: [华为开发者联盟](https://developer.huawei.com/consumer/cn/)
