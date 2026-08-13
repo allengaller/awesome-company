@@ -16,7 +16,7 @@
   - [钉钉](https://www.dingtalk.com/)
 - **自媒体**:
   - 微信公众号: 阿里技术
-  - 微博: @阿里技术
+  - 微博: @阿里技术星球
 - **技术博客**: [阿里技术](https://developer.aliyun.com/group/alitech/article/)
 - **开发者社区**: [阿里云开发者社区](https://developer.aliyun.com/)
 
@@ -32,6 +32,7 @@
   - [腾讯视频](https://v.qq.com/)
 - **自媒体**:
   - 微信公众号: 腾讯技术工程
+  - 微博: @腾讯公司
 - **技术博客**: [腾讯技术工程](https://cloud.tencent.com/developer/column/1283)
 - **开发者社区**: [腾讯云开发者社区](https://cloud.tencent.com/developer)
 
@@ -57,7 +58,9 @@
   - [百度地图](https://map.baidu.com/)
   - [Apollo](https://www.apollo.auto/)
   - [文心一言](https://yiyan.baidu.com/)
-- **技术博客**: [百度技术](https://baidu.csdn.net/)
+- **自媒体**:
+  - 微信公众号: 百度
+- **技术博客**: [百度云技术专区](https://baidu.csdn.net/)
 - **开发者社区**: [百度开发者中心](https://developer.baidu.com/)
 
 ### 京东
@@ -68,5 +71,8 @@
   - [京东云](https://www.jdcloud.com/)
 - **产品**:
   - [京东商城](https://www.jd.com/)
+- **自媒体**:
+  - 微信公众号: 京东
+  - 微博: @京东
 - **技术博客**: [京东云技术团队](https://blog.csdn.net/JDDTechTalk)
 - **开发者社区**: [京东云开发者社区](https://developer.jdcloud.com/)
