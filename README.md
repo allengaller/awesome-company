@@ -58,7 +58,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **集团官网**: [拼多多](https://www.pinduoduo.com/)
 - **核心产品**: [拼多多](https://www.pinduoduo.com/) | [Temu](https://www.temu.com/)
 - **GitHub**: [pinduoduo](https://github.com/pinduoduo)
-- **招聘**: [拼多多招聘](https://www.pinduoduo.com/campus.html)
+- **招聘**: [拼多多招聘](https://careers.pddglobalhr.com/)
 
 #### 美国
 
@@ -118,7 +118,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **技术博客**: [字节跳动技术团队](https://blog.csdn.net/ByteDanceTech)
 - **开发者社区**: [抖音开放平台](https://developer.open-douyin.com/)
 - **GitHub**: [bytedance](https://github.com/bytedance)
-- **招聘**: [字节跳动招聘](https://jobs.bytedance.com/)
+- **招聘**: [字节跳动招聘](https://jobs.bytedance.com/campus)
 
 ##### 网易
 
@@ -144,7 +144,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Products**: [Facebook](https://www.facebook.com/) | [Instagram](https://www.instagram.com/) | [WhatsApp](https://www.whatsapp.com/) | [Messenger](https://www.messenger.com/)
 - **Tech Blog**: [Engineering at Meta](https://engineering.fb.com/) | [AI at Meta Blog](https://ai.meta.com/blog/)
 - **Developer Community**: [Meta for Developers](https://developers.facebook.com/)
-- **GitHub**: [facebook](https://github.com/facebook) | [meta](https://github.com/meta)
+- **GitHub**: [facebook](https://github.com/facebook) | [facebookincubator](https://github.com/facebookincubator)
 - **Careers**: [Meta Careers](https://www.metacareers.com/)
 
 ##### Netflix
