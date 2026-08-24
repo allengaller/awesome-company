@@ -503,6 +503,18 @@ A curated navigation list of global technology companies — official sites, pro
 
 #### 中国
 
+##### 36氪
+
+- **集团官网**: [36氪](https://36kr.com/)
+- **核心产品**: [36氪](https://36kr.com/)
+
+##### 爱奇艺
+
+- **集团官网**: [爱奇艺](https://www.iqiyi.com/)
+- **核心产品**: [爱奇艺](https://www.iqiyi.com/)
+- **GitHub**: [iqiyi](https://github.com/iqiyi)
+- **招聘**: [爱奇艺招聘](https://careers.iqiyi.com/)
+
 ##### 百度
 
 - **集团官网**: [百度](https://www.baidu.com/)
@@ -511,6 +523,139 @@ A curated navigation list of global technology companies — official sites, pro
 - **开发者社区**: [百度开发者中心](https://developer.baidu.com/)
 - **GitHub**: [baidu](https://github.com/baidu)
 - **招聘**: [百度招聘](https://home.baidu.com/home/index/join_us)
+
+##### 哔哩哔哩
+
+- **集团官网**: [哔哩哔哩](https://www.bilibili.com/)
+- **核心产品**: [哔哩哔哩](https://www.bilibili.com/)
+- **GitHub**: [bilibili](https://github.com/bilibili)
+- **招聘**: [哔哩哔哩招聘](https://jobs.bilibili.com/)
+
+##### 得到
+
+- **集团官网**: [得到](https://www.dedao.cn/)
+- **核心产品**: [得到App](https://www.dedao.cn/)
+
+##### 斗鱼
+
+- **集团官网**: [斗鱼](https://www.douyu.com/)
+- **核心产品**: [斗鱼直播](https://www.douyu.com/)
+
+##### 凤凰网
+
+- **集团官网**: [凤凰网](https://www.ifeng.com/)
+- **核心产品**: [凤凰网](https://www.ifeng.com/)
+- **招聘**: [凤凰网招聘](https://career.ifeng.com/)
+
+##### 虎嗅
+
+- **集团官网**: [虎嗅](https://www.huxiu.com/)
+- **核心产品**: [虎嗅App](https://www.huxiu.com/)
+
+##### 虎牙直播
+
+- **集团官网**: [虎牙](https://www.huya.com/)
+- **核心产品**: [虎牙直播](https://www.huya.com/)
+- **招聘**: [虎牙招聘](https://hr.huya.com/)
+
+##### 界面新闻
+
+- **集团官网**: [界面新闻](https://www.jiemian.com/)
+- **核心产品**: [界面新闻](https://www.jiemian.com/)
+
+##### 晋江文学城
+
+- **集团官网**: [晋江文学城](https://www.jjwxc.net/)
+- **核心产品**: [晋江文学城](https://www.jjwxc.net/)
+
+##### 快手
+
+- **集团官网**: [快手](https://www.kuaishou.com/)
+- **核心产品**: [快手](https://www.kuaishou.com/)
+- **GitHub**: [kwai](https://github.com/kwai)
+- **招聘**: [快手招聘](https://zhaopin.kuaishou.cn/)
+
+##### 荔枝
+
+- **集团官网**: [荔枝集团](https://www.lizhiinc.com/)
+- **核心产品**: [荔枝](https://www.lizhiinc.com/)
+
+##### 芒果TV
+
+- **集团官网**: [芒果TV](https://www.mgtv.com/)
+- **核心产品**: [芒果TV](https://www.mgtv.com/)
+
+##### 咪咕文化
+
+- **集团官网**: [咪咕](https://www.migu.cn/)
+- **核心产品**: [咪咕视频](https://www.miguvideo.com/) | [咪咕音乐](https://music.migu.cn/)
+- **招聘**: [咪咕招聘](https://www.migu.cn/join/index)
+
+##### 澎湃新闻
+
+- **集团官网**: [澎湃新闻](https://www.thepaper.cn/)
+- **核心产品**: [澎湃新闻](https://www.thepaper.cn/)
+
+##### 汽车之家
+
+- **集团官网**: [汽车之家](https://www.autohome.com.cn/)
+- **核心产品**: [汽车之家](https://www.autohome.com.cn/)
+- **GitHub**: [AutohomeCorp](https://github.com/AutohomeCorp)
+- **招聘**: [汽车之家招聘](https://talent.autohome.com.cn/)
+
+##### 起点读书
+
+- **集团官网**: [阅文集团](https://www.yuewen.com/)
+- **核心产品**: [起点读书](https://www.qidian.com/) | [QQ阅读](https://yuewen.com/)
+
+##### 蜻蜓FM
+
+- **集团官网**: [蜻蜓FM](https://www.qingting.fm/)
+- **核心产品**: [蜻蜓FM](https://www.qingting.fm/)
+
+##### 搜狐
+
+- **集团官网**: [搜狐](https://www.sohu.com/)
+- **核心产品**: [搜狐网](https://www.sohu.com/) | [搜狐视频](https://tv.sohu.com/)
+
+##### 腾讯音乐
+
+- **集团官网**: [腾讯音乐娱乐集团](https://www.tencentmusic.com/)
+- **核心产品**: [QQ音乐](https://y.qq.com/) | [酷狗音乐](https://www.kugou.com/) | [酷我音乐](https://www.kuwo.cn/)
+- **招聘**: [腾讯音乐招聘](https://join.tencentmusic.com/)
+
+##### 网易
+
+- **集团官网**: [网易](https://www.163.com/)
+- **核心产品**: [网易云音乐](https://music.163.com/) | [网易有道](https://www.youdao.com/)
+- **GitHub**: [netease](https://github.com/netease)
+- **招聘**: [网易招聘](https://hr.163.com/)
+
+##### 喜马拉雅
+
+- **集团官网**: [喜马拉雅](https://www.ximalaya.com/)
+- **核心产品**: [喜马拉雅](https://www.ximalaya.com/)
+- **招聘**: [喜马拉雅招聘](https://job.ximalaya.com/)
+
+##### 新浪
+
+- **集团官网**: [新浪](https://www.sina.com.cn/)
+- **核心产品**: [新浪网](https://www.sina.com.cn/) | [新浪新闻](https://news.sina.com.cn/)
+
+##### 优酷
+
+- **集团官网**: [优酷](https://www.youku.com/)
+- **核心产品**: [优酷](https://www.youku.com/)
+
+##### 掌阅科技
+
+- **集团官网**: [掌阅科技](https://www.zhangyue.com/)
+- **核心产品**: [掌阅](https://www.zhangyue.com/) | [掌阅书城](https://ireader.com.cn/)
+
+##### 中文在线
+
+- **集团官网**: [中文在线](https://www.col.com/)
+- **核心产品**: [中文在线](https://www.col.com/)
 
 ##### 字节跳动
 
@@ -521,14 +666,54 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [bytedance](https://github.com/bytedance)
 - **招聘**: [字节跳动招聘](https://jobs.bytedance.com/campus)
 
-##### 网易
-
-- **集团官网**: [网易](https://www.163.com/)
-- **核心产品**: [网易云音乐](https://music.163.com/) | [网易有道](https://www.youdao.com/)
-- **GitHub**: [netease](https://github.com/netease)
-- **招聘**: [网易招聘](https://hr.163.com/)
-
 #### 美国
+
+##### BuzzFeed
+
+- **Official Site**: [BuzzFeed](https://www.buzzfeed.com/)
+- **Products**: [BuzzFeed](https://www.buzzfeed.com/)
+- **Tech Blog**: [BuzzFeed Tech](https://tech.buzzfeed.com/)
+- **GitHub**: [buzzfeed](https://github.com/buzzfeed)
+- **Careers**: [BuzzFeed Jobs](https://www.buzzfeed.com/jobs)
+
+##### CNN
+
+- **Official Site**: [CNN](https://www.cnn.com/)
+- **Products**: [CNN](https://www.cnn.com/)
+
+##### Condé Nast
+
+- **Official Site**: [Condé Nast](https://www.condenast.com/)
+- **Products**: [Vogue](https://www.vogue.com/) | [Wired](https://www.wired.com/) | [The New Yorker](https://www.newyorker.com/)
+- **Tech Blog**: [Condé Nast Technology](https://technology.condenast.com/)
+- **GitHub**: [CondeNast](https://github.com/CondeNast)
+- **Careers**: [Condé Nast Careers](https://www.condenast.com/careers)
+
+##### Disney+
+
+- **Official Site**: [Disney+](https://www.disneyplus.com/)
+- **Products**: [Disney+](https://www.disneyplus.com/)
+- **Careers**: [Disney Careers](https://jobs.disneycareers.com/)
+
+##### ESPN
+
+- **Official Site**: [ESPN](https://www.espn.com/)
+- **Products**: [ESPN](https://www.espn.com/)
+- **Careers**: [ESPN Careers](https://jobs.espncareers.com/)
+
+##### Fandom
+
+- **Official Site**: [Fandom](https://www.fandom.com/)
+- **Products**: [Fandom](https://www.fandom.com/)
+- **GitHub**: [wikia](https://github.com/wikia)
+- **Careers**: [Fandom Careers](https://about.fandom.com/careers)
+
+##### Getty Images
+
+- **Official Site**: [Getty Images](https://www.gettyimages.com/)
+- **Products**: [Getty Images](https://www.gettyimages.com/) | [iStock](https://www.istockphoto.com/) | [Unsplash](https://unsplash.com/)
+- **GitHub**: [gettyimages](https://github.com/gettyimages)
+- **Careers**: [Getty Images Careers](https://www.gettyimages.com/careers)
 
 ##### Google / Alphabet
 
@@ -538,6 +723,30 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Google Developers](https://developers.google.com/)
 - **GitHub**: [google](https://github.com/google)
 - **Careers**: [Google Careers](https://careers.google.com/)
+
+##### HBO Max
+
+- **Official Site**: [HBO Max](https://www.max.com/)
+- **Products**: [HBO Max](https://www.max.com/)
+- **Careers**: [Warner Bros. Discovery Careers](https://careers.wbd.com/)
+
+##### Hulu
+
+- **Official Site**: [Hulu](https://www.hulu.com/)
+- **Products**: [Hulu](https://www.hulu.com/)
+- **Careers**: [Hulu Careers](https://www.hulu.com/jobs)
+
+##### iHeartRadio
+
+- **Official Site**: [iHeartMedia](https://www.iheartmedia.com/)
+- **Products**: [iHeartRadio](https://www.iheart.com/)
+- **Careers**: [iHeartMedia Careers](https://www.iheartmedia.com/careers)
+
+##### Medium
+
+- **Official Site**: [Medium](https://medium.com/)
+- **Products**: [Medium](https://medium.com/)
+- **Careers**: [Medium Careers](https://medium.com/careers)
 
 ##### Meta
 
@@ -556,23 +765,457 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [netflix](https://github.com/netflix)
 - **Careers**: [Netflix Jobs](https://jobs.netflix.com/)
 
+##### NPR
+
+- **Official Site**: [NPR](https://www.npr.org/)
+- **Products**: [NPR](https://www.npr.org/)
+- **GitHub**: [npr](https://github.com/npr)
+- **Careers**: [NPR Careers](https://www.npr.org/careers)
+
+##### Paramount
+
+- **Official Site**: [Paramount](https://www.paramount.com/)
+- **Products**: [Paramount+](https://www.paramountplus.com/) | [CBS](https://www.cbs.com/) | [Nickelodeon](https://www.nick.com/)
+- **Careers**: [Paramount Careers](https://careers.paramount.com/)
+
+##### Patreon
+
+- **Official Site**: [Patreon](https://www.patreon.com/)
+- **Products**: [Patreon](https://www.patreon.com/)
+- **GitHub**: [patreon](https://github.com/patreon)
+- **Careers**: [Patreon Careers](https://www.patreon.com/careers)
+
+##### Peacock
+
+- **Official Site**: [Peacock](https://www.peacocktv.com/)
+- **Products**: [Peacock](https://www.peacocktv.com/)
+- **Careers**: [NBCUniversal Careers](https://www.nbcunicareers.com/)
+
+##### Quora
+
+- **Official Site**: [Quora](https://www.quora.com/)
+- **Products**: [Quora](https://www.quora.com/)
+- **Careers**: [Quora Careers](https://www.quora.com/careers)
+
+##### Rumble
+
+- **Official Site**: [Rumble](https://rumble.com/)
+- **Products**: [Rumble](https://rumble.com/)
+- **Careers**: [Rumble Careers](https://job-boards.greenhouse.io/rumble)
+
+##### Shutterstock
+
+- **Official Site**: [Shutterstock](https://www.shutterstock.com/)
+- **Products**: [Shutterstock](https://www.shutterstock.com/) | [GIPHY](https://giphy.com/)
+- **Tech Blog**: [Shutterstock Engineering](https://shutterstock.github.io/)
+- **GitHub**: [shutterstock](https://github.com/shutterstock)
+- **Careers**: [Shutterstock Careers](https://careers.shutterstock.com/)
+
+##### SiriusXM
+
+- **Official Site**: [SiriusXM](https://www.siriusxm.com/)
+- **Products**: [SiriusXM](https://www.siriusxm.com/) | [Pandora](https://www.pandora.com/)
+- **GitHub**: [PandoraMedia](https://github.com/PandoraMedia)
+- **Careers**: [SiriusXM Careers](https://careers.siriusxm.com/)
+
+##### Substack
+
+- **Official Site**: [Substack](https://substack.com/)
+- **Products**: [Substack](https://substack.com/)
+- **Careers**: [Substack Careers](https://substack.com/jobs)
+
+##### The New York Times
+
+- **Official Site**: [The New York Times](https://www.nytimes.com/)
+- **Products**: [NYTimes](https://www.nytimes.com/) | [The Athletic](https://www.nytimes.com/athletic/) | [NYT Games](https://www.nytimes.com/games/)
+- **GitHub**: [nytimes](https://github.com/nytimes)
+- **Careers**: [NYT Careers](https://www.nytco.com/careers/)
+
+##### The Washington Post
+
+- **Official Site**: [The Washington Post](https://www.washingtonpost.com/)
+- **Products**: [The Washington Post](https://www.washingtonpost.com/)
+- **GitHub**: [washingtonpost](https://github.com/washingtonpost)
+- **Careers**: [Washington Post Careers](https://company.washingtonpost.com/careers)
+
+##### Tidal
+
+- **Official Site**: [TIDAL](https://tidal.com/)
+- **Products**: [TIDAL](https://tidal.com/)
+- **GitHub**: [tidal-music](https://github.com/tidal-music)
+
+##### Twitch
+
+- **Official Site**: [Twitch](https://www.twitch.tv/)
+- **Products**: [Twitch](https://www.twitch.tv/)
+- **GitHub**: [twitchtv](https://github.com/twitchtv)
+- **Careers**: [Twitch Careers](https://www.twitch.tv/jobs/)
+
+##### Vimeo
+
+- **Official Site**: [Vimeo](https://vimeo.com/)
+- **Products**: [Vimeo](https://vimeo.com/)
+- **GitHub**: [vimeo](https://github.com/vimeo)
+- **Careers**: [Vimeo Careers](https://vimeo.com/careers)
+
+##### Vox Media
+
+- **Official Site**: [Vox Media](https://www.voxmedia.com/)
+- **Products**: [Vox](https://www.vox.com/) | [The Verge](https://www.theverge.com/)
+- **GitHub**: [voxmedia](https://github.com/voxmedia)
+- **Careers**: [Vox Media Jobs](https://www.voxmedia.com/jobs/)
+
+##### Wikimedia Foundation
+
+- **Official Site**: [Wikimedia Foundation](https://wikimediafoundation.org/)
+- **Products**: [Wikipedia](https://www.wikipedia.org/) | [Wikimedia Commons](https://commons.wikimedia.org/) | [Wikidata](https://www.wikidata.org/)
+- **Tech Blog**: [Wikimedia Tech](https://techblog.wikimedia.org/)
+- **Developer Community**: [MediaWiki](https://www.mediawiki.org/)
+- **GitHub**: [wikimedia](https://github.com/wikimedia)
+- **Careers**: [Wikimedia Careers](https://wikimediafoundation.org/careers/)
+
+##### YouTube
+
+- **Official Site**: [YouTube](https://www.youtube.com/)
+- **Products**: [YouTube](https://www.youtube.com/)
+- **Tech Blog**: [YouTube Engineering and Developers Blog](https://youtube-eng.googleblog.com/)
+- **Developer Community**: [YouTube for Developers](https://developers.google.com/youtube/)
+- **GitHub**: [youtube](https://github.com/youtube)
+- **Careers**: [YouTube Careers](https://www.youtube.com/about/careers/)
+
 #### 欧洲
+
+##### BBC
+
+- **Official Site**: [BBC](https://www.bbc.com/)
+- **Products**: [BBC iPlayer](https://www.bbc.co.uk/iplayer) | [BBC News](https://www.bbc.com/news)
+- **Tech Blog**: [BBC Design + Engineering](https://www.bbc.co.uk/designandengineering)
+- **GitHub**: [bbc](https://github.com/bbc)
+- **Careers**: [BBC Careers](https://careerssearch.bbc.co.uk/)
+
+##### Canal+ Group
+
+- **Official Site**: [Canal+ Group](https://www.canalplusgroup.com/en/)
+- **Products**: [Canal+](https://www.canalplus.com/)
+- **Careers**: [Canal+ Group Careers](https://canalplusgroup.com/en/join-us)
+
+##### Dailymotion
+
+- **Official Site**: [Dailymotion](https://www.dailymotion.com/)
+- **Products**: [Dailymotion](https://www.dailymotion.com/)
+- **Careers**: [Dailymotion Careers](https://www.dailymotion.com/careers)
+
+##### Deezer
+
+- **Official Site**: [Deezer](https://www.deezer.com/)
+- **Products**: [Deezer](https://www.deezer.com/)
+- **Tech Blog**: [Deezer Tech Blog](https://deezer.io/)
+- **GitHub**: [deezer](https://github.com/deezer)
+- **Careers**: [Deezer Careers](https://www.deezerjobs.com/)
+
+##### ITV
+
+- **Official Site**: [ITV](https://www.itv.com/)
+- **Products**: [ITV](https://www.itv.com/)
+- **GitHub**: [ITV](https://github.com/ITV)
+- **Careers**: [ITV Careers](https://www.itvjobs.com/)
+
+##### ProSiebenSat.1
+
+- **Official Site**: [ProSiebenSat.1](https://www.prosiebensat1.com/en/)
+- **Products**: [Joyn](https://www.joyn.de/)
+
+##### Schibsted
+
+- **Official Site**: [Schibsted](https://schibsted.com/)
+- **Products**: [Finn.no](https://www.finn.no/) | [Aftonbladet](https://www.aftonbladet.se/) | [VG](https://www.vg.no/)
+- **GitHub**: [schibsted](https://github.com/schibsted)
+
+##### SoundCloud
+
+- **Official Site**: [SoundCloud](https://soundcloud.com/)
+- **Products**: [SoundCloud](https://soundcloud.com/)
+- **GitHub**: [soundcloud](https://github.com/soundcloud)
+- **Careers**: [SoundCloud Careers](https://careers.soundcloud.com/)
+
+##### Spotify
+
+- **Official Site**: [Spotify](https://spotify.com/)
+- **Products**: [Spotify](https://spotify.com/)
+- **Tech Blog**: [Spotify Engineering](https://engineering.atspotify.com/)
+- **GitHub**: [spotify](https://github.com/spotify)
+- **Careers**: [Spotify Careers](https://www.lifeatspotify.com/)
 
 #### 日韩
 
+##### AbemaTV
+
+- **Official Site**: [AbemaTV](https://abema.tv/)
+- **Products**: [AbemaTV](https://abema.tv/)
+- **Careers**: [CyberAgent Careers](https://www.cyberagent.co.jp/careers/)
+
+##### CJ ENM
+
+- **Official Site**: [CJ ENM](https://www.cjenm.com/)
+- **Products**: [CJ ENM](https://www.cjenm.com/)
+
+##### Naver
+
+- **Official Site**: [Naver](https://www.naver.com/)
+- **Products**: [Naver](https://www.naver.com/) | [LINE](https://line.me/)
+- **Tech Blog**: [NAVER D2](https://d2.naver.com/)
+- **GitHub**: [naver](https://github.com/naver)
+- **Careers**: [Naver Careers](https://recruit.navercorp.com/)
+
+##### Niconico
+
+- **Official Site**: [Niconico](https://www.nicovideo.jp/)
+- **Products**: [Niconico](https://www.nicovideo.jp/)
+- **Careers**: [Dwango Careers](https://dwango.co.jp/recruit/)
+
+##### U-NEXT
+
+- **Official Site**: [U-NEXT](https://video.unext.jp/)
+- **Products**: [U-NEXT](https://video.unext.jp/)
+- **Careers**: [U-NEXT Careers](https://careers.unext.co.jp/)
+
+##### Yahoo! JAPAN
+
+- **Official Site**: [Yahoo! JAPAN](https://www.yahoo.co.jp/)
+- **Products**: [Yahoo! JAPAN](https://www.yahoo.co.jp/)
+- **Tech Blog**: [Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/)
+- **Developer Community**: [Yahoo! JAPAN Developer Network](https://developer.yahoo.co.jp/)
+- **GitHub**: [yahoojapan](https://github.com/yahoojapan)
+- **Careers**: [LY Corporation 採用情報](https://www.lycorp.co.jp/ja/recruit/)
+
 #### 东南亚
+
+##### TrueID
+
+- **Official Site**: [TrueID](https://www.trueid.net/)
+- **Products**: [TrueID](https://www.trueid.net/)
+
+##### Viddsee
+
+- **Official Site**: [Viddsee](https://www.viddsee.com/)
+- **Products**: [Viddsee](https://www.viddsee.com/)
+
+##### Vidio
+
+- **Official Site**: [Vidio](https://www.vidio.com/)
+- **Products**: [Vidio](https://www.vidio.com/)
+- **Careers**: [Vidio Careers](https://careers.vidio.com/careers)
+
+##### Viu
+
+- **Official Site**: [Viu](https://www.viu.com/)
+- **Products**: [Viu](https://www.viu.com/)
+- **Careers**: [Viu Careers](https://www.hq.viu.com/careers)
 
 ### 游戏
 
 #### 中国
 
+##### 畅游
+
+- **集团官网**: [畅游](https://www.changyou.com/)
+- **核心产品**: [天龙八部](https://tl.changyou.com/)
+- **招聘**: [畅游校园招聘](https://campus.changyou.com/)
+
+##### 叠纸游戏
+
+- **集团官网**: [叠纸游戏](https://www.papegames.com/)
+- **核心产品**: [叠纸游戏](https://www.papegames.com/)
+- **招聘**: [叠纸游戏招聘](https://career.papegames.com/)
+
+##### 巨人网络
+
+- **集团官网**: [巨人网络](https://www.ztgame.com/)
+- **核心产品**: [巨人网络](https://www.ztgame.com/)
+- **招聘**: [巨人网络招聘](https://hr.ztgame.com/)
+
+##### 库洛游戏
+
+- **集团官网**: [库洛游戏](https://www.kurogames.com/)
+- **核心产品**: [鸣潮](https://mc.kurogame.com/)
+- **招聘**: [库洛游戏招聘](https://www.kurogames.com/join)
+
+##### 莉莉丝
+
+- **集团官网**: [莉莉丝游戏](https://www.lilith.com/)
+- **核心产品**: [莉莉丝游戏](https://www.lilith.com/)
+- **招聘**: [莉莉丝招聘](https://jobs.lilith.com/)
+
+##### 米哈游
+
+- **集团官网**: [米哈游](https://www.mihoyo.com/)
+- **核心产品**: [原神](https://ys.mihoyo.com/) | [米游社](https://www.miyoushe.com/)
+- **招聘**: [米哈游招聘](https://jobs.mihoyo.com/)
+
+##### 三七互娱
+
+- **集团官网**: [三七互娱](https://www.37.com/)
+- **核心产品**: [三七互娱](https://www.37.com/)
+- **招聘**: [三七互娱招聘](https://zhaopin.37.com/)
+
+##### 盛趣游戏
+
+- **集团官网**: [盛趣游戏](https://www.shengqugames.com/)
+- **核心产品**: [盛趣游戏](https://www.shengqugames.com/)
+- **招聘**: [盛趣游戏招聘](https://www.shengqugames.com/cn/join)
+
+##### 完美世界
+
+- **集团官网**: [完美世界](https://www.wanmei.com/)
+- **核心产品**: [完美世界游戏](https://games.wanmei.com/)
+- **招聘**: [完美世界招聘](https://jobs.games.wanmei.com/)
+
+##### 西山居
+
+- **集团官网**: [西山居](https://www.seasungames.cn/)
+- **核心产品**: [剑网3](https://jx3.xoyo.com/)
+- **招聘**: [西山居招聘](https://job.seasungames.cn/)
+
+##### 心动公司
+
+- **集团官网**: [心动公司](https://www.xd.com/)
+- **核心产品**: [TapTap](https://www.taptap.cn/)
+- **开发者社区**: [TapTap 开发者中心](https://developer.taptap.cn/)
+- **招聘**: [心动招聘](https://www.xd.com/hr/)
+
+##### 鹰角网络
+
+- **集团官网**: [鹰角网络](https://www.hypergryph.com/)
+- **核心产品**: [明日方舟](https://ak.hypergryph.com/)
+- **招聘**: [鹰角网络招聘](https://career.hypergryph.com/)
+
 #### 美国
+
+##### Activision Blizzard
+
+- **Official Site**: [Activision Blizzard](https://www.activisionblizzard.com/)
+- **Products**: [Call of Duty](https://www.callofduty.com/) | [Warcraft](https://worldofwarcraft.blizzard.com/) | [Overwatch](https://overwatch.blizzard.com/)
+- **Careers**: [Blizzard Careers](https://careers.blizzard.com/)
+
+##### Bungie
+
+- **Official Site**: [Bungie](https://www.bungie.net/)
+- **Products**: [Destiny 2](https://www.bungie.net/7/en/Destiny)
+- **Careers**: [Bungie Careers](https://careers.bungie.com/)
+
+##### Electronic Arts
+
+- **Official Site**: [EA](https://www.ea.com/)
+- **Products**: [EA](https://www.ea.com/)
+- **Careers**: [EA Careers](https://www.ea.com/careers/)
+
+##### Epic Games
+
+- **Official Site**: [Epic Games](https://www.epicgames.com/)
+- **Products**: [Fortnite](https://www.fortnite.com/) | [Unreal Engine](https://www.unrealengine.com/)
+- **Developer Community**: [Epic Developer Community](https://dev.epicgames.com/)
+- **GitHub**: [EpicGames](https://github.com/EpicGames)
+- **Careers**: [Epic Games Careers](https://www.epicgames.com/careers/)
+
+##### Riot Games
+
+- **Official Site**: [Riot Games](https://www.riotgames.com/)
+- **Products**: [League of Legends](https://www.leagueoflegends.com/) | [Valorant](https://playvalorant.com/)
+- **Tech Blog**: [Riot Games Tech Blog](https://technology.riotgames.com/)
+- **Developer Community**: [Riot Developer Portal](https://developers.riotgames.com/)
+- **GitHub**: [riotgames](https://github.com/riotgames)
+- **Careers**: [Riot Games Careers](https://www.riotgames.com/en-us/work-with-us/jobs/)
+
+##### Roblox
+
+- **Official Site**: [Roblox](https://corp.roblox.com/)
+- **Products**: [Roblox](https://www.roblox.com/)
+- **Developer Community**: [Roblox Creator Hub](https://create.roblox.com/)
+- **GitHub**: [Roblox](https://github.com/Roblox)
+- **Careers**: [Roblox Careers](https://corp.roblox.com/careers/)
+
+##### Take-Two Interactive
+
+- **Official Site**: [Take-Two Interactive](https://www.taketwogames.com/)
+- **Products**: [Rockstar Games](https://www.rockstargames.com/) | [2K](https://www.2k.com/)
+- **Careers**: [Take-Two Careers](https://www.taketwogames.com/careers/)
+
+##### Unity
+
+- **Official Site**: [Unity](https://unity.com/)
+- **Products**: [Unity](https://unity.com/)
+- **Developer Community**: [Unity Forum](https://forum.unity.com/)
+- **GitHub**: [Unity-Technologies](https://github.com/Unity-Technologies)
+- **Careers**: [Unity Careers](https://careers.unity.com/)
+
+##### Valve
+
+- **Official Site**: [Valve Corporation](https://www.valvesoftware.com/)
+- **Products**: [Steam](https://store.steampowered.com/)
+- **GitHub**: [ValveSoftware](https://github.com/ValveSoftware)
+- **Careers**: [Valve Jobs](https://www.valvesoftware.com/en/jobs)
+
+##### Zynga
+
+- **Official Site**: [Zynga](https://www.zynga.com/)
+- **Products**: [Zynga](https://www.zynga.com/)
+- **GitHub**: [zynga](https://github.com/zynga)
+- **Careers**: [Zynga Careers](https://www.zynga.com/careers/)
 
 #### 欧洲
 
+##### CD Projekt
+
+- **Official Site**: [CD Projekt](https://www.cdprojekt.com/en/)
+- **Products**: [GOG](https://www.gog.com/) | [The Witcher](https://thewitcher.com/) | [Cyberpunk 2077](https://cyberpunk.net/)
+- **Careers**: [CD Projekt Careers](https://www.cdprojekt.com/en/careers/)
+
+##### King
+
+- **Official Site**: [King](https://www.king.com/)
+- **Products**: [Candy Crush Saga](https://www.king.com/game/candycrush)
+- **GitHub**: [king](https://github.com/king)
+- **Careers**: [King Careers](https://careers.king.com/)
+
+##### Supercell
+
+- **Official Site**: [Supercell](https://supercell.com/en/)
+- **Careers**: [Supercell Careers](https://supercell.com/en/careers/)
+
+##### Ubisoft
+
+- **Official Site**: [Ubisoft](https://www.ubisoft.com/en-us/)
+- **Products**: [Ubisoft](https://www.ubisoft.com/en-us/)
+- **GitHub**: [Ubisoft](https://github.com/Ubisoft)
+- **Careers**: [Ubisoft Careers](https://www.ubisoft.com/en-us/company/careers)
+
 #### 日韩
 
+##### Nexon
+
+- **Official Site**: [Nexon](https://www.nexon.com/)
+- **Products**: [MapleStory](https://maplestory.nexon.net/)
+- **Careers**: [Nexon Careers](https://careers.nexon.com/)
+
+##### Nintendo
+
+- **Official Site**: [Nintendo](https://www.nintendo.com/)
+- **Products**: [Nintendo Switch](https://www.nintendo.com/switch/)
+- **Careers**: [Nintendo Careers](https://careers.nintendo.com/)
+
+##### Square Enix
+
+- **Official Site**: [Square Enix](https://www.square-enix.com/)
+- **Products**: [Final Fantasy](https://www.finalfantasy.com/)
+- **Careers**: [Square Enix Careers](https://www.square-enix-games.com/en_US/careers)
+
 #### 东南亚
+
+##### Garena
+
+- **Official Site**: [Garena](https://www.garena.sg/)
+- **Products**: [Free Fire](https://ff.garena.com/)
+- **Careers**: [Garena Careers](https://careers.garena.com/)
 
 ### 搜索/工具
 
