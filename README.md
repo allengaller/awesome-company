@@ -102,20 +102,15 @@ A curated navigation list of global technology companies — official sites, pro
 - **核心产品**: [网易严选](https://you.163.com/)
 - **招聘**: [网易严选招聘](https://hr.163.com/product.html/yanxuan?workType=1&lang=zh)
 
-##### 小米有品
-
-- **集团官网**: [小米有品](https://www.xiaomiyoupin.com/)
-- **核心产品**: [小米有品](https://www.xiaomiyoupin.com/)
-
 ##### 国美
 
 - **集团官网**: [国美](http://www.gome.com.cn/)
 - **核心产品**: [国美在线](http://www.gome.com.cn/)
 
-##### 小红书
+##### 小米有品
 
-- **集团官网**: [小红书](https://www.xiaohongshu.com/)
-- **核心产品**: [小红书](https://www.xiaohongshu.com/)
+- **集团官网**: [小米有品](https://www.xiaomiyoupin.com/)
+- **核心产品**: [小米有品](https://www.xiaomiyoupin.com/)
 
 #### 美国
 
@@ -363,6 +358,11 @@ A curated navigation list of global technology companies — official sites, pro
 - **核心产品**: [雪球](https://xueqiu.com/)
 - **招聘**: [雪球招聘](https://xueqiu.com/about/jobs)
 
+##### 小红书
+
+- **集团官网**: [小红书](https://www.xiaohongshu.com/)
+- **核心产品**: [小红书](https://www.xiaohongshu.com/)
+
 #### 美国
 
 ##### Meta
@@ -462,12 +462,6 @@ A curated navigation list of global technology companies — official sites, pro
 - **Products**: [Badoo](https://badoo.com/)
 - **Tech Blog**: [Badoo Tech Blog](https://github.com/badoo/techblog)
 - **GitHub**: [badoo](https://github.com/badoo)
-
-##### Tuenti
-
-- **Official Site**: [Tuenti](https://www.tuenti.com/)
-- **Products**: [Tuenti](https://www.tuenti.com/)
-- **GitHub**: [tuenti](https://github.com/tuenti)
 
 #### 日韩
 
@@ -1961,11 +1955,311 @@ A curated navigation list of global technology companies — official sites, pro
 
 #### 中国
 
+##### 百川智能
+
+- **集团官网**: [百川智能](https://www.baichuan-ai.com/)
+- **核心产品**: [百川大模型](https://www.baichuan-ai.com/) | [百小应](https://www.baichuan-ai.com/)
+- **GitHub**: [baichuan-inc](https://github.com/baichuan-inc)
+- **招聘**: [百川智能招聘](https://cq6qe6bvfr6.jobs.feishu.cn/)
+
+##### 出门问问
+
+- **集团官网**: [出门问问](https://www.chumenwenwen.com/)
+- **核心产品**: [出门问问](https://www.chumenwenwen.com/)
+- **招聘**: [出门问问招聘](https://mobvoi.jobs.feishu.cn/)
+
+##### 第四范式
+
+- **集团官网**: [第四范式](https://www.4paradigm.com/)
+- **核心产品**: [第四范式 AIOS](https://www.4paradigm.com/)
+- **GitHub**: [4paradigm](https://github.com/4paradigm)
+- **招聘**: [第四范式招聘](https://www.4paradigm.com/about/hr.html)
+
+##### 科大讯飞
+
+- **集团官网**: [科大讯飞](https://www.iflytek.com/)
+- **核心产品**: [讯飞星火大模型](https://xinghuo.xfyun.cn/)
+- **招聘**: [科大讯飞招聘](https://iflytek.zhiye.com/)
+
+##### 旷视科技
+
+- **集团官网**: [旷视科技](https://www.megvii.com/)
+- **核心产品**: [Face++](https://www.faceplusplus.com/) | [FaceID](https://www.megvii.com/solutions/FaceIDEE)
+- **GitHub**: [Face++](https://github.com/faceplusplus)
+- **招聘**: [旷视科技招聘](https://www.megvii.com/AI_Documentation/Proposal)
+
+##### 面壁智能
+
+- **集团官网**: [面壁智能](https://modelbest.cn/)
+- **核心产品**: [MiniCPM](https://modelbest.cn/)
+- **GitHub**: [OpenBMB](https://github.com/OpenBMB)
+- **招聘**: [面壁智能招聘](https://modelbest.jobs.feishu.cn/career/m/)
+
+##### MiniMax
+
+- **集团官网**: [MiniMax](https://www.minimaxi.com/)
+- **核心产品**: [海螺AI](https://hailuoai.com/) | [MiniMax 开放平台](https://www.minimaxi.com/platform)
+- **GitHub**: [MiniMax-AI](https://github.com/MiniMax-AI)
+- **招聘**: [MiniMax 招聘](https://www.minimaxi.com/careers)
+
+##### 商汤科技
+
+- **集团官网**: [商汤科技](https://www.sensetime.com/)
+- **核心产品**: [SenseNova 日日新](https://www.sensetime.com/cn/product-detail?categoryId=51123972&gio_link_id=xogG1blq)
+- **GitHub**: [SenseTime](https://github.com/sensetime)
+- **招聘**: [商汤科技招聘](https://www.sensetime.com/cn/join-us)
+
+##### 深度求索
+
+- **集团官网**: [DeepSeek](https://www.deepseek.com/)
+- **核心产品**: [DeepSeek](https://www.deepseek.com/)
+- **GitHub**: [deepseek-ai](https://github.com/deepseek-ai)
+- **招聘**: [DeepSeek 招聘](https://talent.deepseek.com/)
+
+##### 依图科技
+
+- **集团官网**: [依图科技](https://www.yitutech.com/)
+- **核心产品**: [依图科技](https://www.yitutech.com/cn)
+- **招聘**: [依图科技招聘](https://www.yitutech.com/cn/join-us)
+
+##### 云从科技
+
+- **集团官网**: [云从科技](https://www.cloudwalk.cn/)
+- **核心产品**: [云从科技](https://www.cloudwalk.cn/)
+- **招聘**: [云从科技招聘](https://www.cloudwalk.cn/Join)
+
+##### 云知声
+
+- **集团官网**: [云知声](https://www.unisound.com/)
+- **核心产品**: [山海大模型](https://ai.unisound.com/shanhai-largeModel)
+- **招聘**: [云知声招聘](http://campus.51job.com/yzs/)
+
+##### 智谱AI
+
+- **集团官网**: [智谱AI](https://www.zhipuai.cn/)
+- **核心产品**: [智谱清言](https://chatglm.cn/) | [BigModel 开放平台](https://open.bigmodel.cn/)
+- **GitHub**: [THUDM](https://github.com/THUDM)
+- **招聘**: [智谱AI招聘](https://www.zhipuai.cn/zh)
+
+##### 阶跃星辰
+
+- **集团官网**: [阶跃星辰](https://www.stepfun.com/)
+- **核心产品**: [阶跃星辰开放平台](https://platform.stepfun.com/)
+- **GitHub**: [stepfun-ai](https://github.com/stepfun-ai)
+- **招聘**: [阶跃星辰招聘](https://www.stepfun.com/)
+
+##### 零一万物
+
+- **集团官网**: [零一万物](https://www.lingyiwanwu.com/)
+- **核心产品**: [Yi 大模型](https://www.lingyiwanwu.com/)
+- **GitHub**: [01-ai](https://github.com/01-ai)
+- **招聘**: [零一万物招聘](https://www.lingyiwanwu.com/careers.html)
+
+##### 月之暗面
+
+- **集团官网**: [月之暗面](https://www.moonshot.cn/)
+- **核心产品**: [Kimi](https://kimi.moonshot.cn/)
+- **GitHub**: [moonshotai](https://github.com/moonshotai)
+- **招聘**: [月之暗面招聘](https://careers.kimi.com/)
+
 #### 美国
+
+##### AI21 Labs
+
+- **Official Site**: [AI21 Labs](https://www.ai21.com/)
+- **Products**: [Jamba](https://www.ai21.com/jamba)
+- **Tech Blog**: [AI21 Blog](https://www.ai21.com/blog/)
+- **GitHub**: [AI21 Labs](https://github.com/AI21Labs)
+- **Careers**: [AI21 Careers](https://www.ai21.com/careers/)
+
+##### Anthropic
+
+- **Official Site**: [Anthropic](https://www.anthropic.com/)
+- **Products**: [Claude](https://claude.ai/)
+- **Tech Blog**: [Anthropic Research](https://www.anthropic.com/research)
+- **GitHub**: [anthropics](https://github.com/anthropics)
+- **Careers**: [Anthropic Careers](https://www.anthropic.com/careers)
+
+##### Cerebras
+
+- **Official Site**: [Cerebras](https://www.cerebras.ai/)
+- **Products**: [Cerebras CS-3](https://www.cerebras.ai/product-chip)
+- **Tech Blog**: [Cerebras Blog](https://www.cerebras.ai/blog)
+- **Careers**: [Cerebras Careers](https://www.cerebras.ai/open-positions)
+
+##### Character.AI
+
+- **Official Site**: [Character.AI](https://character.ai/)
+- **Products**: [Character.AI](https://character.ai/)
+- **Tech Blog**: [Character.AI Blog](https://blog.character.ai/)
+- **Careers**: [Character.AI Careers](https://character.ai/careers)
+
+##### Cognition AI
+
+- **Official Site**: [Cognition](https://cognition.com/)
+- **Products**: [Devin](https://devin.ai/)
+- **Careers**: [Cognition Careers](https://cognition.com/careers)
+
+##### Cohere
+
+- **Official Site**: [Cohere](https://cohere.com/)
+- **Products**: [Command](https://cohere.com/command) | [Embed](https://cohere.com/embed)
+- **Tech Blog**: [Cohere Blog](https://cohere.com/blog)
+- **GitHub**: [cohere-ai](https://github.com/cohere-ai)
+- **Careers**: [Cohere Careers](https://cohere.com/careers)
+
+##### Databricks
+
+- **Official Site**: [Databricks](https://www.databricks.com/)
+- **Products**: [Databricks Data Intelligence Platform](https://www.databricks.com/product/data-lakehouse)
+- **Tech Blog**: [Databricks Blog](https://www.databricks.com/blog)
+- **Developer Community**: [Databricks Community](https://community.databricks.com/)
+- **GitHub**: [databricks](https://github.com/databricks)
+- **Careers**: [Databricks Careers](https://www.databricks.com/company/careers)
+
+##### Fireworks AI
+
+- **Official Site**: [Fireworks AI](https://fireworks.ai/)
+- **Products**: [Fireworks AI](https://fireworks.ai/)
+- **Careers**: [Fireworks AI Careers](https://fireworks.ai/careers)
+
+##### Groq
+
+- **Official Site**: [Groq](https://groq.com/)
+- **Products**: [GroqCloud](https://groq.com/cloud)
+- **Tech Blog**: [Groq Blog](https://groq.com/blog)
+- **Careers**: [Groq Careers](https://groq.com/company)
+
+##### Hugging Face
+
+- **Official Site**: [Hugging Face](https://huggingface.co/)
+- **Products**: [Hugging Face Hub](https://huggingface.co/models)
+- **Tech Blog**: [Hugging Face Blog](https://huggingface.co/blog)
+- **GitHub**: [huggingface](https://github.com/huggingface)
+- **Careers**: [Hugging Face Careers](https://huggingface.co/jobs)
+
+##### Inflection AI
+
+- **Official Site**: [Inflection AI](https://inflection.ai/)
+- **Products**: [Pi](https://inflection.ai/)
+- **Careers**: [Inflection AI Careers](https://inflection.ai/careers)
+
+##### Midjourney
+
+- **Official Site**: [Midjourney](https://www.midjourney.com/)
+- **Products**: [Midjourney](https://www.midjourney.com/)
+- **Careers**: [Midjourney Careers](https://www.midjourney.com/careers)
+
+##### OpenAI
+
+- **Official Site**: [OpenAI](https://openai.com/)
+- **Products**: [ChatGPT](https://chat.openai.com/) | [OpenAI API](https://platform.openai.com/)
+- **Tech Blog**: [OpenAI Blog](https://openai.com/blog)
+- **GitHub**: [openai](https://github.com/openai)
+- **Careers**: [OpenAI Careers](https://openai.com/careers)
+
+##### Perplexity AI
+
+- **Official Site**: [Perplexity AI](https://www.perplexity.ai/)
+- **Products**: [Perplexity](https://www.perplexity.ai/)
+- **Tech Blog**: [Perplexity Blog](https://www.perplexity.ai/hub/blog)
+- **Careers**: [Perplexity Careers](https://www.perplexity.ai/hub/careers)
+
+##### Runway
+
+- **Official Site**: [Runway](https://runway.com/)
+- **Products**: [Runway](https://runway.com/)
+- **Careers**: [Runway Careers](https://runway.com/careers)
+
+##### SambaNova
+
+- **Official Site**: [SambaNova](https://sambanova.ai/)
+- **Products**: [SambaNova Suite](https://sambanova.ai/)
+- **Careers**: [SambaNova Careers](https://sambanova.ai/company/careers)
+
+##### Scale AI
+
+- **Official Site**: [Scale AI](https://scale.com/)
+- **Products**: [Scale Data Engine](https://scale.com/data-engine) | [Scale GenAI Platform](https://scale.com/genai-platform)
+- **Tech Blog**: [Scale AI Blog](https://scale.com/blog)
+- **Careers**: [Scale AI Careers](https://scale.com/careers)
+
+##### Sierra AI
+
+- **Official Site**: [Sierra AI](https://sierra.ai/)
+- **Products**: [Sierra](https://sierra.ai/)
+- **Careers**: [Sierra Careers](https://sierra.ai/careers)
+
+##### Stability AI
+
+- **Official Site**: [Stability AI](https://stability.ai/)
+- **Products**: [Stable Diffusion](https://stability.ai/stable-diffusion)
+- **Tech Blog**: [Stability AI News](https://stability.ai/news-updates)
+- **GitHub**: [Stability-AI](https://github.com/stability-ai)
+- **Careers**: [Stability AI Careers](https://stability.ai/careers)
+
+##### Together AI
+
+- **Official Site**: [Together AI](https://www.together.ai/)
+- **Products**: [Together AI](https://www.together.ai/)
+- **Tech Blog**: [Together AI Blog](https://www.together.ai/blog)
+- **Careers**: [Together AI Careers](https://www.together.ai/careers)
+
+##### xAI
+
+- **Official Site**: [xAI](https://x.ai/)
+- **Products**: [Grok](https://x.ai/)
+- **Careers**: [xAI Careers](https://x.ai/careers)
 
 #### 欧洲
 
+##### Darktrace
+
+- **Official Site**: [Darktrace](https://www.darktrace.com/)
+- **Products**: [Darktrace Cyber AI](https://www.darktrace.com/)
+- **Tech Blog**: [Darktrace Blog](https://www.darktrace.com/blog)
+- **Careers**: [Darktrace Careers](https://www.darktrace.com/careers)
+
+##### DeepMind（Google）
+
+- **Official Site**: [Google DeepMind](https://deepmind.google/)
+- **Products**: [Gemini](https://deepmind.google/technologies/gemini/)
+- **Tech Blog**: [DeepMind Blog](https://deepmind.google/blog/)
+- **Careers**: [DeepMind Careers](https://deepmind.google/careers/)
+
+##### Graphcore
+
+- **Official Site**: [Graphcore](https://www.graphcore.ai/)
+- **Products**: [Graphcore IPU](https://www.graphcore.ai/)
+- **Careers**: [Graphcore Careers](https://www.graphcore.ai/careers)
+
+##### Mistral AI
+
+- **Official Site**: [Mistral AI](https://mistral.ai/)
+- **Products**: [Mistral AI](https://mistral.ai/)
+- **Tech Blog**: [Mistral AI News](https://mistral.ai/news/)
+- **GitHub**: [mistralai](https://github.com/mistralai)
+- **Careers**: [Mistral AI Careers](https://mistral.ai/careers/)
+
 #### 日韩
+
+##### Preferred Networks
+
+- **Official Site**: [Preferred Networks](https://www.preferred.jp/en)
+- **Products**: [Preferred Networks](https://www.preferred.jp/en)
+- **Careers**: [Preferred Networks Careers](https://www.preferred.jp/en/careers)
+
+##### Sakana AI
+
+- **Official Site**: [Sakana AI](https://sakana.ai/)
+- **Products**: [Sakana AI](https://sakana.ai/)
+- **Careers**: [Sakana AI Careers](https://sakana.ai/careers/)
+
+##### Upstage
+
+- **Official Site**: [Upstage](https://www.upstage.ai/)
+- **Products**: [Upstage](https://www.upstage.ai/)
+- **Careers**: [Upstage Careers](https://www.upstage.ai/careers)
 
 #### 东南亚
 
@@ -1973,11 +2267,192 @@ A curated navigation list of global technology companies — official sites, pro
 
 #### 中国
 
+##### 360企业安全
+
+- **集团官网**: [360企业安全](https://www.360.cn/)
+- **核心产品**: [360企业安全云](https://www.360.cn/)
+- **招聘**: [360招聘](https://hr.360.cn/)
+
+##### 绿盟科技
+
+- **集团官网**: [绿盟科技](https://www.nsfocus.com.cn/)
+- **核心产品**: [绿盟科技](https://www.nsfocus.com.cn/)
+- **招聘**: [绿盟科技招聘](https://www.nsfocus.com.cn/campus/)
+
+##### OceanBase（蚂蚁集团）
+
+- **集团官网**: [OceanBase](https://www.oceanbase.com/)
+- **核心产品**: [OceanBase](https://www.oceanbase.com/)
+- **GitHub**: [oceanbase](https://github.com/oceanbase)
+- **招聘**: [OceanBase 招聘](https://www.oceanbase.com/careers)
+
+##### PingCAP
+
+- **集团官网**: [PingCAP](https://www.pingcap.com/)
+- **核心产品**: [TiDB](https://www.pingcap.com/tidb/)
+- **技术博客**: [PingCAP Blog](https://www.pingcap.com/blog/)
+- **GitHub**: [pingcap](https://github.com/pingcap)
+- **招聘**: [PingCAP 招聘](https://careers.pingcap.com/)
+
+##### 奇安信
+
+- **集团官网**: [奇安信](https://www.qianxin.com/)
+- **核心产品**: [QAX-GPT 安全大模型](https://www.qianxin.com/product/detail/pid/496)
+- **招聘**: [奇安信招聘](https://www.hotjob.cn/wt/qianxin/web/index)
+
+##### 深信服
+
+- **集团官网**: [深信服](https://www.sangfor.com.cn/)
+- **核心产品**: [深信服](https://www.sangfor.com.cn/)
+- **技术博客**: [深信服技术博客](https://www.sangfor.com.cn/blog)
+- **招聘**: [深信服招聘](https://www.sangfor.com.cn/about-us/careers)
+
+##### SelectDB
+
+- **集团官网**: [SelectDB](https://www.selectdb.com/)
+- **核心产品**: [Apache Doris](https://doris.apache.org/) | [SelectDB](https://www.selectdb.com/)
+- **技术博客**: [SelectDB Blog](https://www.selectdb.com/blog)
+- **招聘**: [SelectDB 招聘](https://www.selectdb.com/join-us)
+
+##### StarRocks
+
+- **集团官网**: [StarRocks](https://www.starrocks.io/)
+- **核心产品**: [StarRocks](https://www.starrocks.io/)
+- **GitHub**: [StarRocks](https://github.com/StarRocks)
+- **招聘**: [StarRocks 招聘](https://www.starrocks.io/careers)
+
 #### 美国
+
+##### ClickHouse
+
+- **Official Site**: [ClickHouse](https://clickhouse.com/)
+- **Products**: [ClickHouse](https://clickhouse.com/)
+- **Tech Blog**: [ClickHouse Blog](https://clickhouse.com/blog)
+- **GitHub**: [ClickHouse](https://github.com/ClickHouse)
+- **Careers**: [ClickHouse Careers](https://clickhouse.com/company/careers)
+
+##### Cockroach Labs
+
+- **Official Site**: [Cockroach Labs](https://www.cockroachlabs.com/)
+- **Products**: [CockroachDB](https://www.cockroachlabs.com/)
+- **Tech Blog**: [Cockroach Labs Blog](https://www.cockroachlabs.com/blog/)
+- **Careers**: [Cockroach Labs Careers](https://www.cockroachlabs.com/careers/)
+
+##### Confluent
+
+- **Official Site**: [Confluent](https://www.confluent.io/)
+- **Products**: [Confluent Cloud](https://www.confluent.io/confluent-cloud/)
+- **Tech Blog**: [Confluent Blog](https://www.confluent.io/blog/)
+- **GitHub**: [confluentinc](https://github.com/confluentinc)
+- **Careers**: [Confluent Careers](https://www.confluent.io/careers/)
+
+##### CrowdStrike
+
+- **Official Site**: [CrowdStrike](https://www.crowdstrike.com/)
+- **Products**: [CrowdStrike Falcon](https://www.crowdstrike.com/platform/)
+- **Tech Blog**: [CrowdStrike Blog](https://www.crowdstrike.com/en-us/blog/)
+- **GitHub**: [CrowdStrike](https://github.com/CrowdStrike)
+- **Careers**: [CrowdStrike Careers](https://www.crowdstrike.com/en-us/careers/)
+
+##### Elastic
+
+- **Official Site**: [Elastic](https://www.elastic.co/)
+- **Products**: [Elasticsearch](https://www.elastic.co/elasticsearch/) | [Kibana](https://www.elastic.co/kibana/)
+- **Tech Blog**: [Elastic Blog](https://www.elastic.co/blog)
+- **GitHub**: [elastic](https://github.com/elastic)
+- **Careers**: [Elastic Careers](https://www.elastic.co/about/careers)
+
+##### Fortinet
+
+- **Official Site**: [Fortinet](https://www.fortinet.com/)
+- **Products**: [FortiGate](https://www.fortinet.com/products/next-generation-firewall)
+- **Tech Blog**: [Fortinet Blog](https://www.fortinet.com/blog)
+- **GitHub**: [fortinet](https://github.com/fortinet)
+- **Careers**: [Fortinet Careers](https://www.fortinet.com/corporate/careers)
+
+##### MongoDB
+
+- **Official Site**: [MongoDB](https://www.mongodb.com/)
+- **Products**: [MongoDB Atlas](https://www.mongodb.com/atlas)
+- **Tech Blog**: [MongoDB Blog](https://www.mongodb.com/blog)
+- **Developer Community**: [MongoDB Developer Center](https://www.mongodb.com/developer)
+- **GitHub**: [mongodb](https://github.com/mongodb)
+- **Careers**: [MongoDB Careers](https://www.mongodb.com/careers)
+
+##### Okta
+
+- **Official Site**: [Okta](https://www.okta.com/)
+- **Products**: [Okta Identity Cloud](https://www.okta.com/)
+- **Tech Blog**: [Okta Developer Blog](https://developer.okta.com/blog/)
+- **GitHub**: [okta](https://github.com/okta)
+- **Careers**: [Okta Careers](https://www.okta.com/company/careers/)
+
+##### Palo Alto Networks
+
+- **Official Site**: [Palo Alto Networks](https://www.paloaltonetworks.com/)
+- **Products**: [Palo Alto Networks](https://www.paloaltonetworks.com/)
+- **Tech Blog**: [Palo Alto Networks Blog](https://www.paloaltonetworks.com/blog/)
+- **GitHub**: [PaloAltoNetworks](https://github.com/PaloAltoNetworks)
+- **Careers**: [Palo Alto Networks Careers](https://www.paloaltonetworks.com/company/careers)
+
+##### Redis
+
+- **Official Site**: [Redis](https://redis.io/)
+- **Products**: [Redis Enterprise](https://redis.io/redis-enterprise/)
+- **Tech Blog**: [Redis Blog](https://redis.io/blog/)
+- **GitHub**: [redis](https://github.com/redis)
+- **Careers**: [Redis Careers](https://redis.io/careers/)
+
+##### SentinelOne
+
+- **Official Site**: [SentinelOne](https://www.sentinelone.com/)
+- **Products**: [SentinelOne Singularity](https://www.sentinelone.com/platform/)
+- **Tech Blog**: [SentinelOne Blog](https://www.sentinelone.com/blog/)
+- **GitHub**: [Sentinel-One](https://github.com/Sentinel-One)
+- **Careers**: [SentinelOne Careers](https://www.sentinelone.com/careers/)
+
+##### Snowflake
+
+- **Official Site**: [Snowflake](https://www.snowflake.com/)
+- **Products**: [Snowflake Data Cloud](https://www.snowflake.com/)
+- **Tech Blog**: [Snowflake Blog](https://www.snowflake.com/blog/)
+- **GitHub**: [snowflakedb](https://github.com/snowflakedb)
+- **Careers**: [Snowflake Careers](https://www.snowflake.com/careers/)
+
+##### Zilliz
+
+- **Official Site**: [Zilliz](https://zilliz.com/)
+- **Products**: [Milvus](https://milvus.io/) | [Zilliz Cloud](https://zilliz.com/cloud)
+- **Tech Blog**: [Zilliz Blog](https://zilliz.com/blog)
+- **GitHub**: [zilliztech](https://github.com/zilliztech)
+- **Careers**: [Zilliz Careers](https://zilliz.com/careers)
 
 #### 欧洲
 
+##### MariaDB
+
+- **Official Site**: [MariaDB](https://mariadb.com/)
+- **Products**: [MariaDB Server](https://mariadb.com/products/server/)
+- **Tech Blog**: [MariaDB Blog](https://mariadb.org/blog/)
+- **GitHub**: [MariaDB](https://github.com/MariaDB)
+- **Careers**: [MariaDB Careers](https://mariadb.com/about/careers/)
+
+##### SUSE
+
+- **Official Site**: [SUSE](https://www.suse.com/)
+- **Products**: [SUSE Linux Enterprise](https://www.suse.com/products/server/) | [Rancher](https://www.suse.com/products/rancher/)
+- **Tech Blog**: [SUSE Blog](https://www.suse.com/c/blog/)
+- **GitHub**: [SUSE](https://github.com/SUSE)
+- **Careers**: [SUSE Careers](https://www.suse.com/company/careers/)
+
 #### 日韩
+
+##### Trend Micro
+
+- **Official Site**: [Trend Micro](https://www.trendmicro.com/)
+- **Products**: [Trend Micro](https://www.trendmicro.com/)
+- **Tech Blog**: [Trend Micro Research](https://www.trendmicro.com/en_us/research.html)
+- **Careers**: [Trend Micro Careers](https://www.trendmicro.com/en_us/about/careers.html)
 
 #### 东南亚
 
