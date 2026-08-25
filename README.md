@@ -102,15 +102,20 @@ A curated navigation list of global technology companies — official sites, pro
 - **核心产品**: [网易严选](https://you.163.com/)
 - **招聘**: [网易严选招聘](https://hr.163.com/product.html/yanxuan?workType=1&lang=zh)
 
+##### 小米有品
+
+- **集团官网**: [小米有品](https://www.xiaomiyoupin.com/)
+- **核心产品**: [小米有品](https://www.xiaomiyoupin.com/)
+
 ##### 国美
 
 - **集团官网**: [国美](http://www.gome.com.cn/)
 - **核心产品**: [国美在线](http://www.gome.com.cn/)
 
-##### 小米有品
+##### 小红书
 
-- **集团官网**: [小米有品](https://www.xiaomiyoupin.com/)
-- **核心产品**: [小米有品](https://www.xiaomiyoupin.com/)
+- **集团官网**: [小红书](https://www.xiaohongshu.com/)
+- **核心产品**: [小红书](https://www.xiaohongshu.com/)
 
 #### 美国
 
@@ -358,11 +363,6 @@ A curated navigation list of global technology companies — official sites, pro
 - **核心产品**: [雪球](https://xueqiu.com/)
 - **招聘**: [雪球招聘](https://xueqiu.com/about/jobs)
 
-##### 小红书
-
-- **集团官网**: [小红书](https://www.xiaohongshu.com/)
-- **核心产品**: [小红书](https://www.xiaohongshu.com/)
-
 #### 美国
 
 ##### Meta
@@ -462,6 +462,12 @@ A curated navigation list of global technology companies — official sites, pro
 - **Products**: [Badoo](https://badoo.com/)
 - **Tech Blog**: [Badoo Tech Blog](https://github.com/badoo/techblog)
 - **GitHub**: [badoo](https://github.com/badoo)
+
+##### Tuenti
+
+- **Official Site**: [Tuenti](https://www.tuenti.com/)
+- **Products**: [Tuenti](https://www.tuenti.com/)
+- **GitHub**: [tuenti](https://github.com/tuenti)
 
 #### 日韩
 
