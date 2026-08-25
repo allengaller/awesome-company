@@ -1237,7 +1237,225 @@ A curated navigation list of global technology companies — official sites, pro
 
 #### 中国
 
+##### Moka
+
+- **集团官网**: [Moka](https://www.mokahr.com/)
+- **核心产品**: [Moka 智能化招聘管理系统](https://www.mokahr.com/ats)
+
+##### ProcessOn
+
+- **集团官网**: [ProcessOn](https://www.processon.com/)
+- **核心产品**: [ProcessOn 在线作图](https://www.processon.com/)
+
+##### 北森
+
+- **集团官网**: [北森](https://www.beisen.com/)
+- **核心产品**: [北森一体化 HR SaaS](https://www.beisen.com/product/hrsaas/)
+
+##### 钉钉
+
+- **集团官网**: [钉钉（阿里巴巴）](https://www.dingtalk.com/)
+- **核心产品**: [钉钉](https://www.dingtalk.com/)
+- **开发者社区**: [钉钉开放平台](https://open.dingtalk.com/)
+
+##### 泛微
+
+- **集团官网**: [泛微](https://www.weaver.com.cn/)
+- **核心产品**: [泛微协同管理 OA](https://www.weaver.com.cn/)
+- **招聘**: [泛微招聘](https://www.weaver.com.cn/recruit/social.html)
+
+##### 飞书
+
+- **集团官网**: [飞书（字节跳动）](https://www.feishu.cn/)
+- **核心产品**: [飞书](https://www.feishu.cn/)
+- **开发者社区**: [飞书开放平台](https://open.feishu.cn/)
+
+##### 纷享销客
+
+- **集团官网**: [纷享销客](https://www.fxiaoke.com/)
+- **核心产品**: [纷享销客 CRM](https://www.fxiaoke.com/)
+- **招聘**: [纷享销客招聘](https://www.fxiaoke.com/crm/about-join/)
+
+##### 金蝶
+
+- **集团官网**: [金蝶](https://www.kingdee.com/cn)
+- **核心产品**: [金蝶云·苍穹](https://www.kingdee.com/products/cosmic_platform.html)
+
+##### 金山办公
+
+- **集团官网**: [金山办公](https://www.wps.cn/)
+- **核心产品**: [WPS Office](https://www.wps.cn/)
+- **招聘**: [WPS 招聘中心](https://www.wps.cn/jobs/)
+
+##### 酷家乐
+
+- **集团官网**: [酷家乐（群核科技）](https://www.kujiale.com/)
+- **核心产品**: [酷家乐](https://www.kujiale.com/) | [Coohom](https://www.coohom.com/)
+- **招聘**: [群核科技招聘](https://www.kujiale.com/pub/hr-recruit/campus/inqunhe)
+
+##### 企业微信
+
+- **集团官网**: [企业微信（腾讯）](https://work.weixin.qq.com/)
+- **核心产品**: [企业微信](https://work.weixin.qq.com/)
+- **开发者社区**: [企业微信开发者中心](https://developer.work.weixin.qq.com/)
+
+##### 石墨文档
+
+- **集团官网**: [石墨文档](https://shimo.im/)
+- **核心产品**: [石墨文档](https://shimo.im/)
+
+##### 微盟
+
+- **集团官网**: [微盟](https://www.weimob.com/)
+- **核心产品**: [微盟智慧商业解决方案](https://www.weimob.com/)
+- **招聘**: [微盟招聘](https://job.weimob.com/talent/)
+
+##### 销售易
+
+- **集团官网**: [销售易](https://www.xiaoshouyi.com/)
+- **核心产品**: [销售易 NeoCRM](https://www.xiaoshouyi.com/)
+- **招聘**: [销售易招聘](https://www.xiaoshouyi.com/about-us/career)
+
+##### 用友
+
+- **集团官网**: [用友](https://www.yonyou.com/)
+- **核心产品**: [用友 BIP](https://www.yonyou.com/YonBIP/)
+- **招聘**: [用友招聘](https://career.yonyou.com/)
+
+##### 有赞
+
+- **集团官网**: [有赞](https://www.youzan.com/)
+- **核心产品**: [有赞](https://www.youzan.com/) | [有赞云](https://www.youzanyun.com/)
+- **GitHub**: [youzan](https://github.com/youzan)
+- **招聘**: [有赞招聘](https://youzan.zhiye.com/)
+
 #### 美国
+
+##### Adobe
+
+- **Official Site**: [Adobe](https://www.adobe.com/)
+- **Products**: [Creative Cloud](https://www.adobe.com/creativecloud.html) | [Adobe Experience Cloud](https://business.adobe.com/)
+- **Tech Blog**: [Adobe Blog](https://blog.adobe.com/)
+- **Developer Community**: [Adobe Developers](https://developers.adobe.com/)
+- **GitHub**: [Adobe](https://github.com/Adobe)
+- **Careers**: [Adobe Careers](https://www.adobe.com/careers.html)
+
+##### Airtable
+
+- **Official Site**: [Airtable](https://airtable.com/)
+- **Products**: [Airtable](https://airtable.com/)
+- **Tech Blog**: [Airtable Blog](https://blog.airtable.com/)
+- **Developer Community**: [Airtable Community](https://community.airtable.com/)
+- **GitHub**: [Airtable](https://github.com/Airtable)
+- **Careers**: [Airtable Careers](https://airtable.com/careers)
+
+##### Asana
+
+- **Official Site**: [Asana](https://asana.com/)
+- **Products**: [Asana](https://asana.com/)
+- **Tech Blog**: [Asana Blog](https://blog.asana.com/)
+- **Developer Community**: [Asana Developers](https://developers.asana.com/)
+- **GitHub**: [Asana](https://github.com/Asana)
+- **Careers**: [Asana Careers](https://asana.com/careers)
+
+##### Box
+
+- **Official Site**: [Box](https://www.box.com/)
+- **Products**: [Box](https://www.box.com/)
+- **Tech Blog**: [Box Developer Blog](https://blog.box.com/developer)
+- **Developer Community**: [Box Developers](https://developer.box.com/)
+- **GitHub**: [box](https://github.com/box)
+- **Careers**: [Box Careers](https://careers.box.com/en/)
+
+##### DocuSign
+
+- **Official Site**: [DocuSign](https://www.docusign.com/)
+- **Products**: [DocuSign eSignature](https://www.docusign.com/products/electronic-signature)
+- **Tech Blog**: [DocuSign Blog](https://www.docusign.com/blog)
+- **Developer Community**: [DocuSign Developers](https://developers.docusign.com/)
+- **GitHub**: [docusign](https://github.com/docusign)
+- **Careers**: [DocuSign Careers](https://www.docusign.com/company/careers/)
+
+##### Dropbox
+
+- **Official Site**: [Dropbox](https://www.dropbox.com/)
+- **Products**: [Dropbox](https://www.dropbox.com/)
+- **Tech Blog**: [Dropbox Tech](https://dropbox.tech/)
+- **Developer Community**: [Dropbox Developers](https://www.dropbox.com/developers)
+- **GitHub**: [dropbox](https://github.com/dropbox)
+- **Careers**: [Dropbox Jobs](https://www.dropbox.com/jobs)
+
+##### Figma
+
+- **Official Site**: [Figma](https://www.figma.com/)
+- **Products**: [Figma Design](https://www.figma.com/design/) | [FigJam](https://www.figma.com/figjam/)
+- **Tech Blog**: [Figma Blog](https://www.figma.com/blog/)
+- **Developer Community**: [Figma Forum](https://forum.figma.com/)
+- **GitHub**: [figma](https://github.com/figma)
+- **Careers**: [Figma Careers](https://www.figma.com/careers/)
+
+##### Freshworks
+
+- **Official Site**: [Freshworks](https://www.freshworks.com/)
+- **Products**: [Freshdesk](https://freshdesk.com/) | [Freshservice](https://www.freshworks.com/freshservice/)
+- **Tech Blog**: [Freshworks Insights Blog](https://www.freshworks.com/theworks/insights/)
+- **Developer Community**: [Freshworks Developers](https://developers.freshworks.com/)
+- **GitHub**: [freshworks-developers](https://github.com/freshworks-developers)
+- **Careers**: [Freshworks Careers](https://www.freshworks.com/company/careers/)
+
+##### HubSpot
+
+- **Official Site**: [HubSpot](https://www.hubspot.com/)
+- **Products**: [HubSpot CRM](https://www.hubspot.com/products/crm)
+- **Tech Blog**: [HubSpot Developers Blog](https://developers.hubspot.com/blog)
+- **Developer Community**: [HubSpot Developers](https://developers.hubspot.com/)
+- **GitHub**: [HubSpot](https://github.com/HubSpot)
+- **Careers**: [HubSpot Careers](https://www.hubspot.com/careers)
+
+##### Intercom
+
+- **Official Site**: [Intercom](https://www.intercom.com/)
+- **Products**: [Intercom](https://www.intercom.com/)
+- **Tech Blog**: [Intercom Blog](https://www.intercom.com/blog/)
+- **Developer Community**: [Intercom Developers](https://developers.intercom.com/)
+- **GitHub**: [intercom](https://github.com/intercom)
+- **Careers**: [Intercom Careers](https://www.intercom.com/careers)
+
+##### Intuit
+
+- **Official Site**: [Intuit](https://www.intuit.com/)
+- **Products**: [QuickBooks](https://quickbooks.intuit.com/) | [TurboTax](https://turbotax.intuit.com/) | [Mailchimp](https://mailchimp.com/)
+- **Tech Blog**: [Intuit Blog](https://www.intuit.com/blog/)
+- **Developer Community**: [Intuit Developers](https://developer.intuit.com/)
+- **GitHub**: [intuit](https://github.com/intuit)
+- **Careers**: [Intuit Careers](https://www.intuit.com/careers/)
+
+##### Klaviyo
+
+- **Official Site**: [Klaviyo](https://www.klaviyo.com/)
+- **Products**: [Klaviyo](https://www.klaviyo.com/)
+- **Tech Blog**: [Klaviyo Blog](https://www.klaviyo.com/blog)
+- **Developer Community**: [Klaviyo Developers](https://developers.klaviyo.com/)
+- **GitHub**: [klaviyo](https://github.com/klaviyo)
+- **Careers**: [Klaviyo Careers](https://www.klaviyo.com/careers)
+
+##### monday.com
+
+- **Official Site**: [monday.com](https://monday.com/)
+- **Products**: [monday.com Work OS](https://monday.com/)
+- **Tech Blog**: [monday.com Blog](https://monday.com/blog/)
+- **Developer Community**: [monday.com Developers](https://developer.monday.com/)
+- **GitHub**: [mondaycom](https://github.com/mondaycom)
+- **Careers**: [monday.com Careers](https://monday.com/careers/)
+
+##### Notion
+
+- **Official Site**: [Notion](https://www.notion.com/)
+- **Products**: [Notion](https://www.notion.com/)
+- **Tech Blog**: [Notion Blog](https://www.notion.com/blog)
+- **Developer Community**: [Notion Developers](https://developers.notion.com/)
+- **GitHub**: [makenotion](https://github.com/makenotion)
+- **Careers**: [Notion Careers](https://www.notion.com/careers)
 
 ##### Oracle
 
@@ -1248,6 +1466,14 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [oracle](https://github.com/oracle)
 - **Careers**: [Oracle Careers](https://www.oracle.com/careers/)
 
+##### RingCentral
+
+- **Official Site**: [RingCentral](https://www.ringcentral.com/)
+- **Products**: [RingCentral](https://www.ringcentral.com/)
+- **Developer Community**: [RingCentral Developers](https://developers.ringcentral.com/)
+- **GitHub**: [ringcentral](https://github.com/ringcentral)
+- **Careers**: [RingCentral Careers](https://www.ringcentral.com/company/careers.html)
+
 ##### Salesforce
 
 - **Official Site**: [Salesforce](https://www.salesforce.com/)
@@ -1257,21 +1483,471 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [salesforce](https://github.com/salesforce)
 - **Careers**: [Salesforce Careers](https://www.salesforce.com/company/careers/)
 
+##### ServiceNow
+
+- **Official Site**: [ServiceNow](https://www.servicenow.com/)
+- **Products**: [ServiceNow](https://www.servicenow.com/)
+- **Tech Blog**: [ServiceNow Blog](https://www.servicenow.com/blogs/)
+- **Developer Community**: [ServiceNow Developer Program](https://developer.servicenow.com/)
+- **GitHub**: [ServiceNow](https://github.com/ServiceNow)
+- **Careers**: [ServiceNow Careers](https://www.servicenow.com/careers/)
+
+##### Slack
+
+- **Official Site**: [Slack（Salesforce）](https://slack.com/)
+- **Products**: [Slack](https://slack.com/)
+- **Tech Blog**: [Slack Engineering](https://slack.engineering/)
+- **Developer Community**: [Slack API](https://api.slack.com/)
+- **GitHub**: [slackapi](https://github.com/slackapi)
+- **Careers**: [Slack Careers](https://slack.com/careers)
+
+##### Smartsheet
+
+- **Official Site**: [Smartsheet](https://www.smartsheet.com/)
+- **Products**: [Smartsheet](https://www.smartsheet.com/)
+- **Developer Community**: [Smartsheet Developers](https://developers.smartsheet.com/)
+- **GitHub**: [smartsheet](https://github.com/smartsheet)
+- **Careers**: [Smartsheet Careers](https://www.smartsheet.com/careers/)
+
+##### Squarespace
+
+- **Official Site**: [Squarespace](https://www.squarespace.com/)
+- **Products**: [Squarespace](https://www.squarespace.com/)
+- **Developer Community**: [Squarespace Developers](https://developers.squarespace.com/)
+- **GitHub**: [squarespace](https://github.com/squarespace)
+- **Careers**: [Squarespace Careers](https://www.squarespace.com/careers)
+
+##### Veeva
+
+- **Official Site**: [Veeva Systems](https://www.veeva.com/)
+- **Products**: [Veeva Systems](https://www.veeva.com/)
+- **GitHub**: [veeva](https://github.com/veeva)
+- **Careers**: [Veeva Careers](https://careers.veeva.com/)
+
+##### Workday
+
+- **Official Site**: [Workday](https://www.workday.com/)
+- **Products**: [Workday](https://www.workday.com/)
+- **Tech Blog**: [Workday Blog](https://blog.workday.com/)
+- **Developer Community**: [Workday Community](https://www.workday.com/en-us/services/community.html)
+- **Careers**: [Workday Careers](https://www.workday.com/en-us/company/careers/overview.html)
+
+##### Zapier
+
+- **Official Site**: [Zapier](https://zapier.com/)
+- **Products**: [Zapier](https://zapier.com/)
+- **Tech Blog**: [Zapier Blog](https://zapier.com/blog)
+- **Developer Community**: [Zapier Developers](https://developer.zapier.com/)
+- **GitHub**: [zapier](https://github.com/zapier)
+- **Careers**: [Zapier Jobs](https://zapier.com/jobs)
+
+##### Zendesk
+
+- **Official Site**: [Zendesk](https://www.zendesk.com/)
+- **Products**: [Zendesk Suite](https://www.zendesk.com/suite/)
+- **Tech Blog**: [Zendesk Blog](https://www.zendesk.com/blog/)
+- **Developer Community**: [Zendesk Developers](https://developer.zendesk.com/)
+- **GitHub**: [zendesk](https://github.com/zendesk)
+- **Careers**: [Zendesk Careers](https://www.zendesk.com/company/careers/)
+
+##### Zoom
+
+- **Official Site**: [Zoom](https://zoom.us/)
+- **Products**: [Zoom Workplace](https://zoom.us/)
+- **Tech Blog**: [Zoom Blog](https://blog.zoom.us/)
+- **Developer Community**: [Zoom Developers](https://developers.zoom.us/)
+- **GitHub**: [zoom](https://github.com/zoom)
+- **Careers**: [Zoom Careers](https://careers.zoom.us/)
+
 #### 欧洲
+
+##### Celonis
+
+- **Official Site**: [Celonis](https://celonis.com/)
+- **Products**: [Celonis](https://celonis.com/)
+- **Developer Community**: [Celonis Developer Center](https://developer.celonis.com/)
+- **GitHub**: [celonis](https://github.com/celonis)
+- **Careers**: [Celonis Careers](https://careers.celonis.com/)
+
+##### Doctolib
+
+- **Official Site**: [Doctolib](https://www.doctolib.fr/)
+- **Products**: [Doctolib](https://www.doctolib.fr/)
+- **GitHub**: [doctolib](https://github.com/doctolib)
+- **Careers**: [Doctolib Careers](https://careers.doctolib.com/)
+
+##### Personio
+
+- **Official Site**: [Personio](https://www.personio.com/)
+- **Products**: [Personio](https://www.personio.com/)
+- **Tech Blog**: [Personio Blog](https://www.personio.com/blog/)
+- **Careers**: [Personio Careers](https://www.personio.com/about-personio/careers/)
+
+##### Sage
+
+- **Official Site**: [Sage](https://www.sage.com/)
+- **Products**: [Sage](https://www.sage.com/)
+- **Developer Community**: [Sage Developers](https://developer.sage.com/)
+- **GitHub**: [Sage](https://github.com/Sage)
+- **Careers**: [Sage Careers](https://www.sage.com/en-us/company/careers/)
+
+##### SAP
+
+- **Official Site**: [SAP](https://www.sap.com/)
+- **Products**: [SAP](https://www.sap.com/)
+- **Tech Blog**: [SAP Blogs](https://blogs.sap.com/)
+- **Developer Community**: [SAP Community](https://community.sap.com/)
+- **GitHub**: [SAP](https://github.com/SAP)
+- **Careers**: [SAP Careers](https://jobs.sap.com/)
+
+##### TeamViewer
+
+- **Official Site**: [TeamViewer](https://www.teamviewer.com/)
+- **Products**: [TeamViewer](https://www.teamviewer.com/)
+- **GitHub**: [teamviewer](https://github.com/teamviewer)
+- **Careers**: [TeamViewer Careers](https://www.teamviewer.com/en/global/company/careers/)
 
 #### 日韩
 
+##### Cybozu
+
+- **Official Site**: [サイボウズ / Cybozu](https://cybozu.co.jp/)
+- **Products**: [kintone](https://kintone.cybozu.co.jp/)
+- **Developer Community**: [cybozu developer network](https://cybozu.dev/)
+- **GitHub**: [cybozu](https://github.com/cybozu)
+- **Careers**: [サイボウズ採用情報](https://cybozu.co.jp/recruit/)
+
+##### Sansan
+
+- **Official Site**: [Sansan 株式会社](https://jp.corp-sansan.com/)
+- **Products**: [Sansan](https://corp-sansan.com/) | [Eight](https://8card.net/)
+- **Careers**: [Sansan 採用情報](https://jp.corp-sansan.com/recruit/)
+
 #### 东南亚
+
+##### PatSnap
+
+- **Official Site**: [PatSnap 智慧芽](https://www.patsnap.com/)
+- **Products**: [PatSnap](https://www.patsnap.com/) | [智慧芽（中国站）](https://www.zhihuiya.com/)
+- **Developer Community**: [PatSnap Open Platform](https://open.patsnap.com/)
+
+##### Zoho
+
+- **Official Site**: [Zoho](https://www.zoho.com/)
+- **Products**: [Zoho One](https://www.zoho.com/one/) | [Zoho CRM](https://www.zoho.com/crm/)
+- **Tech Blog**: [Zoho Blog](https://www.zoho.com/blog/)
+- **Developer Community**: [Zoho Developer](https://developer.zoho.com/)
+- **GitHub**: [zoho](https://github.com/zoho)
+- **Careers**: [Zoho Careers](https://www.zoho.com/careers/)
 
 ### 开发者工具
 
 #### 中国
 
+##### Apifox
+
+- **集团官网**: [Apifox](https://apifox.com/)
+- **核心产品**: [Apifox API 一体化平台](https://apifox.com/)
+
+##### CODING
+
+- **集团官网**: [CODING（腾讯云）](https://coding.net/)
+- **核心产品**: [CODING DevOps](https://coding.net/)
+
+##### CSDN
+
+- **集团官网**: [CSDN](https://www.csdn.net/)
+- **核心产品**: [CSDN 开发者社区](https://www.csdn.net/)
+
+##### DCloud
+
+- **集团官网**: [DCloud 数字天堂](https://dcloud.io/)
+- **核心产品**: [uni-app](https://uniapp.dcloud.net.cn/) | [HBuilderX](https://dcloud.io/)
+- **开发者社区**: [DCloud 问答社区](https://ask.dcloud.net.cn/)
+- **GitHub**: [dcloudio](https://github.com/dcloudio)
+
+##### Gitee
+
+- **集团官网**: [Gitee（开源中国）](https://gitee.com/)
+- **核心产品**: [Gitee 代码托管](https://gitee.com/) | [开源中国社区](https://www.oschina.net/)
+
+##### SegmentFault
+
+- **集团官网**: [SegmentFault 思否](https://segmentfault.com/)
+- **核心产品**: [SegmentFault 技术问答](https://segmentfault.com/)
+- **GitHub**: [segmentfault](https://github.com/segmentfault)
+
+##### Teambition
+
+- **集团官网**: [Teambition（阿里巴巴）](https://www.teambition.com/)
+- **核心产品**: [Teambition 协作平台](https://www.teambition.com/)
+
+##### 极客邦科技
+
+- **集团官网**: [极客邦科技](https://geekbang.org/)
+- **核心产品**: [InfoQ 中国](https://www.infoq.cn/) | [极客时间](https://time.geekbang.org/)
+
+##### 掘金
+
+- **集团官网**: [稀土掘金（字节跳动）](https://juejin.cn/)
+- **核心产品**: [掘金技术社区](https://juejin.cn/)
+
+##### 声网
+
+- **集团官网**: [声网](https://www.shengwang.cn/)
+- **核心产品**: [声网 Agora RTC](https://www.shengwang.cn/) | [Agora 国际站](https://www.agora.io/)
+- **开发者社区**: [声网文档中心](https://doc.shengwang.cn/)
+- **GitHub**: [AgoraIO](https://github.com/AgoraIO)
+
+##### 语雀
+
+- **集团官网**: [语雀（蚂蚁集团）](https://www.yuque.com/)
+- **核心产品**: [语雀知识库](https://www.yuque.com/)
+
 #### 美国
+
+##### Atlassian
+
+- **Official Site**: [Atlassian](https://www.atlassian.com/)
+- **Products**: [Jira](https://www.atlassian.com/software/jira) | [Confluence](https://www.atlassian.com/software/confluence)
+- **Developer Community**: [Atlassian Developer](https://developer.atlassian.com/)
+- **GitHub**: [atlassian](https://github.com/atlassian)
+- **Careers**: [Atlassian Careers](https://www.atlassian.com/company/careers)
+
+##### CircleCI
+
+- **Official Site**: [CircleCI](https://circleci.com/)
+- **Products**: [CircleCI](https://circleci.com/)
+- **Tech Blog**: [CircleCI Blog](https://circleci.com/blog/)
+- **Developer Community**: [CircleCI Docs](https://circleci.com/docs/)
+- **GitHub**: [CircleCI-Public](https://github.com/CircleCI-Public)
+- **Careers**: [CircleCI Careers](https://circleci.com/careers/)
+
+##### CNCF
+
+- **Official Site**: [CNCF 云原生计算基金会](https://www.cncf.io/)
+- **Products**: [Kubernetes](https://kubernetes.io/)
+- **Tech Blog**: [Kubernetes Blog](https://kubernetes.io/blog/)
+- **Developer Community**: [CNCF Slack](https://slack.cncf.io/)
+- **GitHub**: [cncf](https://github.com/cncf)
+
+##### Datadog
+
+- **Official Site**: [Datadog](https://www.datadoghq.com/)
+- **Products**: [Datadog](https://www.datadoghq.com/)
+- **Tech Blog**: [Datadog Blog](https://www.datadoghq.com/blog/)
+- **Developer Community**: [Datadog Docs](https://docs.datadoghq.com/)
+- **GitHub**: [DataDog](https://github.com/DataDog)
+- **Careers**: [Datadog Careers](https://www.datadoghq.com/careers/)
+
+##### Docker
+
+- **Official Site**: [Docker](https://www.docker.com/)
+- **Products**: [Docker Hub](https://hub.docker.com/)
+- **Tech Blog**: [Docker Blog](https://www.docker.com/blog/)
+- **Developer Community**: [Docker Forums](https://forums.docker.com/)
+- **GitHub**: [docker](https://github.com/docker)
+- **Careers**: [Docker Careers](https://www.docker.com/careers/)
+
+##### GitHub
+
+- **Official Site**: [GitHub（Microsoft）](https://github.com/)
+- **Products**: [GitHub](https://github.com/)
+- **Tech Blog**: [GitHub Blog](https://github.blog/)
+- **Developer Community**: [GitHub Community](https://github.community/)
+- **GitHub**: [github](https://github.com/github)
+- **Careers**: [GitHub Careers](https://www.github.careers/)
+
+##### GitLab
+
+- **Official Site**: [GitLab](https://about.gitlab.com/)
+- **Products**: [GitLab](https://about.gitlab.com/)
+- **Tech Blog**: [GitLab Blog](https://about.gitlab.com/blog/)
+- **Developer Community**: [GitLab Forum](https://forum.gitlab.com/)
+- **GitHub**: [gitlabhq](https://github.com/gitlabhq)
+- **Careers**: [GitLab Jobs](https://about.gitlab.com/jobs/)
+
+##### Grafana Labs
+
+- **Official Site**: [Grafana Labs](https://grafana.com/)
+- **Products**: [Grafana](https://grafana.com/)
+- **Tech Blog**: [Grafana Blog](https://grafana.com/blog/)
+- **Developer Community**: [Grafana Community](https://community.grafana.com/)
+- **GitHub**: [grafana](https://github.com/grafana)
+- **Careers**: [Grafana Labs Careers](https://grafana.com/about/careers/)
+
+##### HashiCorp
+
+- **Official Site**: [HashiCorp](https://www.hashicorp.com/)
+- **Products**: [Terraform](https://www.terraform.io/) | [Vault](https://www.vaultproject.io/)
+- **Tech Blog**: [HashiCorp Blog](https://www.hashicorp.com/blog)
+- **Developer Community**: [HashiCorp Developer](https://developer.hashicorp.com/)
+- **GitHub**: [hashicorp](https://github.com/hashicorp)
+- **Careers**: [HashiCorp Careers](https://www.hashicorp.com/careers)
+
+##### JFrog
+
+- **Official Site**: [JFrog](https://jfrog.com/)
+- **Products**: [Artifactory](https://jfrog.com/artifactory/)
+- **Tech Blog**: [JFrog Blog](https://jfrog.com/blog/)
+- **GitHub**: [jfrog](https://github.com/jfrog)
+- **Careers**: [JFrog Careers](https://join.jfrog.com/)
+
+##### LaunchDarkly
+
+- **Official Site**: [LaunchDarkly](https://launchdarkly.com/)
+- **Products**: [LaunchDarkly](https://launchdarkly.com/)
+- **Tech Blog**: [LaunchDarkly Blog](https://launchdarkly.com/blog/)
+- **Developer Community**: [LaunchDarkly Docs](https://docs.launchdarkly.com/)
+- **GitHub**: [launchdarkly](https://github.com/launchdarkly)
+- **Careers**: [LaunchDarkly Careers](https://launchdarkly.com/careers/)
+
+##### Netlify
+
+- **Official Site**: [Netlify](https://www.netlify.com/)
+- **Products**: [Netlify](https://www.netlify.com/)
+- **Tech Blog**: [Netlify Blog](https://www.netlify.com/blog/)
+- **Developer Community**: [Netlify Community](https://answers.netlify.com/)
+- **GitHub**: [netlify](https://github.com/netlify)
+- **Careers**: [Netlify Careers](https://www.netlify.com/careers/)
+
+##### New Relic
+
+- **Official Site**: [New Relic](https://newrelic.com/)
+- **Products**: [New Relic](https://newrelic.com/)
+- **Tech Blog**: [New Relic Blog](https://newrelic.com/blog/)
+- **Developer Community**: [New Relic Docs](https://docs.newrelic.com/)
+- **GitHub**: [newrelic](https://github.com/newrelic)
+- **Careers**: [New Relic Careers](https://newrelic.com/careers/)
+
+##### PagerDuty
+
+- **Official Site**: [PagerDuty](https://www.pagerduty.com/)
+- **Products**: [PagerDuty](https://www.pagerduty.com/)
+- **Tech Blog**: [PagerDuty Blog](https://www.pagerduty.com/blog/)
+- **Developer Community**: [PagerDuty Developer](https://developer.pagerduty.com/)
+- **GitHub**: [PagerDuty](https://github.com/PagerDuty)
+- **Careers**: [PagerDuty Careers](https://careers.pagerduty.com/)
+
+##### Postman
+
+- **Official Site**: [Postman](https://www.postman.com/)
+- **Products**: [Postman](https://www.postman.com/)
+- **Tech Blog**: [Postman Blog](https://blog.postman.com/)
+- **Developer Community**: [Postman Community](https://community.postman.com/)
+- **GitHub**: [postmanlabs](https://github.com/postmanlabs)
+- **Careers**: [Postman Careers](https://www.postman.com/careers)
+
+##### Red Hat
+
+- **Official Site**: [Red Hat（IBM）](https://www.redhat.com/en)
+- **Products**: [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) | [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) | [Ansible](https://www.redhat.com/en/technologies/management/ansible)
+- **Tech Blog**: [Red Hat Blog](https://www.redhat.com/en/blog)
+- **Developer Community**: [Red Hat Developer](https://developers.redhat.com/)
+- **GitHub**: [RedHatOfficial](https://github.com/RedHatOfficial)
+- **Careers**: [Red Hat Jobs](https://www.redhat.com/en/jobs)
+
+##### Replit
+
+- **Official Site**: [Replit](https://replit.com/)
+- **Products**: [Replit](https://replit.com/)
+- **Tech Blog**: [Replit Blog](https://replit.com/blog)
+- **GitHub**: [replit](https://github.com/replit)
+- **Careers**: [Replit Careers](https://replit.com/careers)
+
+##### Stack Overflow
+
+- **Official Site**: [Stack Overflow](https://stackoverflow.com/)
+- **Products**: [Stack Overflow](https://stackoverflow.com/) | [Stack Exchange](https://stackexchange.com/)
+- **Tech Blog**: [Stack Overflow Blog](https://stackoverflow.blog/)
+- **GitHub**: [StackExchange](https://github.com/StackExchange)
+- **Careers**: [Stack Overflow Careers](https://stackoverflow.co/company/careers/)
+
+##### Twilio
+
+- **Official Site**: [Twilio](https://www.twilio.com/)
+- **Products**: [Twilio](https://www.twilio.com/)
+- **Tech Blog**: [Twilio Blog](https://www.twilio.com/blog)
+- **Developer Community**: [Twilio Developers](https://www.twilio.com/docs)
+- **GitHub**: [twilio](https://github.com/twilio)
+- **Careers**: [Twilio Careers](https://www.twilio.com/en-us/company/jobs)
+
+##### Vercel
+
+- **Official Site**: [Vercel](https://vercel.com/)
+- **Products**: [Vercel](https://vercel.com/) | [Next.js](https://nextjs.org/)
+- **Tech Blog**: [Vercel Blog](https://vercel.com/blog)
+- **Developer Community**: [Vercel Community](https://github.com/vercel/community)
+- **GitHub**: [vercel](https://github.com/vercel)
+- **Careers**: [Vercel Careers](https://vercel.com/careers)
 
 #### 欧洲
 
+##### Bitrise
+
+- **Official Site**: [Bitrise](https://bitrise.io/)
+- **Products**: [Bitrise](https://bitrise.io/)
+- **Developer Community**: [Bitrise DevCenter](https://devcenter.bitrise.io/)
+- **GitHub**: [bitrise-io](https://github.com/bitrise-io)
+
+##### Contentful
+
+- **Official Site**: [Contentful](https://www.contentful.com/)
+- **Products**: [Contentful](https://www.contentful.com/)
+- **Tech Blog**: [Contentful Blog](https://www.contentful.com/blog/)
+- **Developer Community**: [Contentful Community](https://www.contentful.com/community/)
+- **GitHub**: [contentful](https://github.com/contentful)
+- **Careers**: [Contentful Careers](https://www.contentful.com/careers/)
+
+##### JetBrains
+
+- **Official Site**: [JetBrains](https://www.jetbrains.com/)
+- **Products**: [IntelliJ IDEA](https://www.jetbrains.com/idea/) | [PyCharm](https://www.jetbrains.com/pycharm/) | [WebStorm](https://www.jetbrains.com/webstorm/)
+- **Tech Blog**: [JetBrains Blog](https://blog.jetbrains.com/)
+- **GitHub**: [JetBrains](https://github.com/JetBrains)
+- **Careers**: [JetBrains Careers](https://www.jetbrains.com/careers/)
+
+##### Sentry
+
+- **Official Site**: [Sentry](https://sentry.io/)
+- **Products**: [Sentry](https://sentry.io/)
+- **Tech Blog**: [Sentry Blog](https://blog.sentry.io/)
+- **Developer Community**: [Sentry Docs](https://docs.sentry.io/)
+- **GitHub**: [getsentry](https://github.com/getsentry)
+- **Careers**: [Sentry Careers](https://sentry.io/careers/)
+
+##### SonarSource
+
+- **Official Site**: [SonarSource](https://www.sonarsource.com/)
+- **Products**: [SonarQube](https://www.sonarsource.com/products/sonarqube/)
+- **Developer Community**: [Sonar Community](https://community.sonarsource.com/)
+- **GitHub**: [SonarSource](https://github.com/SonarSource)
+- **Careers**: [Sonar Careers](https://www.sonarsource.com/company/careers/)
+
+##### Strapi
+
+- **Official Site**: [Strapi](https://strapi.io/)
+- **Products**: [Strapi](https://strapi.io/)
+- **Tech Blog**: [Strapi Blog](https://strapi.io/blog)
+- **Developer Community**: [Strapi Forum](https://forum.strapi.io/)
+- **GitHub**: [strapi](https://github.com/strapi)
+- **Careers**: [Strapi Careers](https://strapi.io/careers)
+
 #### 日韩
+
+##### DeployGate
+
+- **Official Site**: [DeployGate](https://deploygate.com/)
+- **Products**: [DeployGate](https://deploygate.com/)
+- **GitHub**: [DeployGate](https://github.com/DeployGate)
+
+##### Nulab
+
+- **Official Site**: [Nulab](https://nulab.com/)
+- **Products**: [Backlog](https://backlog.com/) | [Cacoo](https://cacoo.com/)
+- **Developer Community**: [Backlog Developer](https://nulab.com/backlog/developer/applications/)
+- **GitHub**: [nulab](https://github.com/nulab)
+- **Careers**: [Nulab Careers](https://nulab.com/careers/)
 
 #### 东南亚
 
