@@ -3053,11 +3053,149 @@ A curated navigation list of global technology companies — official sites, pro
 
 #### 中国
 
+##### 阿里云（阿里巴巴）
+
+- **集团官网**: [阿里云](https://www.aliyun.com/)
+- **核心产品**: [阿里云](https://www.aliyun.com/)
+- **开发者社区**: [阿里云开发者社区](https://developer.aliyun.com/)
+- **招聘**: [阿里云招聘](https://careers.aliyun.com/)
+
+##### 百度智能云（百度）
+
+- **集团官网**: [百度智能云](https://cloud.baidu.com/)
+- **核心产品**: [百度智能云](https://cloud.baidu.com/)
+
+##### 华为云（华为）
+
+- **集团官网**: [华为云](https://www.huaweicloud.com/)
+- **核心产品**: [华为云](https://www.huaweicloud.com/)
+- **开发者社区**: [华为云开发者社区](https://bbs.huaweicloud.com/)
+- **GitHub**: [huaweicloud](https://github.com/huaweicloud)
+- **招聘**: [华为云招聘](https://www.huaweicloud.com/careers/)
+
+##### 火山引擎（字节跳动）
+
+- **集团官网**: [火山引擎](https://www.volcengine.com/)
+- **核心产品**: [火山引擎](https://www.volcengine.com/)
+- **GitHub**: [volcengine](https://github.com/volcengine)
+
+##### 京东云（京东）
+
+- **集团官网**: [京东云](https://www.jdcloud.com/)
+- **核心产品**: [京东云](https://www.jdcloud.com/)
+
+##### 腾讯云（腾讯）
+
+- **集团官网**: [腾讯云](https://cloud.tencent.com/)
+- **核心产品**: [腾讯云](https://cloud.tencent.com/)
+- **开发者社区**: [腾讯云开发者社区](https://cloud.tencent.com/developer)
+- **GitHub**: [TencentCloud](https://github.com/TencentCloud)
+- **招聘**: [腾讯招聘](https://careers.tencent.com/)
+
 #### 美国
+
+##### AWS（Amazon）
+
+- **Official Site**: [AWS](https://aws.amazon.com/)
+- **Products**: [AWS](https://aws.amazon.com/)
+- **Tech Blog**: [AWS News Blog](https://aws.amazon.com/blogs/)
+- **Developer Community**: [AWS Developer Center](https://aws.amazon.com/developer/)
+- **GitHub**: [aws](https://github.com/aws)
+- **Careers**: [AWS Careers](https://aws.amazon.com/careers/)
+
+##### DigitalOcean
+
+- **Official Site**: [DigitalOcean](https://www.digitalocean.com/)
+- **Products**: [DigitalOcean](https://www.digitalocean.com/)
+- **Tech Blog**: [DigitalOcean Blog](https://www.digitalocean.com/blog)
+- **GitHub**: [digitalocean](https://github.com/digitalocean)
+- **Careers**: [DigitalOcean Careers](https://www.digitalocean.com/careers)
+
+##### Google Cloud（Google）
+
+- **Official Site**: [Google Cloud](https://cloud.google.com/)
+- **Products**: [Google Cloud](https://cloud.google.com/)
+- **Tech Blog**: [Google Cloud Blog](https://cloud.google.com/blog)
+- **GitHub**: [GoogleCloudPlatform](https://github.com/GoogleCloudPlatform)
+
+##### Heroku（Salesforce）
+
+- **Official Site**: [Heroku](https://www.heroku.com/)
+- **Products**: [Heroku](https://www.heroku.com/)
+- **Developer Community**: [Heroku Dev Center](https://devcenter.heroku.com/)
+- **GitHub**: [heroku](https://github.com/heroku)
+
+##### IBM Cloud（IBM）
+
+- **Official Site**: [IBM Cloud](https://www.ibm.com/cloud)
+- **Products**: [IBM Cloud](https://www.ibm.com/cloud)
+- **Tech Blog**: [IBM Think](https://www.ibm.com/think)
+- **GitHub**: [IBM](https://github.com/IBM)
+- **Careers**: [IBM Careers](https://www.ibm.com/careers/us-en/)
+
+##### Linode（Akamai）
+
+- **Official Site**: [Linode](https://www.linode.com/)
+- **Products**: [Linode](https://www.linode.com/)
+- **Tech Blog**: [Linode Blog](https://www.linode.com/blog/)
+- **GitHub**: [linode](https://github.com/linode)
+
+##### Microsoft Azure（Microsoft）
+
+- **Official Site**: [Microsoft Azure](https://azure.microsoft.com/en-us/)
+- **Products**: [Microsoft Azure](https://azure.microsoft.com/en-us/)
+- **Tech Blog**: [Azure Blog](https://azure.microsoft.com/en-us/blog/)
+- **Developer Community**: [Microsoft Learn - Azure](https://learn.microsoft.com/en-us/azure/)
+- **GitHub**: [Azure](https://github.com/Azure)
+
+##### Oracle Cloud（Oracle）
+
+- **Official Site**: [Oracle Cloud](https://www.oracle.com/cloud/)
+- **Products**: [Oracle Cloud](https://www.oracle.com/cloud/)
+- **Tech Blog**: [Oracle Blogs](https://blogs.oracle.com/)
+- **GitHub**: [oracle](https://github.com/oracle)
+- **Careers**: [Oracle Careers](https://www.oracle.com/careers/)
+
+##### Rackspace
+
+- **Official Site**: [Rackspace](https://www.rackspace.com/)
+- **Products**: [Rackspace](https://www.rackspace.com/)
+- **Tech Blog**: [Rackspace Blog](https://blog.rackspace.com/)
+- **GitHub**: [rackspace](https://github.com/rackspace)
+- **Careers**: [Rackspace Careers](https://www.rackspace.com/careers)
+
+##### Vultr
+
+- **Official Site**: [Vultr](https://www.vultr.com/)
+- **Products**: [Vultr](https://www.vultr.com/)
+- **Tech Blog**: [Vultr Blog](https://www.vultr.com/blog/)
+- **GitHub**: [vultr](https://github.com/vultr)
+- **Careers**: [Vultr Careers](https://www.vultr.com/company/careers/)
 
 #### 欧洲
 
+##### Hetzner
+
+- **Official Site**: [Hetzner](https://www.hetzner.com/)
+- **Products**: [Hetzner](https://www.hetzner.com/)
+- **GitHub**: [hetznercloud](https://github.com/hetznercloud)
+- **Careers**: [Hetzner Careers](https://www.hetzner.com/company/careers/)
+
+##### OVHcloud
+
+- **Official Site**: [OVHcloud](https://www.ovhcloud.com/)
+- **Products**: [OVHcloud](https://www.ovhcloud.com/)
+- **Tech Blog**: [OVHcloud Blog](https://blog.ovhcloud.com/)
+- **GitHub**: [ovh](https://github.com/ovh)
+- **Careers**: [OVHcloud Careers](https://careers.ovhcloud.com/)
+
 #### 日韩
+
+##### Naver Cloud（Naver）
+
+- **Official Site**: [Naver Cloud](https://www.navercloudcorp.com/en/)
+- **Products**: [Naver Cloud Platform](https://www.ncloud.com/)
+- **Careers**: [Naver Cloud Careers](https://career.navercloudcorp.com/navercloud/)
 
 #### 东南亚
 
@@ -3065,33 +3203,368 @@ A curated navigation list of global technology companies — official sites, pro
 
 #### 中国
 
+##### 度小满金融
+
+- **集团官网**: [度小满金融](https://www.duxiaoman.com/)
+- **核心产品**: [度小满金融](https://www.duxiaoman.com/)
+
+##### 京东科技（京东）
+
+- **集团官网**: [京东科技](https://www.jdt.com.cn/)
+- **核心产品**: [京东科技](https://www.jdt.com.cn/)
+
+##### 陆金所
+
+- **集团官网**: [陆金所](https://www.lu.com/)
+- **核心产品**: [陆金所](https://www.lu.com/)
+
+##### 蚂蚁集团（阿里巴巴）
+
+- **集团官网**: [蚂蚁集团](https://www.antgroup.com/)
+- **核心产品**: [支付宝](https://www.alipay.com/)
+- **GitHub**: [alipay](https://github.com/alipay)
+
+##### 腾讯金融科技（腾讯）
+
+- **集团官网**: [腾讯金融科技](https://www.fitgroup.com/)
+- **核心产品**: [微信支付](https://pay.weixin.qq.com/)
+
+##### 众安保险
+
+- **集团官网**: [众安保险](https://www.zhongan.com/)
+- **技术博客**: [众安科技](https://tech.zhongan.com/)
+
 #### 美国
+
+##### American Express
+
+- **Official Site**: [American Express](https://www.americanexpress.com/)
+- **Products**: [American Express](https://www.americanexpress.com/)
+- **Careers**: [American Express Careers](https://www.americanexpress.com/en-us/careers/)
+
+##### Chime
+
+- **Official Site**: [Chime](https://www.chime.com/)
+- **Products**: [Chime](https://www.chime.com/)
+- **Tech Blog**: [Chime Blog](https://www.chime.com/blog/)
+- **Careers**: [Chime Careers](https://careers.chime.com/)
+
+##### Coinbase
+
+- **Official Site**: [Coinbase](https://www.coinbase.com/)
+- **Products**: [Coinbase](https://www.coinbase.com/)
+- **Tech Blog**: [Coinbase Blog](https://www.coinbase.com/blog)
+- **GitHub**: [coinbase](https://github.com/coinbase)
+- **Careers**: [Coinbase Careers](https://www.coinbase.com/careers)
+
+##### Mastercard
+
+- **Official Site**: [Mastercard](https://www.mastercard.com/)
+- **Products**: [Mastercard](https://www.mastercard.com/)
+- **Tech Blog**: [Mastercard Newsroom](https://www.mastercard.com/news/)
+- **Developer Community**: [Mastercard Developers](https://developer.mastercard.com/)
+- **GitHub**: [Mastercard](https://github.com/Mastercard)
+- **Careers**: [Mastercard Careers](https://careers.mastercard.com/)
+
+##### PayPal
+
+- **Official Site**: [PayPal](https://www.paypal.com/)
+- **Products**: [PayPal](https://www.paypal.com/)
+- **Developer Community**: [PayPal Developer](https://developer.paypal.com/)
+- **GitHub**: [paypal](https://github.com/paypal)
+- **Careers**: [PayPal Careers](https://careers.pypl.com/home/)
+
+##### Plaid
+
+- **Official Site**: [Plaid](https://plaid.com/)
+- **Products**: [Plaid](https://plaid.com/)
+- **Tech Blog**: [Plaid Blog](https://plaid.com/blog/)
+- **GitHub**: [plaid](https://github.com/plaid)
+- **Careers**: [Plaid Careers](https://plaid.com/careers/)
+
+##### Robinhood
+
+- **Official Site**: [Robinhood](https://robinhood.com/)
+- **Products**: [Robinhood](https://robinhood.com/)
+- **Tech Blog**: [Robinhood Blog](https://robinhood.com/blog/)
+- **GitHub**: [robinhood](https://github.com/robinhood)
+- **Careers**: [Robinhood Careers](https://careers.robinhood.com/)
+
+##### Square（Block）
+
+- **Official Site**: [Square](https://squareup.com/)
+- **Products**: [Square](https://squareup.com/)
+- **Developer Community**: [Square Developer](https://developer.squareup.com/)
+- **GitHub**: [square](https://github.com/square)
+- **Careers**: [Square Careers](https://careers.squareup.com/us/en)
+
+##### Stripe
+
+- **Official Site**: [Stripe](https://stripe.com/)
+- **Products**: [Stripe](https://stripe.com/)
+- **Tech Blog**: [Stripe Blog](https://stripe.com/blog)
+- **Developer Community**: [Stripe Docs](https://docs.stripe.com/)
+- **GitHub**: [stripe](https://github.com/stripe)
+- **Careers**: [Stripe Careers](https://stripe.com/jobs)
+
+##### Visa
+
+- **Official Site**: [Visa](https://www.visa.com/)
+- **Products**: [Visa](https://www.visa.com/)
+- **Developer Community**: [Visa Developer Platform](https://developer.visa.com/)
+- **Careers**: [Visa Careers](https://corporate.visa.com/en/careers.html)
 
 #### 欧洲
 
+##### Adyen
+
+- **Official Site**: [Adyen](https://www.adyen.com/)
+- **Products**: [Adyen](https://www.adyen.com/)
+- **GitHub**: [Adyen](https://github.com/Adyen)
+- **Careers**: [Adyen Careers](https://www.adyen.com/careers)
+
+##### Klarna
+
+- **Official Site**: [Klarna](https://www.klarna.com/international/)
+- **Products**: [Klarna](https://www.klarna.com/international/)
+- **Developer Community**: [Klarna Docs](https://docs.klarna.com/)
+- **GitHub**: [klarna](https://github.com/klarna)
+- **Careers**: [Klarna Careers](https://www.klarna.com/international/careers/)
+
+##### Revolut
+
+- **Official Site**: [Revolut](https://www.revolut.com/)
+- **Products**: [Revolut](https://www.revolut.com/)
+- **Tech Blog**: [Revolut Blog](https://www.revolut.com/en-GB/blog/)
+- **GitHub**: [revolut](https://github.com/revolut)
+- **Careers**: [Revolut Careers](https://www.revolut.com/careers/)
+
+##### Wise
+
+- **Official Site**: [Wise](https://wise.com/)
+- **Products**: [Wise](https://wise.com/)
+- **Tech Blog**: [Wise Blog](https://wise.com/blog/)
+- **GitHub**: [transferwise](https://github.com/transferwise)
+- **Careers**: [Wise Careers](https://wise.com/careers)
+
 #### 日韩
 
+##### Kakao Pay（Kakao）
+
+- **Official Site**: [Kakao Pay](https://www.kakaopay.com/)
+- **Products**: [Kakao Pay](https://www.kakaopay.com/)
+
+##### Rakuten Pay（Rakuten）
+
+- **Official Site**: [Rakuten Pay](https://pay.rakuten.co.jp/)
+- **Products**: [Rakuten Pay](https://pay.rakuten.co.jp/)
+
 #### 东南亚
+
+##### Grab Financial Group（Grab）
+
+- **Official Site**: [Grab](https://www.grab.com/)
+- **Products**: [Grab Financial Group](https://www.grab.com/sg/finance/)
 
 ### 物流/供应链
 
 #### 中国
 
+##### 菜鸟网络（阿里巴巴）
+
+- **集团官网**: [菜鸟网络](https://www.cainiao.com/)
+- **核心产品**: [菜鸟国际](https://global.cainiao.com/)
+
+##### 京东物流（京东）
+
+- **集团官网**: [京东物流](https://www.jdl.com/)
+- **核心产品**: [京东物流](https://www.jdl.com/)
+
+##### 顺丰速运
+
+- **集团官网**: [顺丰速运](https://www.sf-express.com/)
+- **核心产品**: [顺丰速运](https://www.sf-express.com/)
+
+##### 圆通速递
+
+- **集团官网**: [圆通速递](https://www.yto.net.cn/)
+- **核心产品**: [圆通速递](https://www.yto.net.cn/)
+
+##### 中通快递
+
+- **集团官网**: [中通快递](https://www.zto.com/)
+- **核心产品**: [中通快递](https://www.zto.com/)
+
 #### 美国
+
+##### Amazon Logistics（Amazon）
+
+- **Official Site**: [Amazon Logistics](https://logistics.amazon.com/)
+- **Products**: [Amazon Logistics](https://logistics.amazon.com/)
+
+##### C.H. Robinson
+
+- **Official Site**: [C.H. Robinson](https://www.chrobinson.com/)
+- **Products**: [C.H. Robinson](https://www.chrobinson.com/)
+
+##### FedEx
+
+- **Official Site**: [FedEx](https://www.fedex.com/)
+- **Products**: [FedEx](https://www.fedex.com/)
+- **Developer Community**: [FedEx Developer](https://developer.fedex.com/)
+- **Careers**: [FedEx Careers](https://careers.fedex.com/)
+
+##### Flexport
+
+- **Official Site**: [Flexport](https://www.flexport.com/)
+- **Products**: [Flexport](https://www.flexport.com/)
+- **Tech Blog**: [Flexport Blog](https://www.flexport.com/blog/)
+- **GitHub**: [flexport](https://github.com/flexport)
+- **Careers**: [Flexport Careers](https://www.flexport.com/company/careers/)
+
+##### UPS
+
+- **Official Site**: [UPS](https://www.ups.com/)
+- **Products**: [UPS](https://www.ups.com/)
+- **Developer Community**: [UPS Developer Portal](https://developer.ups.com/)
+- **Careers**: [UPS Careers](https://www.jobs-ups.com/)
+
+##### XPO Logistics
+
+- **Official Site**: [XPO Logistics](https://www.xpo.com/)
+- **Products**: [XPO Logistics](https://www.xpo.com/)
+- **Careers**: [XPO Careers](https://jobs.xpo.com/)
 
 #### 欧洲
 
+##### DHL
+
+- **Official Site**: [DHL](https://www.dhl.com/)
+- **Products**: [DHL](https://www.dhl.com/)
+- **Developer Community**: [DHL Developer](https://developer.dhl.com/)
+- **Careers**: [DHL Careers](https://careers.dhl.com/)
+
+##### Maersk
+
+- **Official Site**: [Maersk](https://www.maersk.com/)
+- **Products**: [Maersk](https://www.maersk.com/)
+- **Careers**: [Maersk Careers](https://www.maersk.com/careers)
+
 #### 日韩
 
+##### CJ Logistics（CJ 集团）
+
+- **Official Site**: [CJ Logistics](https://www.cjlogistics.com/)
+- **Products**: [CJ Logistics](https://www.cjlogistics.com/)
+
+##### Yamato Transport
+
+- **Official Site**: [Yamato Transport](https://www.kuronekoyamato.co.jp/en/)
+- **Products**: [Yamato Transport](https://www.kuronekoyamato.co.jp/en/)
+
 #### 东南亚
+
+##### Ninja Van
+
+- **Official Site**: [Ninja Van](https://www.ninjavan.co/)
+- **Products**: [Ninja Van](https://www.ninjavan.co/)
+- **Careers**: [Ninja Van Careers](https://www.ninjavan.co/en-sg/careers)
 
 ### 广告技术
 
 #### 中国
 
+##### 阿里妈妈（阿里巴巴）
+
+- **集团官网**: [阿里妈妈](https://www.alimama.com/)
+- **核心产品**: [阿里妈妈](https://www.alimama.com/)
+
+##### 百度营销（百度）
+
+- **集团官网**: [百度营销](https://e.baidu.com/)
+- **核心产品**: [百度营销](https://e.baidu.com/)
+
+##### 巨量引擎（字节跳动）
+
+- **集团官网**: [巨量引擎](https://www.oceanengine.com/)
+- **核心产品**: [巨量引擎](https://www.oceanengine.com/)
+- **开发者社区**: [巨量引擎开放平台](https://open.oceanengine.com/)
+
+##### 腾讯广告（腾讯）
+
+- **集团官网**: [腾讯广告](https://e.qq.com/)
+- **核心产品**: [腾讯广告](https://e.qq.com/)
+- **开发者社区**: [腾讯广告开发者平台](https://developers.e.qq.com/)
+
 #### 美国
 
+##### Amazon Advertising（Amazon）
+
+- **Official Site**: [Amazon Advertising](https://advertising.amazon.com/)
+- **Products**: [Amazon Advertising](https://advertising.amazon.com/)
+
+##### AppLovin
+
+- **Official Site**: [AppLovin](https://www.applovin.com/)
+- **Products**: [AppLovin](https://www.applovin.com/)
+- **Tech Blog**: [AppLovin Blog](https://www.applovin.com/blog/)
+- **Careers**: [AppLovin Careers](https://www.applovin.com/careers/)
+
+##### Google Ads（Google）
+
+- **Official Site**: [Google Ads](https://ads.google.com/)
+- **Products**: [Google Ads](https://ads.google.com/)
+- **Tech Blog**: [Google Ads & Commerce Blog](https://blog.google/products/ads-commerce/)
+
+##### Magnite
+
+- **Official Site**: [Magnite](https://www.magnite.com/)
+- **Products**: [Magnite](https://www.magnite.com/)
+- **Tech Blog**: [Magnite Blog](https://www.magnite.com/blog/)
+- **Careers**: [Magnite Careers](https://www.magnite.com/careers/)
+
+##### Meta Ads（Meta）
+
+- **Official Site**: [Meta Ads](https://www.facebook.com/business/ads)
+- **Products**: [Meta Ads](https://www.facebook.com/business/ads)
+- **Developer Community**: [Meta for Developers](https://developers.facebook.com/)
+
+##### PubMatic
+
+- **Official Site**: [PubMatic](https://pubmatic.com/)
+- **Products**: [PubMatic](https://pubmatic.com/)
+- **Tech Blog**: [PubMatic Blog](https://pubmatic.com/blog/)
+- **Careers**: [PubMatic Careers](https://pubmatic.com/careers/)
+
+##### The Trade Desk
+
+- **Official Site**: [The Trade Desk](https://www.thetradedesk.com/)
+- **Products**: [The Trade Desk](https://www.thetradedesk.com/)
+- **Careers**: [The Trade Desk Careers](https://www.thetradedesk.com/us/company/careers)
+
+##### Unity Ads（Unity）
+
+- **Official Site**: [Unity](https://unity.com/)
+- **Products**: [Unity Ads](https://unity.com/products/ads)
+- **GitHub**: [Unity-Technologies](https://github.com/Unity-Technologies)
+- **Careers**: [Unity Careers](https://unity.com/careers)
+
 #### 欧洲
+
+##### Criteo
+
+- **Official Site**: [Criteo](https://www.criteo.com/)
+- **Products**: [Criteo](https://www.criteo.com/)
+- **Tech Blog**: [Criteo Blog](https://www.criteo.com/blog/)
+- **Developer Community**: [Criteo Developer Portal](https://developers.criteo.com/)
+- **GitHub**: [criteo](https://github.com/criteo)
+- **Careers**: [Criteo Careers](https://www.criteo.com/careers/)
+
+##### Smaato
+
+- **Official Site**: [Smaato](https://www.smaato.com/)
+- **Products**: [Smaato](https://www.smaato.com/)
+- **Developer Community**: [Smaato Developer Documentation](https://developers.smaato.com/)
 
 #### 日韩
 
