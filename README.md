@@ -2462,6 +2462,26 @@ A curated navigation list of global technology companies — official sites, pro
 
 #### 中国
 
+##### 安克创新
+
+- **集团官网**: [安克创新](https://www.anker.com.cn/)
+- **核心产品**: [Anker](https://www.anker.com/) | [Soundcore 声阔](https://www.soundcore.com/) | [eufy 悠飞](https://www.eufy.com/)
+- **GitHub**: [ankerinnovations](https://github.com/ankerinnovations)
+
+##### 传音
+
+- **集团官网**: [传音控股](https://www.transsion.com/)
+- **核心产品**: [TECNO](https://www.tecno-mobile.com/) | [Infinix](https://www.infinixmobility.com/) | [itel](https://www.itel-life.com/)
+- **GitHub**: [transsion](https://github.com/transsion)
+
+##### 大疆
+
+- **集团官网**: [大疆](https://www.dji.com/cn)
+- **核心产品**: [DJI 无人机](https://www.dji.com/cn/drones) | [DJI 手持摄影](https://www.dji.com/cn/handheld)
+- **开发者社区**: [DJI 开发者](https://developer.dji.com/)
+- **GitHub**: [dji-sdk](https://github.com/dji-sdk)
+- **招聘**: [大疆招聘](https://we.dji.com/zh-CN/career)
+
 ##### 华为
 
 - **集团官网**: [华为](https://www.huawei.com/)
@@ -2471,6 +2491,50 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [huawei](https://github.com/huawei)
 - **招聘**: [华为招聘](https://career.huawei.com/cn)
 
+##### 联想
+
+- **集团官网**: [联想集团](https://www.lenovo.com.cn/)
+- **核心产品**: [联想小新](https://www.lenovo.com.cn/xiaoxin.html) | [ThinkPad](https://think.lenovo.com.cn/)
+- **GitHub**: [lenovo](https://github.com/lenovo)
+- **招聘**: [联想招聘](https://talent.lenovo.com.cn/)
+
+##### OPPO
+
+- **集团官网**: [OPPO](https://www.oppo.com/cn/)
+- **核心产品**: [ColorOS](https://www.coloros.com/)
+- **开发者社区**: [OPPO 开放平台](https://open.oppomobile.com/)
+- **GitHub**: [oppo](https://github.com/oppo)
+- **招聘**: [OPPO 招聘](https://careers.oppo.com/)
+
+##### realme
+
+- **集团官网**: [realme 真我](https://www.realme.com/cn/)
+
+##### 荣耀
+
+- **集团官网**: [荣耀](https://www.honor.com/cn/)
+- **核心产品**: [MagicOS](https://www.honor.com/cn/magic-os/)
+- **开发者社区**: [荣耀开发者服务](https://developer.honor.com/cn/)
+- **招聘**: [荣耀招聘](https://career.honor.com/)
+
+##### 石头科技
+
+- **集团官网**: [石头科技](https://www.roborock.com/)
+- **核心产品**: [石头扫地机器人](https://www.roborock.com/pages/robot-vacuum)
+
+##### TCL
+
+- **集团官网**: [TCL](https://www.tcl.com/cn/)
+- **核心产品**: [TCL 电视](https://www.tcl.com/cn/tv)
+
+##### vivo
+
+- **集团官网**: [vivo](https://www.vivo.com.cn/)
+- **核心产品**: [OriginOS](https://www.vivo.com.cn/originos)
+- **开发者社区**: [vivo 开放平台](https://dev.vivo.com.cn/)
+- **GitHub**: [vivo](https://github.com/vivo)
+- **招聘**: [vivo 招聘](https://hr.vivo.com/)
+
 ##### 小米
 
 - **集团官网**: [小米](https://www.mi.com/)
@@ -2479,6 +2543,15 @@ A curated navigation list of global technology companies — official sites, pro
 - **开发者社区**: [小米澎湃OS开发者平台](https://dev.mi.com/)
 - **GitHub**: [xiaomi](https://github.com/xiaomi)
 - **招聘**: [小米招聘](https://xiaomi.jobs.f.mioffice.cn/)
+
+##### 一加
+
+- **集团官网**: [一加](https://www.oneplus.com/cn)
+- **GitHub**: [OnePlusOSS](https://github.com/OnePlusOSS)
+
+##### 追觅科技
+
+- **集团官网**: [追觅科技](https://www.dreame.tech/)
 
 #### 美国
 
@@ -2491,6 +2564,55 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [apple](https://github.com/apple)
 - **Careers**: [Apple Careers](https://www.apple.com/careers/us/)
 
+##### Bose
+
+- **Official Site**: [Bose](https://www.bose.com/)
+- **GitHub**: [bose](https://github.com/bose)
+- **Careers**: [Bose Careers](https://careers.bose.com/)
+
+##### Corsair Gaming
+
+- **Official Site**: [Corsair Gaming](https://www.corsair.com/)
+- **Careers**: [Corsair Careers](https://www.corsair.com/us/en/careers)
+
+##### Dell
+
+- **Official Site**: [Dell](https://www.dell.com/)
+- **Products**: [Alienware](https://www.alienware.com/) | [XPS](https://www.dell.com/en-us/lp/xps-laptops)
+- **GitHub**: [dell](https://github.com/dell)
+- **Careers**: [Dell Careers](https://jobs.dell.com/)
+
+##### Fitbit（Google）
+
+- **Official Site**: [Fitbit](https://www.fitbit.com/)
+- **Developer Community**: [Fitbit Developer](https://dev.fitbit.com/)
+
+##### Garmin
+
+- **Official Site**: [Garmin](https://www.garmin.com/)
+- **Developer Community**: [Garmin Developer](https://developer.garmin.com/)
+- **GitHub**: [garmin](https://github.com/garmin)
+- **Careers**: [Garmin Careers](https://careers.garmin.com/)
+
+##### GoPro
+
+- **Official Site**: [GoPro](https://gopro.com/)
+- **GitHub**: [gopro](https://github.com/gopro)
+
+##### HP
+
+- **Official Site**: [HP](https://www.hp.com/)
+- **Products**: [HP Printers](https://www.hp.com/us-en/printers.html) | [HP OMEN](https://www.hp.com/us-en/gaming/omen.html)
+- **GitHub**: [HPInc](https://github.com/HPInc)
+- **Careers**: [HP Careers](https://jobs.hp.com/)
+
+##### Logitech
+
+- **Official Site**: [Logitech](https://www.logitech.com/)
+- **Developer Community**: [Logitech Developer](https://www.logitech.com/en-us/software/developer)
+- **GitHub**: [logitech](https://github.com/logitech)
+- **Careers**: [Logitech Careers](https://careers.logitech.com/)
+
 ##### Microsoft
 
 - **Official Site**: [Microsoft](https://www.microsoft.com/)
@@ -2500,6 +2622,13 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [microsoft](https://github.com/microsoft)
 - **Careers**: [Microsoft Careers](https://careers.microsoft.com/)
 
+##### Sonos
+
+- **Official Site**: [Sonos](https://www.sonos.com/)
+- **Developer Community**: [Sonos Developer](https://developer.sonos.com/)
+- **GitHub**: [sonos](https://github.com/sonos)
+- **Careers**: [Sonos Careers](https://careers.sonos.com/)
+
 ##### Tesla / X
 
 - **Official Site**: [Tesla](https://www.tesla.com/) | [X](https://x.com/)
@@ -2508,17 +2637,167 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [teslamotors](https://github.com/teslamotors)
 - **Careers**: [Tesla Careers](https://www.tesla.com/careers/search)
 
+##### Western Digital
+
+- **Official Site**: [Western Digital](https://www.westerndigital.com/)
+- **Products**: [WD Black](https://www.westerndigital.com/brand/wd-black)
+- **Careers**: [Western Digital Careers](https://www.westerndigital.com/careers)
+
 #### 欧洲
+
+##### Nokia
+
+- **Official Site**: [Nokia](https://www.nokia.com/)
+- **Products**: [Nokia Licensed Products](https://www.nokia.com/support/licensed-products/)
+- **GitHub**: [nokia](https://github.com/nokia)
+- **Careers**: [Nokia Careers](https://www.nokia.com/careers/)
+
+##### Nothing
+
+- **Official Site**: [Nothing](https://nothing.tech/)
+- **Careers**: [Nothing Careers](https://nothing.tech/pages/careers)
+
+##### Philips
+
+- **Official Site**: [Philips](https://www.philips.com/)
+- **Products**: [Philips Healthcare](https://www.philips.com/healthcare)
+- **GitHub**: [philips-labs](https://github.com/philips-labs)
+- **Careers**: [Philips Careers](https://www.careers.philips.com/)
 
 #### 日韩
 
+##### LG
+
+- **Official Site**: [LG Electronics](https://www.lg.com/)
+- **Products**: [LG ThinQ](https://www.lg.com/us/lg-thinq)
+- **Careers**: [LG Careers](https://globalcareers.lge.com/)
+
+##### Panasonic
+
+- **Official Site**: [Panasonic](https://www.panasonic.com/)
+- **Careers**: [Panasonic Careers](https://holdings.panasonic/global/corporate/careers.html)
+
+##### Samsung
+
+- **Official Site**: [Samsung](https://www.samsung.com/)
+- **Products**: [Samsung Galaxy](https://www.samsung.com/global/galaxy/)
+- **Developer Community**: [Samsung Developers](https://developer.samsung.com/)
+- **GitHub**: [samsung](https://github.com/samsung)
+- **Careers**: [Samsung Careers](https://www.samsung.com/us/careers/)
+
+##### Sony
+
+- **Official Site**: [Sony](https://www.sony.com/)
+- **Products**: [PlayStation](https://www.playstation.com/) | [Sony Electronics](https://electronics.sony.com/)
+- **Developer Community**: [Sony Developer](https://developer.sony.com/)
+- **GitHub**: [sony](https://github.com/sony)
+- **Careers**: [Sony Careers](https://www.sony.com/en/SonyInfo/Careers/)
+
 #### 东南亚
+
+##### Polytron
+
+- **Official Site**: [Polytron](https://www.polytron.co.id/)
 
 ### 芯片/半导体
 
 #### 中国
 
+##### 地平线
+
+- **集团官网**: [地平线](https://www.horizon.auto/)
+- **核心产品**: [地平线征程芯片](https://www.horizon.auto/solutions/horizon-journey)
+
+##### 海思（华为）
+
+- **集团官网**: [海思半导体](https://www.hisilicon.com.cn/)
+
+##### 寒武纪
+
+- **集团官网**: [寒武纪](https://www.cambricon.com/)
+- **GitHub**: [Cambricon](https://github.com/Cambricon)
+
+##### 黑芝麻智能
+
+- **集团官网**: [黑芝麻智能](https://www.blacksesame.com/)
+
+##### 澜起科技
+
+- **集团官网**: [澜起科技](https://www.montage-tech.com/cn/)
+
+##### 紫光展锐
+
+- **集团官网**: [紫光展锐](https://www.unisoc.com/)
+
+##### 兆易创新
+
+- **集团官网**: [兆易创新](https://www.gigadevice.com/)
+
+##### 中芯国际
+
+- **集团官网**: [中芯国际](https://www.smics.com/)
+
 #### 美国
+
+##### AMD
+
+- **Official Site**: [AMD](https://www.amd.com/)
+- **Products**: [AMD Ryzen](https://www.amd.com/en/products/processors/consumer.html) | [AMD Instinct](https://www.amd.com/en/products/accelerators/instinct.html)
+- **Developer Community**: [AMD Developer](https://developer.amd.com/)
+- **GitHub**: [AMD](https://github.com/AMD)
+- **Careers**: [AMD Careers](https://careers.amd.com/)
+
+##### Analog Devices
+
+- **Official Site**: [Analog Devices](https://www.analog.com/)
+- **GitHub**: [analogdevicesinc](https://github.com/analogdevicesinc)
+- **Careers**: [Analog Devices Careers](https://www.analog.com/en/about-adi/careers.html)
+
+##### Applied Materials
+
+- **Official Site**: [Applied Materials](https://www.appliedmaterials.com/)
+- **Careers**: [Applied Materials Careers](https://www.appliedmaterials.com/us/en/careers.html)
+
+##### Broadcom
+
+- **Official Site**: [Broadcom](https://www.broadcom.com/)
+- **GitHub**: [broadcom](https://github.com/broadcom)
+- **Careers**: [Broadcom Careers](https://www.broadcom.com/company/careers)
+
+##### GlobalFoundries
+
+- **Official Site**: [GlobalFoundries](https://www.globalfoundries.com/)
+- **GitHub**: [globalfoundries](https://github.com/globalfoundries)
+- **Careers**: [GlobalFoundries Careers](https://www.globalfoundries.com/careers)
+
+##### Intel
+
+- **Official Site**: [Intel](https://www.intel.com/)
+- **Products**: [Intel Core](https://www.intel.com/content/www/us/en/products/details/processors/core.html)
+- **Developer Community**: [Intel Developer](https://www.intel.com/content/www/us/en/developer/home.html)
+- **GitHub**: [intel](https://github.com/intel)
+- **Careers**: [Intel Careers](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
+
+##### KLA
+
+- **Official Site**: [KLA](https://www.kla.com/)
+- **Careers**: [KLA Careers](https://www.kla.com/careers)
+
+##### Lam Research
+
+- **Official Site**: [Lam Research](https://www.lamresearch.com/)
+- **Careers**: [Lam Research Careers](https://careers.lamresearch.com/careers)
+
+##### Marvell
+
+- **Official Site**: [Marvell](https://www.marvell.com/)
+- **Careers**: [Marvell Careers](https://www.marvell.com/company/careers.html)
+
+##### Micron
+
+- **Official Site**: [Micron](https://www.micron.com/)
+- **GitHub**: [Micron-Technology](https://github.com/Micron-Technology)
+- **Careers**: [Micron Careers](https://careers.micron.com/)
 
 ##### NVIDIA
 
@@ -2529,9 +2808,75 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [nvidia](https://github.com/nvidia)
 - **Careers**: [NVIDIA Careers](https://www.nvidia.com/en-us/about-nvidia/careers/)
 
+##### Qualcomm
+
+- **Official Site**: [Qualcomm](https://www.qualcomm.com/)
+- **Products**: [Snapdragon](https://www.qualcomm.com/snapdragon)
+- **Developer Community**: [Qualcomm Developer](https://www.qualcomm.com/developer)
+- **GitHub**: [quic](https://github.com/quic)
+- **Careers**: [Qualcomm Careers](https://www.qualcomm.com/company/careers)
+
+##### Texas Instruments
+
+- **Official Site**: [Texas Instruments](https://www.ti.com/)
+- **GitHub**: [TexasInstruments](https://github.com/TexasInstruments)
+- **Careers**: [TI Careers](https://careers.ti.com/)
+
 #### 欧洲
 
+##### Arm
+
+- **Official Site**: [Arm](https://www.arm.com/)
+- **Developer Community**: [Arm Developer](https://developer.arm.com/)
+- **GitHub**: [ARM-software](https://github.com/ARM-software)
+- **Careers**: [Arm Careers](https://www.arm.com/company/careers)
+
+##### ASML
+
+- **Official Site**: [ASML](https://www.asml.com/)
+- **Careers**: [ASML Careers](https://www.asml.com/en/careers)
+
+##### Infineon
+
+- **Official Site**: [Infineon](https://www.infineon.com/)
+- **GitHub**: [Infineon](https://github.com/Infineon)
+- **Careers**: [Infineon Careers](https://www.infineon.com/careers)
+
+##### NXP
+
+- **Official Site**: [NXP Semiconductors](https://www.nxp.com/)
+- **GitHub**: [NXP](https://github.com/NXP)
+- **Careers**: [NXP Careers](https://www.nxp.com/company/about-nxp/careers)
+
+##### STMicroelectronics
+
+- **Official Site**: [STMicroelectronics](https://www.st.com/)
+- **GitHub**: [STMicroelectronics](https://github.com/STMicroelectronics)
+- **Careers**: [ST Careers](https://www.st.com/content/st_com/en/about/careers/careers.html)
+
 #### 日韩
+
+##### MediaTek
+
+- **Official Site**: [MediaTek](https://www.mediatek.com/)
+- **Products**: [MediaTek Dimensity](https://www.mediatek.com/products/smartphones/dimensity-5g)
+- **Careers**: [MediaTek Careers](https://careers.mediatek.com/)
+
+##### Renesas
+
+- **Official Site**: [Renesas](https://www.renesas.com/)
+- **GitHub**: [renesas](https://github.com/renesas)
+- **Careers**: [Renesas Careers](https://jobs.renesas.com/)
+
+##### SK hynix
+
+- **Official Site**: [SK hynix](https://www.skhynix.com/)
+- **Tech Blog**: [SK hynix Newsroom](https://news.skhynix.com/)
+
+##### TSMC
+
+- **Official Site**: [TSMC](https://www.tsmc.com/)
+- **Careers**: [TSMC Careers](https://www.tsmc.com/english/careers/index.htm)
 
 #### 东南亚
 
@@ -2539,11 +2884,96 @@ A curated navigation list of global technology companies — official sites, pro
 
 #### 中国
 
+##### 超聚变
+
+- **集团官网**: [超聚变](https://www.xfusion.com/)
+
+##### 浪潮信息
+
+- **集团官网**: [浪潮信息](https://www.inspur.com/)
+
+##### 联想（服务器）
+
+- **集团官网**: [联想集团](https://www.lenovo.com.cn/)
+- **GitHub**: [lenovo](https://github.com/lenovo)
+- **招聘**: [联想招聘](https://talent.lenovo.com.cn/)
+
+##### 新华三
+
+- **集团官网**: [新华三](https://www.h3c.com/cn/)
+
+##### 中科曙光
+
+- **集团官网**: [中科曙光](https://www.sugon.com/)
+
 #### 美国
+
+##### Arista Networks
+
+- **Official Site**: [Arista Networks](https://www.arista.com/)
+- **Careers**: [Arista Careers](https://www.arista.com/en/careers)
+
+##### Cisco
+
+- **Official Site**: [Cisco](https://www.cisco.com/)
+- **Developer Community**: [Cisco Developer](https://developer.cisco.com/)
+- **GitHub**: [cisco](https://github.com/cisco)
+- **Careers**: [Cisco Careers](https://careers.cisco.com/)
+
+##### Dell Technologies
+
+- **Official Site**: [Dell Technologies](https://www.delltechnologies.com/)
+- **Products**: [PowerEdge](https://www.dell.com/en-us/shop/scc/sc/servers)
+- **GitHub**: [dell](https://github.com/dell)
+- **Careers**: [Dell Technologies Careers](https://jobs.dell.com/)
+
+##### HPE
+
+- **Official Site**: [Hewlett Packard Enterprise](https://www.hpe.com/)
+- **Products**: [HPE ProLiant](https://www.hpe.com/us/en/servers.html)
+- **GitHub**: [hewlettpackard](https://github.com/hewlettpackard)
+- **Careers**: [HPE Careers](https://careers.hpe.com/)
+
+##### Juniper Networks
+
+- **Official Site**: [Juniper Networks](https://www.juniper.net/)
+- **GitHub**: [Juniper](https://github.com/Juniper)
+- **Careers**: [Juniper Careers](https://careers.hpe.com/juniper)
+
+##### NetApp
+
+- **Official Site**: [NetApp](https://www.netapp.com/)
+- **Developer Community**: [NetApp Developer](https://www.netapp.com/developer/)
+- **GitHub**: [NetApp](https://github.com/NetApp)
+- **Careers**: [NetApp Careers](https://careers.netapp.com/)
+
+##### Seagate
+
+- **Official Site**: [Seagate](https://www.seagate.com/)
+- **GitHub**: [Seagate](https://github.com/Seagate)
+- **Careers**: [Seagate Careers](https://www.seagate.com/careers/)
+
+##### Supermicro
+
+- **Official Site**: [Supermicro](https://www.supermicro.com/)
+- **Careers**: [Supermicro Careers](https://jobs.supermicro.com/)
 
 #### 欧洲
 
+##### Ericsson
+
+- **Official Site**: [Ericsson](https://www.ericsson.com/)
+- **GitHub**: [ericsson](https://github.com/ericsson)
+- **Careers**: [Ericsson Careers](https://www.ericsson.com/en/careers)
+
 #### 日韩
+
+##### Fujitsu
+
+- **Official Site**: [Fujitsu](https://www.fujitsu.com/)
+- **Products**: [Fujitsu Computer Platforms](https://global.fujitsu/en-global/capabilities/computer-platform)
+- **GitHub**: [fujitsu](https://github.com/fujitsu)
+- **Careers**: [Fujitsu Careers](https://global.fujitsu/en-global/careers)
 
 #### 东南亚
 
@@ -2551,11 +2981,67 @@ A curated navigation list of global technology companies — official sites, pro
 
 #### 中国
 
+##### Aqara 绿米
+
+- **集团官网**: [Aqara](https://www.aqara.com/cn/)
+
+##### 广和通
+
+- **集团官网**: [广和通](https://www.fibocom.com/)
+
+##### 涂鸦智能
+
+- **集团官网**: [涂鸦智能](https://www.tuya.com/cn)
+- **开发者社区**: [涂鸦开发者平台](https://developer.tuya.com/)
+- **GitHub**: [tuya](https://github.com/tuya)
+
+##### 移远通信
+
+- **集团官网**: [移远通信](https://www.quectel.com/)
+
 #### 美国
+
+##### Digi International
+
+- **Official Site**: [Digi International](https://www.digi.com/)
+- **GitHub**: [digidotcom](https://github.com/digidotcom)
+- **Careers**: [Digi Careers](https://www.digi.com/about/careers)
+
+##### Particle
+
+- **Official Site**: [Particle](https://www.particle.io/)
+- **Developer Community**: [Particle Docs](https://docs.particle.io/)
+- **GitHub**: [particle-iot](https://github.com/particle-iot)
+
+##### Samsara
+
+- **Official Site**: [Samsara](https://www.samsara.com/)
+- **Developer Community**: [Samsara Developer](https://developer.samsara.com/)
+- **GitHub**: [samsara](https://github.com/samsara)
+- **Careers**: [Samsara Careers](https://www.samsara.com/company/careers)
+
+##### Silicon Labs
+
+- **Official Site**: [Silicon Labs](https://www.silabs.com/)
+- **GitHub**: [SiliconLabs](https://github.com/SiliconLabs)
+- **Careers**: [Silicon Labs Careers](https://www.silabs.com/about-us/careers)
 
 #### 欧洲
 
+##### Bosch
+
+- **Official Site**: [Bosch](https://www.bosch.com/)
+- **Products**: [Bosch Smart Home](https://www.bosch-smarthome.com/)
+- **GitHub**: [boschresearch](https://github.com/boschresearch)
+- **Careers**: [Bosch Careers](https://www.bosch.com/careers/)
+
 #### 日韩
+
+##### Soracom
+
+- **Official Site**: [Soracom](https://soracom.io/)
+- **Developer Community**: [Soracom Developers](https://developers.soracom.io/en)
+- **GitHub**: [soracom](https://github.com/soracom)
 
 #### 东南亚
 
