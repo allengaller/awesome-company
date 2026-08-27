@@ -35,6 +35,23 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [alibaba](https://github.com/alibaba)
 - **招聘**: [阿里巴巴集团招聘](https://talent.alibaba.com/)
 
+##### 当当网
+
+- **集团官网**: [当当网](https://www.dangdang.com/)
+- **核心产品**: [当当网](https://www.dangdang.com/)
+
+##### 得物
+
+- **集团官网**: [得物](https://www.dewu.com/)
+- **核心产品**: [得物App](https://www.dewu.com/)
+- **技术博客**: [得物技术](https://tech.dewu.com/)
+- **招聘**: [得物招聘](https://campus.dewu.com/)
+
+##### 国美
+
+- **集团官网**: [国美](https://www.gome.com.cn/)
+- **核心产品**: [国美在线](https://www.gome.com.cn/)
+
 ##### 京东
 
 - **集团官网**: [京东](https://www.jd.com/)
@@ -53,12 +70,35 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [meituan](https://github.com/meituan)
 - **招聘**: [美团招聘](https://zhaopin.meituan.com/)
 
+##### 蘑菇街
+
+- **集团官网**: [蘑菇街](https://www.mogu.com/)
+- **核心产品**: [蘑菇街](https://www.mogu.com/)
+- **招聘**: [蘑菇街招聘](https://job.mogu.com/)
+
 ##### 拼多多
 
 - **集团官网**: [拼多多](https://www.pinduoduo.com/)
 - **核心产品**: [拼多多](https://www.pinduoduo.com/) | [Temu](https://www.temu.com/)
 - **GitHub**: [pinduoduo](https://github.com/pinduoduo)
 - **招聘**: [拼多多招聘](https://careers.pddglobalhr.com/)
+
+##### 什么值得买
+
+- **集团官网**: [什么值得买](https://www.smzdm.com/)
+- **核心产品**: [什么值得买](https://www.smzdm.com/)
+
+##### 苏宁易购
+
+- **集团官网**: [苏宁易购](https://suning.com/)
+- **核心产品**: [苏宁易购](https://suning.com/)
+- **招聘**: [苏宁易购招聘](https://careers.suning.cn/)
+
+##### 网易严选（网易）
+
+- **集团官网**: [网易严选](https://you.163.com/)
+- **核心产品**: [网易严选](https://you.163.com/)
+- **招聘**: [网易严选招聘](https://hr.163.com/product.html/yanxuan?workType=1&lang=zh)
 
 ##### 唯品会
 
@@ -67,55 +107,15 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [vipshop](https://github.com/vipshop)
 - **招聘**: [唯品会招聘](https://campus.vip.com/)
 
-##### 苏宁易购
-
-- **集团官网**: [苏宁易购](https://suning.com/)
-- **核心产品**: [苏宁易购](https://suning.com/)
-- **招聘**: [苏宁易购招聘](http://careers.suning.cn/)
-
-##### 当当网
-
-- **集团官网**: [当当网](https://www.dangdang.com/)
-- **核心产品**: [当当网](https://www.dangdang.com/)
-
-##### 得物
-
-- **集团官网**: [得物](https://www.dewu.com/)
-- **核心产品**: [得物App](https://www.dewu.com/)
-- **技术博客**: [得物技术](https://tech.dewu.com/)
-- **招聘**: [得物招聘](https://campus.dewu.com/)
-
-##### 蘑菇街
-
-- **集团官网**: [蘑菇街](https://www.mogu.com/)
-- **核心产品**: [蘑菇街](https://www.mogu.com/)
-- **招聘**: [蘑菇街招聘](https://job.mogu.com/)
-
-##### 什么值得买
-
-- **集团官网**: [什么值得买](https://www.smzdm.com/)
-- **核心产品**: [什么值得买](https://www.smzdm.com/)
-
-##### 网易严选
-
-- **集团官网**: [网易严选](https://you.163.com/)
-- **核心产品**: [网易严选](https://you.163.com/)
-- **招聘**: [网易严选招聘](https://hr.163.com/product.html/yanxuan?workType=1&lang=zh)
-
-##### 小米有品
-
-- **集团官网**: [小米有品](https://www.xiaomiyoupin.com/)
-- **核心产品**: [小米有品](https://www.xiaomiyoupin.com/)
-
-##### 国美
-
-- **集团官网**: [国美](http://www.gome.com.cn/)
-- **核心产品**: [国美在线](http://www.gome.com.cn/)
-
 ##### 小红书
 
 - **集团官网**: [小红书](https://www.xiaohongshu.com/)
 - **核心产品**: [小红书](https://www.xiaohongshu.com/)
+
+##### 小米有品（小米）
+
+- **集团官网**: [小米有品](https://www.xiaomiyoupin.com/)
+- **核心产品**: [小米有品](https://www.xiaomiyoupin.com/)
 
 #### 美国
 
@@ -128,29 +128,12 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [aws](https://github.com/aws) | [amzn](https://github.com/amzn)
 - **Careers**: [Amazon Jobs](https://www.amazon.jobs/)
 
-##### eBay
+##### Best Buy
 
-- **Official Site**: [eBay](https://www.ebay.com/)
-- **Products**: [eBay](https://www.ebay.com/)
-- **Tech Blog**: [eBay Tech Blog](https://tech.ebayinc.com/)
-- **GitHub**: [ebay](https://github.com/ebay)
-- **Careers**: [eBay Careers](https://jobs.ebayinc.com/)
-
-##### Walmart
-
-- **Official Site**: [Walmart](https://www.walmart.com/)
-- **Products**: [Walmart](https://www.walmart.com/) | [Walmart+](https://www.walmart.com/plus)
-- **Tech Blog**: [Walmart Global Tech](https://tech.walmart.com/)
-- **GitHub**: [walmartlabs](https://github.com/walmartlabs)
-- **Careers**: [Walmart Careers](https://careers.walmart.com/)
-
-##### Target
-
-- **Official Site**: [Target](https://www.target.com/)
-- **Products**: [Target](https://www.target.com/)
-- **Tech Blog**: [Target Tech](https://tech.target.com/)
-- **GitHub**: [target](https://github.com/target)
-- **Careers**: [Target Careers](https://corporate.target.com/careers)
+- **Official Site**: [Best Buy](https://www.bestbuy.com/)
+- **Products**: [Best Buy](https://www.bestbuy.com/)
+- **GitHub**: [bestbuy](https://github.com/bestbuy)
+- **Careers**: [Best Buy Careers](https://jobs.bestbuy.com/)
 
 ##### Costco
 
@@ -158,13 +141,13 @@ A curated navigation list of global technology companies — official sites, pro
 - **Products**: [Costco](https://www.costco.com/)
 - **Careers**: [Costco Careers](https://careers.costco.com/)
 
-##### Shopify
+##### eBay
 
-- **Official Site**: [Shopify](https://www.shopify.com/)
-- **Products**: [Shopify](https://www.shopify.com/)
-- **Tech Blog**: [Shopify Engineering](https://shopify.engineering/)
-- **GitHub**: [shopify](https://github.com/shopify)
-- **Careers**: [Shopify Careers](https://www.shopify.com/careers)
+- **Official Site**: [eBay](https://www.ebay.com/)
+- **Products**: [eBay](https://www.ebay.com/)
+- **Tech Blog**: [eBay Tech Blog](https://tech.ebayinc.com/)
+- **GitHub**: [ebay](https://github.com/ebay)
+- **Careers**: [eBay Careers](https://jobs.ebayinc.com/)
 
 ##### Etsy
 
@@ -174,6 +157,37 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [etsy](https://github.com/etsy)
 - **Careers**: [Etsy Careers](https://careers.etsy.com/)
 
+##### Newegg
+
+- **Official Site**: [Newegg](https://www.newegg.com/)
+- **Products**: [Newegg](https://www.newegg.com/)
+- **GitHub**: [newegg](https://github.com/newegg)
+- **Careers**: [Newegg Careers](https://www.newegg.com/careers)
+
+##### Shopify
+
+- **Official Site**: [Shopify](https://www.shopify.com/)
+- **Products**: [Shopify](https://www.shopify.com/)
+- **Tech Blog**: [Shopify Engineering](https://shopify.engineering/)
+- **GitHub**: [shopify](https://github.com/shopify)
+- **Careers**: [Shopify Careers](https://www.shopify.com/careers)
+
+##### Target
+
+- **Official Site**: [Target](https://www.target.com/)
+- **Products**: [Target](https://www.target.com/)
+- **Tech Blog**: [Target Tech](https://tech.target.com/)
+- **GitHub**: [target](https://github.com/target)
+- **Careers**: [Target Careers](https://corporate.target.com/careers)
+
+##### Walmart
+
+- **Official Site**: [Walmart](https://www.walmart.com/)
+- **Products**: [Walmart](https://www.walmart.com/) | [Walmart+](https://www.walmart.com/plus)
+- **Tech Blog**: [Walmart Global Tech](https://tech.walmart.com/)
+- **GitHub**: [walmartlabs](https://github.com/walmartlabs)
+- **Careers**: [Walmart Careers](https://careers.walmart.com/)
+
 ##### Wayfair
 
 - **Official Site**: [Wayfair](https://www.wayfair.com/)
@@ -181,20 +195,6 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [Wayfair Tech Blog](https://www.aboutwayfair.com/careers/tech-blog)
 - **GitHub**: [wayfair](https://github.com/wayfair)
 - **Careers**: [Wayfair Careers](https://www.aboutwayfair.com/careers)
-
-##### Best Buy
-
-- **Official Site**: [Best Buy](https://www.bestbuy.com/)
-- **Products**: [Best Buy](https://www.bestbuy.com/)
-- **GitHub**: [bestbuy](https://github.com/bestbuy)
-- **Careers**: [Best Buy Careers](https://jobs.bestbuy.com/)
-
-##### Newegg
-
-- **Official Site**: [Newegg](https://www.newegg.com/)
-- **Products**: [Newegg](https://www.newegg.com/)
-- **GitHub**: [newegg](https://github.com/newegg)
-- **Careers**: [Newegg Careers](https://www.newegg.com/careers)
 
 ##### Wish
 
@@ -205,13 +205,13 @@ A curated navigation list of global technology companies — official sites, pro
 
 #### 欧洲
 
-##### Zalando
+##### Allegro
 
-- **Official Site**: [Zalando](https://www.zalando.com/)
-- **Products**: [Zalando](https://www.zalando.com/)
-- **Tech Blog**: [Zalando Engineering](https://engineering.zalando.com/)
-- **GitHub**: [zalando](https://github.com/zalando)
-- **Careers**: [Zalando Careers](https://jobs.zalando.com/)
+- **Official Site**: [Allegro](https://allegro.pl/)
+- **Products**: [Allegro](https://allegro.pl/)
+- **Tech Blog**: [Allegro Tech Blog](https://blog.allegro.tech/)
+- **GitHub**: [allegro](https://github.com/allegro)
+- **Careers**: [Allegro Careers](https://careers.allegro.eu/)
 
 ##### ASOS
 
@@ -221,13 +221,13 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [asos](https://github.com/asos)
 - **Careers**: [ASOS Careers](https://www.asoscareers.com/)
 
-##### Allegro
+##### Cdiscount
 
-- **Official Site**: [Allegro](https://allegro.pl/)
-- **Products**: [Allegro](https://allegro.pl/)
-- **Tech Blog**: [Allegro Tech Blog](https://blog.allegro.tech/)
-- **GitHub**: [allegro](https://github.com/allegro)
-- **Careers**: [Allegro Careers](https://careers.allegro.eu/)
+- **Official Site**: [Cdiscount](https://www.cdiscount.com/)
+- **Products**: [Cdiscount](https://www.cdiscount.com/)
+- **Tech Blog**: [Cdiscount Tech Blog](https://github.com/Cdiscount/IT-Blog)
+- **GitHub**: [cdiscount](https://github.com/Cdiscount)
+- **Careers**: [Cdiscount Careers](https://emploi.cdiscount.com/)
 
 ##### Otto
 
@@ -237,31 +237,15 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [otto-de](https://github.com/otto-de)
 - **Careers**: [Otto Careers](https://www.otto.de/jobs/)
 
-##### Cdiscount
+##### Zalando
 
-- **Official Site**: [Cdiscount](https://www.cdiscount.com/)
-- **Products**: [Cdiscount](https://www.cdiscount.com/)
-- **Tech Blog**: [Cdiscount Tech Blog](https://github.com/Cdiscount/IT-Blog)
-- **GitHub**: [cdiscount](https://github.com/Cdiscount)
-- **Careers**: [Cdiscount Careers](https://emploi.cdiscount.com/)
+- **Official Site**: [Zalando](https://www.zalando.com/)
+- **Products**: [Zalando](https://www.zalando.com/)
+- **Tech Blog**: [Zalando Engineering](https://engineering.zalando.com/)
+- **GitHub**: [zalando](https://github.com/zalando)
+- **Careers**: [Zalando Careers](https://jobs.zalando.com/)
 
 #### 日韩
-
-##### Rakuten
-
-- **Official Site**: [Rakuten](https://www.rakuten.co.jp/)
-- **Products**: [Rakuten Ichiba](https://www.rakuten.co.jp/)
-- **Tech Blog**: [Rakuten Engineering](https://engineering.rakuten.today/)
-- **GitHub**: [rakutentech](https://github.com/rakutentech)
-- **Careers**: [Rakuten Careers](https://global.rakuten.com/corp/careers/)
-
-##### Mercari
-
-- **Official Site**: [Mercari](https://www.mercari.com/)
-- **Products**: [Mercari](https://www.mercari.com/)
-- **Tech Blog**: [Mercari Engineering](https://engineering.mercari.com/)
-- **GitHub**: [mercari](https://github.com/mercari)
-- **Careers**: [Mercari Careers](https://careers.mercari.com/)
 
 ##### Coupang
 
@@ -276,13 +260,23 @@ A curated navigation list of global technology companies — official sites, pro
 - **Official Site**: [Gmarket](https://www.gmarket.co.kr/)
 - **Products**: [Gmarket](https://www.gmarket.co.kr/)
 
+##### Mercari
+
+- **Official Site**: [Mercari](https://www.mercari.com/)
+- **Products**: [Mercari](https://www.mercari.com/)
+- **Tech Blog**: [Mercari Engineering](https://engineering.mercari.com/)
+- **GitHub**: [mercari](https://github.com/mercari)
+- **Careers**: [Mercari Careers](https://careers.mercari.com/)
+
+##### Rakuten
+
+- **Official Site**: [Rakuten](https://www.rakuten.co.jp/)
+- **Products**: [Rakuten Ichiba](https://www.rakuten.co.jp/)
+- **Tech Blog**: [Rakuten Engineering](https://engineering.rakuten.today/)
+- **GitHub**: [rakutentech](https://github.com/rakutentech)
+- **Careers**: [Rakuten Careers](https://global.rakuten.com/corp/careers/)
+
 #### 东南亚
-
-##### Shopee
-
-- **Official Site**: [Shopee](https://shopee.com/)
-- **Products**: [Shopee](https://shopee.com/)
-- **Careers**: [Shopee Careers](https://careers.shopee.com/)
 
 ##### Lazada
 
@@ -290,6 +284,12 @@ A curated navigation list of global technology companies — official sites, pro
 - **Products**: [Lazada](https://www.lazada.com/)
 - **GitHub**: [lazada](https://github.com/lazada)
 - **Careers**: [Lazada Careers](https://www.lazada.com/en/careers/)
+
+##### Shopee
+
+- **Official Site**: [Shopee](https://shopee.com/)
+- **Products**: [Shopee](https://shopee.com/)
+- **Careers**: [Shopee Careers](https://careers.shopee.com/)
 
 ##### Tokopedia
 
@@ -301,6 +301,40 @@ A curated navigation list of global technology companies — official sites, pro
 ### 社交
 
 #### 中国
+
+##### Blued
+
+- **集团官网**: [Blued](https://www.blued.cn/)
+- **核心产品**: [Blued](https://www.blued.cn/)
+- **GitHub**: [bluedapp](https://github.com/bluedapp)
+
+##### 豆瓣
+
+- **集团官网**: [豆瓣](https://www.douban.com/)
+- **核心产品**: [豆瓣](https://www.douban.com/)
+- **招聘**: [豆瓣招聘](https://jobs.douban.com/)
+
+##### 即刻
+
+- **集团官网**: [即刻](https://www.jike.city/)
+- **核心产品**: [即刻](https://www.jike.city/)
+
+##### 陌陌
+
+- **集团官网**: [陌陌](https://www.immomo.com/)
+- **核心产品**: [陌陌](https://www.immomo.com/)
+- **GitHub**: [momotech](https://github.com/momotech)
+
+##### Soul
+
+- **集团官网**: [Soul](https://www.soulapp.cn/)
+- **核心产品**: [Soul](https://www.soulapp.cn/)
+- **招聘**: [Soul招聘](https://www.soulapp.cn/career)
+
+##### 探探
+
+- **集团官网**: [探探](https://tantanapp.com/)
+- **核心产品**: [探探](https://tantanapp.com/)
 
 ##### 腾讯
 
@@ -316,6 +350,12 @@ A curated navigation list of global technology companies — official sites, pro
 - **集团官网**: [微博](https://www.weibo.com/)
 - **核心产品**: [微博](https://www.weibo.com/)
 
+##### 雪球
+
+- **集团官网**: [雪球](https://xueqiu.com/)
+- **核心产品**: [雪球](https://xueqiu.com/)
+- **招聘**: [雪球招聘](https://xueqiu.com/about/jobs)
+
 ##### 知乎
 
 - **集团官网**: [知乎](https://www.zhihu.com/)
@@ -323,65 +363,21 @@ A curated navigation list of global technology companies — official sites, pro
 - **技术博客**: [知乎技术专栏](https://zhuanlan.zhihu.com/hackers)
 - **GitHub**: [zhihu](https://github.com/zhihu)
 
-##### 豆瓣
-
-- **集团官网**: [豆瓣](https://www.douban.com/)
-- **核心产品**: [豆瓣](https://www.douban.com/)
-- **招聘**: [豆瓣招聘](https://jobs.douban.com/)
-
-##### 陌陌
-
-- **集团官网**: [陌陌](https://www.immomo.com/)
-- **核心产品**: [陌陌](https://www.immomo.com/)
-- **GitHub**: [momotech](https://github.com/momotech)
-
-##### 探探
-
-- **集团官网**: [探探](https://tantanapp.com/)
-- **核心产品**: [探探](https://tantanapp.com/)
-
-##### Soul
-
-- **集团官网**: [Soul](https://www.soulapp.cn/)
-- **核心产品**: [Soul](https://www.soulapp.cn/)
-- **招聘**: [Soul招聘](https://www.soulapp.cn/career)
-
-##### Blued
-
-- **集团官网**: [Blued](https://www.blued.cn/)
-- **核心产品**: [Blued](https://www.blued.cn/)
-- **GitHub**: [bluedapp](https://github.com/bluedapp)
-
-##### 即刻
-
-- **集团官网**: [即刻](https://www.jike.city/)
-- **核心产品**: [即刻](https://www.jike.city/)
-
-##### 雪球
-
-- **集团官网**: [雪球](https://xueqiu.com/)
-- **核心产品**: [雪球](https://xueqiu.com/)
-- **招聘**: [雪球招聘](https://xueqiu.com/about/jobs)
-
 #### 美国
 
-##### Meta
+##### Clubhouse
 
-- **Official Site**: [Meta](https://about.meta.com/)
-- **Products**: [Facebook](https://www.facebook.com/) | [Instagram](https://www.instagram.com/) | [WhatsApp](https://www.whatsapp.com/) | [Messenger](https://www.messenger.com/)
-- **Tech Blog**: [Engineering at Meta](https://engineering.fb.com/) | [AI at Meta Blog](https://ai.meta.com/blog/)
-- **Developer Community**: [Meta for Developers](https://developers.facebook.com/)
-- **GitHub**: [facebook](https://github.com/facebook) | [facebookincubator](https://github.com/facebookincubator)
-- **Careers**: [Meta Careers](https://www.metacareers.com/)
+- **Official Site**: [Clubhouse](https://www.clubhouse.com/)
+- **Products**: [Clubhouse](https://www.clubhouse.com/)
+- **Careers**: [Clubhouse Careers](https://www.clubhouse.com/jobs)
 
-##### X (Twitter)
+##### Discord
 
-- **Official Site**: [X](https://x.com/)
-- **Products**: [X](https://x.com/)
-- **Tech Blog**: [X Engineering](https://blog.x.com/engineering/en_us)
-- **Developer Community**: [X Developer Platform](https://developer.x.com/)
-- **GitHub**: [twitter](https://github.com/twitter)
-- **Careers**: [X Careers](https://careers.x.com/)
+- **Official Site**: [Discord](https://discord.com/)
+- **Products**: [Discord](https://discord.com/)
+- **Tech Blog**: [Discord Engineering](https://discord.com/category/engineering)
+- **GitHub**: [discord](https://github.com/discord)
+- **Careers**: [Discord Careers](https://discord.com/careers)
 
 ##### LinkedIn
 
@@ -391,11 +387,14 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [linkedin](https://github.com/linkedin)
 - **Careers**: [LinkedIn Careers](https://www.linkedin.com/company/linkedin/jobs/)
 
-##### Snapchat
+##### Meta
 
-- **Official Site**: [Snapchat](https://www.snapchat.com/)
-- **Products**: [Snapchat](https://www.snapchat.com/)
-- **Careers**: [Snap Careers](https://careers.snap.com/)
+- **Official Site**: [Meta](https://about.meta.com/)
+- **Products**: [Facebook](https://www.facebook.com/) | [Instagram](https://www.instagram.com/) | [WhatsApp](https://www.whatsapp.com/) | [Messenger](https://www.messenger.com/)
+- **Tech Blog**: [Engineering at Meta](https://engineering.fb.com/) | [AI at Meta Blog](https://ai.meta.com/blog/)
+- **Developer Community**: [Meta for Developers](https://developers.facebook.com/)
+- **GitHub**: [facebook](https://github.com/facebook) | [facebookincubator](https://github.com/facebookincubator)
+- **Careers**: [Meta Careers](https://www.metacareers.com/)
 
 ##### Pinterest
 
@@ -413,27 +412,6 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [reddit](https://github.com/reddit)
 - **Careers**: [Reddit Careers](https://www.redditinc.com/careers)
 
-##### Discord
-
-- **Official Site**: [Discord](https://discord.com/)
-- **Products**: [Discord](https://discord.com/)
-- **Tech Blog**: [Discord Engineering](https://discord.com/category/engineering)
-- **GitHub**: [discord](https://github.com/discord)
-- **Careers**: [Discord Careers](https://discord.com/careers)
-
-##### TikTok
-
-- **Official Site**: [TikTok](https://www.tiktok.com/)
-- **Products**: [TikTok](https://www.tiktok.com/)
-- **Tech Blog**: [TikTok for Developers](https://developers.tiktok.com/blogs)
-- **Careers**: [TikTok Careers](https://lifeattiktok.com/)
-
-##### Telegram
-
-- **Official Site**: [Telegram](https://telegram.org/)
-- **Products**: [Telegram](https://telegram.org/)
-- **Careers**: [Telegram Careers](https://telegram.org/jobs)
-
 ##### Signal
 
 - **Official Site**: [Signal](https://signal.org/)
@@ -442,19 +420,35 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [signalapp](https://github.com/signalapp)
 - **Careers**: [Signal Careers](https://signal.org/workworkwork/)
 
-##### Clubhouse
+##### Snapchat
 
-- **Official Site**: [Clubhouse](https://www.clubhouse.com/)
-- **Products**: [Clubhouse](https://www.clubhouse.com/)
-- **Careers**: [Clubhouse Careers](https://www.clubhouse.com/jobs)
+- **Official Site**: [Snapchat](https://www.snapchat.com/)
+- **Products**: [Snapchat](https://www.snapchat.com/)
+- **Careers**: [Snap Careers](https://careers.snap.com/)
+
+##### Telegram
+
+- **Official Site**: [Telegram](https://telegram.org/)
+- **Products**: [Telegram](https://telegram.org/)
+- **Careers**: [Telegram Careers](https://telegram.org/jobs)
+
+##### TikTok（字节跳动）
+
+- **Official Site**: [TikTok](https://www.tiktok.com/)
+- **Products**: [TikTok](https://www.tiktok.com/)
+- **Tech Blog**: [TikTok for Developers](https://developers.tiktok.com/blogs)
+- **Careers**: [TikTok Careers](https://lifeattiktok.com/)
+
+##### X (Twitter)
+
+- **Official Site**: [X](https://x.com/)
+- **Products**: [X](https://x.com/)
+- **Tech Blog**: [X Engineering](https://blog.x.com/engineering/en_us)
+- **Developer Community**: [X Developer Platform](https://developer.x.com/)
+- **GitHub**: [twitter](https://github.com/twitter)
+- **Careers**: [X Careers](https://careers.x.com/)
 
 #### 欧洲
-
-##### VK
-
-- **Official Site**: [VK](https://vk.com/)
-- **Products**: [VK](https://vk.com/)
-- **GitHub**: [vk-com](https://github.com/vk-com)
 
 ##### Badoo
 
@@ -463,13 +457,20 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [Badoo Tech Blog](https://github.com/badoo/techblog)
 - **GitHub**: [badoo](https://github.com/badoo)
 
-##### Tuenti
+##### VK
 
-- **Official Site**: [Tuenti](https://www.tuenti.com/)
-- **Products**: [Tuenti](https://www.tuenti.com/)
-- **GitHub**: [tuenti](https://github.com/tuenti)
+- **Official Site**: [VK](https://vk.com/)
+- **Products**: [VK](https://vk.com/)
+- **GitHub**: [vk-com](https://github.com/vk-com)
 
 #### 日韩
+
+##### KakaoTalk
+
+- **Official Site**: [Kakao](https://www.kakaocorp.com/)
+- **Products**: [KakaoTalk](https://www.kakaocorp.com/page/service/service/KakaoTalk)
+- **GitHub**: [kakao](https://github.com/kakao)
+- **Careers**: [Kakao Careers](https://careers.kakao.com/)
 
 ##### LINE
 
@@ -479,13 +480,6 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [line](https://github.com/line)
 - **Careers**: [LINE Careers](https://careers.linecorp.com/)
 
-##### KakaoTalk
-
-- **Official Site**: [Kakao](https://www.kakaocorp.com/)
-- **Products**: [KakaoTalk](https://www.kakaocorp.com/page/service/service/KakaoTalk)
-- **GitHub**: [kakao](https://github.com/kakao)
-- **Careers**: [Kakao Careers](https://careers.kakao.com/)
-
 ##### Mixi
 
 - **Official Site**: [Mixi](https://mixi.co.jp/)
@@ -494,16 +488,16 @@ A curated navigation list of global technology companies — official sites, pro
 
 #### 东南亚
 
+##### Tantan
+
+- **Official Site**: [Tantan](https://tantanapp.com/)
+- **Products**: [Tantan](https://tantanapp.com/)
+
 ##### Zalo
 
 - **Official Site**: [Zalo](https://zalo.me/)
 - **Products**: [Zalo](https://zalo.me/)
 - **Careers**: [Zalo Careers](https://zalo.careers/)
-
-##### Tantan
-
-- **Official Site**: [Tantan](https://tantanapp.com/)
-- **Products**: [Tantan](https://tantanapp.com/)
 
 ### 内容/媒体
 
@@ -624,7 +618,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **集团官网**: [搜狐](https://www.sohu.com/)
 - **核心产品**: [搜狐网](https://www.sohu.com/) | [搜狐视频](https://tv.sohu.com/)
 
-##### 腾讯音乐
+##### 腾讯音乐（腾讯）
 
 - **集团官网**: [腾讯音乐娱乐集团](https://www.tencentmusic.com/)
 - **核心产品**: [QQ音乐](https://y.qq.com/) | [酷狗音乐](https://www.kugou.com/) | [酷我音乐](https://www.kuwo.cn/)
@@ -2001,6 +1995,13 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [OpenBMB](https://github.com/OpenBMB)
 - **招聘**: [面壁智能招聘](https://modelbest.jobs.feishu.cn/career/m/)
 
+##### 阶跃星辰
+
+- **集团官网**: [阶跃星辰](https://www.stepfun.com/)
+- **核心产品**: [阶跃星辰开放平台](https://platform.stepfun.com/)
+- **GitHub**: [stepfun-ai](https://github.com/stepfun-ai)
+- **招聘**: [阶跃星辰招聘](https://www.stepfun.com/)
+
 ##### MiniMax
 
 - **集团官网**: [MiniMax](https://www.minimaxi.com/)
@@ -2038,14 +2039,7 @@ A curated navigation list of global technology companies — official sites, pro
 
 - **集团官网**: [云知声](https://www.unisound.com/)
 - **核心产品**: [山海大模型](https://ai.unisound.com/shanhai-largeModel)
-- **招聘**: [云知声招聘](http://campus.51job.com/yzs/)
-
-##### 阶跃星辰
-
-- **集团官网**: [阶跃星辰](https://www.stepfun.com/)
-- **核心产品**: [阶跃星辰开放平台](https://platform.stepfun.com/)
-- **GitHub**: [stepfun-ai](https://github.com/stepfun-ai)
-- **招聘**: [阶跃星辰招聘](https://www.stepfun.com/)
+- **招聘**: [云知声招聘](https://campus.51job.com/yzs/)
 
 ##### 零一万物
 
@@ -2725,13 +2719,13 @@ A curated navigation list of global technology companies — official sites, pro
 
 - **集团官网**: [澜起科技](https://www.montage-tech.com/cn/)
 
-##### 紫光展锐
-
-- **集团官网**: [紫光展锐](https://www.unisoc.com/)
-
 ##### 兆易创新
 
 - **集团官网**: [兆易创新](https://www.gigadevice.com/)
+
+##### 紫光展锐
+
+- **集团官网**: [紫光展锐](https://www.unisoc.com/)
 
 ##### 中芯国际
 
