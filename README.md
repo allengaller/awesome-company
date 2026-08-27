@@ -1975,6 +1975,13 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [4paradigm](https://github.com/4paradigm)
 - **招聘**: [第四范式招聘](https://www.4paradigm.com/about/hr.html)
 
+##### 阶跃星辰
+
+- **集团官网**: [阶跃星辰](https://www.stepfun.com/)
+- **核心产品**: [阶跃星辰开放平台](https://platform.stepfun.com/)
+- **GitHub**: [stepfun-ai](https://github.com/stepfun-ai)
+- **招聘**: [阶跃星辰招聘](https://www.stepfun.com/)
+
 ##### 科大讯飞
 
 - **集团官网**: [科大讯飞](https://www.iflytek.com/)
@@ -1988,19 +1995,19 @@ A curated navigation list of global technology companies — official sites, pro
 - **GitHub**: [Face++](https://github.com/faceplusplus)
 - **招聘**: [旷视科技招聘](https://www.megvii.com/AI_Documentation/Proposal)
 
+##### 零一万物
+
+- **集团官网**: [零一万物](https://www.lingyiwanwu.com/)
+- **核心产品**: [Yi 大模型](https://www.lingyiwanwu.com/)
+- **GitHub**: [01-ai](https://github.com/01-ai)
+- **招聘**: [零一万物招聘](https://www.lingyiwanwu.com/careers.html)
+
 ##### 面壁智能
 
 - **集团官网**: [面壁智能](https://modelbest.cn/)
 - **核心产品**: [MiniCPM](https://modelbest.cn/)
 - **GitHub**: [OpenBMB](https://github.com/OpenBMB)
 - **招聘**: [面壁智能招聘](https://modelbest.jobs.feishu.cn/career/m/)
-
-##### 阶跃星辰
-
-- **集团官网**: [阶跃星辰](https://www.stepfun.com/)
-- **核心产品**: [阶跃星辰开放平台](https://platform.stepfun.com/)
-- **GitHub**: [stepfun-ai](https://github.com/stepfun-ai)
-- **招聘**: [阶跃星辰招聘](https://www.stepfun.com/)
 
 ##### MiniMax
 
@@ -2029,6 +2036,13 @@ A curated navigation list of global technology companies — official sites, pro
 - **核心产品**: [依图科技](https://www.yitutech.com/cn)
 - **招聘**: [依图科技招聘](https://www.yitutech.com/cn/join-us)
 
+##### 月之暗面
+
+- **集团官网**: [月之暗面](https://www.moonshot.cn/)
+- **核心产品**: [Kimi](https://kimi.moonshot.cn/)
+- **GitHub**: [moonshotai](https://github.com/moonshotai)
+- **招聘**: [月之暗面招聘](https://careers.kimi.com/)
+
 ##### 云从科技
 
 - **集团官网**: [云从科技](https://www.cloudwalk.cn/)
@@ -2040,20 +2054,6 @@ A curated navigation list of global technology companies — official sites, pro
 - **集团官网**: [云知声](https://www.unisound.com/)
 - **核心产品**: [山海大模型](https://ai.unisound.com/shanhai-largeModel)
 - **招聘**: [云知声招聘](https://campus.51job.com/yzs/)
-
-##### 零一万物
-
-- **集团官网**: [零一万物](https://www.lingyiwanwu.com/)
-- **核心产品**: [Yi 大模型](https://www.lingyiwanwu.com/)
-- **GitHub**: [01-ai](https://github.com/01-ai)
-- **招聘**: [零一万物招聘](https://www.lingyiwanwu.com/careers.html)
-
-##### 月之暗面
-
-- **集团官网**: [月之暗面](https://www.moonshot.cn/)
-- **核心产品**: [Kimi](https://kimi.moonshot.cn/)
-- **GitHub**: [moonshotai](https://github.com/moonshotai)
-- **招聘**: [月之暗面招聘](https://careers.kimi.com/)
 
 ##### 智谱AI
 
