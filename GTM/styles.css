@@ -973,6 +973,12 @@ h2 {
   pointer-events: none;
 }
 
+/* positioned siblings must paint above the absolutely-positioned watermark */
+.cta-inner > :not(.cta-watermark) {
+  position: relative;
+  z-index: 1;
+}
+
 .cta h2 {
   font-size: clamp(2.3rem, 4.4vw, 3.4rem);
   line-height: 1.18;
