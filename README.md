@@ -4,6 +4,8 @@
 
 A curated navigation list of global technology companies — official sites, products, tech blogs, developer communities, GitHub organizations, and careers pages.
 
+> **姊妹清单**：[Awesome Startups](https://github.com/allengaller/awesome-startups) —— 2025–2026 全球初创公司估值 / 融资 / 赛道情报库。本清单收录成熟公司的导航入口，Startups 聚焦初创公司的资本动态，两者互补；重复收录的公司已通过「初创情报 / Startup Intel」字段互链。
+
 ## Contents
 
 **互联网**
@@ -17,6 +19,9 @@ A curated navigation list of global technology companies — official sites, pro
 
 **周边上下游**
 - [云服务](#云服务) | [支付/金融科技](#支付金融科技) | [物流/供应链](#物流供应链) | [广告技术](#广告技术)
+
+**延伸**
+- [相关清单](#相关清单)
 
 ---
 
@@ -290,6 +295,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Official Site**: [Shopee](https://shopee.com/)
 - **Products**: [Shopee](https://shopee.com/)
 - **Careers**: [Shopee Careers](https://careers.shopee.com/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#sea-limited--shopee--已上市-50b)
 
 ##### Tokopedia
 
@@ -378,6 +384,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [Discord Engineering](https://discord.com/category/engineering)
 - **GitHub**: [discord](https://github.com/discord)
 - **Careers**: [Discord Careers](https://discord.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#discord--15b)
 
 ##### LinkedIn
 
@@ -945,6 +952,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [Spotify Engineering](https://engineering.atspotify.com/)
 - **GitHub**: [spotify](https://github.com/spotify)
 - **Careers**: [Spotify Careers](https://www.lifeatspotify.com/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#spotifyai--echo--已上市)
 
 #### 日韩
 
@@ -1147,6 +1155,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Unity Forum](https://forum.unity.com/)
 - **GitHub**: [Unity-Technologies](https://github.com/Unity-Technologies)
 - **Careers**: [Unity Careers](https://careers.unity.com/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#unity-technologies--已上市-8b)
 
 ##### Valve
 
@@ -1348,6 +1357,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Airtable Community](https://community.airtable.com/)
 - **GitHub**: [Airtable](https://github.com/Airtable)
 - **Careers**: [Airtable Careers](https://airtable.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#airtable--11b)
 
 ##### Asana
 
@@ -1357,6 +1367,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Asana Developers](https://developers.asana.com/)
 - **GitHub**: [Asana](https://github.com/Asana)
 - **Careers**: [Asana Careers](https://asana.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#asana--已上市-5b)
 
 ##### Box
 
@@ -1393,6 +1404,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Figma Forum](https://forum.figma.com/)
 - **GitHub**: [figma](https://github.com/figma)
 - **Careers**: [Figma Careers](https://www.figma.com/careers/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#figma--125b估值--拟-ipo)
 
 ##### Freshworks
 
@@ -1402,6 +1414,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Freshworks Developers](https://developers.freshworks.com/)
 - **GitHub**: [freshworks-developers](https://github.com/freshworks-developers)
 - **Careers**: [Freshworks Careers](https://www.freshworks.com/company/careers/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#freshworks--已上市-5b)
 
 ##### HubSpot
 
@@ -1447,6 +1460,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [monday.com Developers](https://developer.monday.com/)
 - **GitHub**: [mondaycom](https://github.com/mondaycom)
 - **Careers**: [monday.com Careers](https://monday.com/careers/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#mondaycom--已上市-12b)
 
 ##### Notion
 
@@ -1456,6 +1470,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Notion Developers](https://developers.notion.com/)
 - **GitHub**: [makenotion](https://github.com/makenotion)
 - **Careers**: [Notion Careers](https://www.notion.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#notion--10b)
 
 ##### Oracle
 
@@ -1500,6 +1515,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Slack API](https://api.slack.com/)
 - **GitHub**: [slackapi](https://github.com/slackapi)
 - **Careers**: [Slack Careers](https://slack.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#slacksalesforce-子公司)
 
 ##### Smartsheet
 
@@ -1739,6 +1755,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Datadog Docs](https://docs.datadoghq.com/)
 - **GitHub**: [DataDog](https://github.com/DataDog)
 - **Careers**: [Datadog Careers](https://www.datadoghq.com/careers/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#datadog--已上市-50b)
 
 ##### Docker
 
@@ -1775,6 +1792,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Grafana Community](https://community.grafana.com/)
 - **GitHub**: [grafana](https://github.com/grafana)
 - **Careers**: [Grafana Labs Careers](https://grafana.com/about/careers/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#grafana-labs--6b)
 
 ##### HashiCorp
 
@@ -1837,6 +1855,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Postman Community](https://community.postman.com/)
 - **GitHub**: [postmanlabs](https://github.com/postmanlabs)
 - **Careers**: [Postman Careers](https://www.postman.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#postman--56b)
 
 ##### Red Hat
 
@@ -1854,6 +1873,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [Replit Blog](https://replit.com/blog)
 - **GitHub**: [replit](https://github.com/replit)
 - **Careers**: [Replit Careers](https://replit.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#replit--3b)
 
 ##### Stack Overflow
 
@@ -1880,6 +1900,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Vercel Community](https://github.com/vercel/community)
 - **GitHub**: [vercel](https://github.com/vercel)
 - **Careers**: [Vercel Careers](https://vercel.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#vercel---93b)
 
 #### 欧洲
 
@@ -1898,6 +1919,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Contentful Community](https://www.contentful.com/community/)
 - **GitHub**: [contentful](https://github.com/contentful)
 - **Careers**: [Contentful Careers](https://www.contentful.com/careers/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#contentful--350m)
 
 ##### JetBrains
 
@@ -1915,6 +1937,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Sentry Docs](https://docs.sentry.io/)
 - **GitHub**: [getsentry](https://github.com/getsentry)
 - **Careers**: [Sentry Careers](https://sentry.io/careers/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#sentry--1b)
 
 ##### SonarSource
 
@@ -1961,6 +1984,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **核心产品**: [百川大模型](https://www.baichuan-ai.com/) | [百小应](https://www.baichuan-ai.com/)
 - **GitHub**: [baichuan-inc](https://github.com/baichuan-inc)
 - **招聘**: [百川智能招聘](https://cq6qe6bvfr6.jobs.feishu.cn/)
+- **初创情报**: [估值 · 融资 · 赛道叙事 → awesome-startups](https://github.com/allengaller/awesome-startups#7-baichuan-ai--百川--1b)
 
 ##### 出门问问
 
@@ -1981,6 +2005,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **核心产品**: [阶跃星辰开放平台](https://platform.stepfun.com/)
 - **GitHub**: [stepfun-ai](https://github.com/stepfun-ai)
 - **招聘**: [阶跃星辰招聘](https://www.stepfun.com/)
+- **初创情报**: [估值 · 融资 · 赛道叙事 → awesome-startups](https://github.com/allengaller/awesome-startups#5-stepfun--阶跃星辰--10b)
 
 ##### 科大讯飞
 
@@ -2001,6 +2026,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **核心产品**: [Yi 大模型](https://www.lingyiwanwu.com/)
 - **GitHub**: [01-ai](https://github.com/01-ai)
 - **招聘**: [零一万物招聘](https://www.lingyiwanwu.com/careers.html)
+- **初创情报**: [估值 · 融资 · 赛道叙事 → awesome-startups](https://github.com/allengaller/awesome-startups#6-01ai--零一万物--1b)
 
 ##### 面壁智能
 
@@ -2015,6 +2041,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **核心产品**: [海螺AI](https://hailuoai.com/) | [MiniMax 开放平台](https://www.minimaxi.com/platform)
 - **GitHub**: [MiniMax-AI](https://github.com/MiniMax-AI)
 - **招聘**: [MiniMax 招聘](https://www.minimaxi.com/careers)
+- **初创情报**: [估值 · 融资 · 赛道叙事 → awesome-startups](https://github.com/allengaller/awesome-startups#3-minimax---33b已上市-hkex)
 
 ##### 商汤科技
 
@@ -2029,6 +2056,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **核心产品**: [DeepSeek](https://www.deepseek.com/)
 - **GitHub**: [deepseek-ai](https://github.com/deepseek-ai)
 - **招聘**: [DeepSeek 招聘](https://talent.deepseek.com/)
+- **初创情报**: [估值 · 融资 · 赛道叙事 → awesome-startups](https://github.com/allengaller/awesome-startups#deepseek---50b202606-完成)
 
 ##### 依图科技
 
@@ -2042,6 +2070,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **核心产品**: [Kimi](https://kimi.moonshot.cn/)
 - **GitHub**: [moonshotai](https://github.com/moonshotai)
 - **招聘**: [月之暗面招聘](https://careers.kimi.com/)
+- **初创情报**: [估值 · 融资 · 赛道叙事 → awesome-startups](https://github.com/allengaller/awesome-startups#4-moonshot-ai--月之暗面--20b)
 
 ##### 云从科技
 
@@ -2061,6 +2090,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **核心产品**: [智谱清言](https://chatglm.cn/) | [BigModel 开放平台](https://open.bigmodel.cn/)
 - **GitHub**: [THUDM](https://github.com/THUDM)
 - **招聘**: [智谱AI招聘](https://www.zhipuai.cn/zh)
+- **初创情报**: [估值 · 融资 · 赛道叙事 → awesome-startups](https://github.com/allengaller/awesome-startups#2-zhipu-ai--智谱---56b已上市-hkex)
 
 #### 美国
 
@@ -2079,6 +2109,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [Anthropic Research](https://www.anthropic.com/research)
 - **GitHub**: [anthropics](https://github.com/anthropics)
 - **Careers**: [Anthropic Careers](https://www.anthropic.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#anthropic---965b)
 
 ##### Cerebras
 
@@ -2086,6 +2117,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Products**: [Cerebras CS-3](https://www.cerebras.ai/product-chip)
 - **Tech Blog**: [Cerebras Blog](https://www.cerebras.ai/blog)
 - **Careers**: [Cerebras Careers](https://www.cerebras.ai/open-positions)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#cerebras-systems--已上市-5b)
 
 ##### Character.AI
 
@@ -2093,12 +2125,14 @@ A curated navigation list of global technology companies — official sites, pro
 - **Products**: [Character.AI](https://character.ai/)
 - **Tech Blog**: [Character.AI Blog](https://blog.character.ai/)
 - **Careers**: [Character.AI Careers](https://character.ai/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#characterai--27b--与-google-合作)
 
 ##### Cognition AI
 
 - **Official Site**: [Cognition](https://cognition.com/)
 - **Products**: [Devin](https://devin.ai/)
 - **Careers**: [Cognition Careers](https://cognition.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#cognition-ai--devin---26b)
 
 ##### Databricks
 
@@ -2108,12 +2142,14 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Databricks Community](https://community.databricks.com/)
 - **GitHub**: [databricks](https://github.com/databricks)
 - **Careers**: [Databricks Careers](https://www.databricks.com/company/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#6-databricks---134b)
 
 ##### Fireworks AI
 
 - **Official Site**: [Fireworks AI](https://fireworks.ai/)
 - **Products**: [Fireworks AI](https://fireworks.ai/)
 - **Careers**: [Fireworks AI Careers](https://fireworks.ai/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#fireworks-ai--4b)
 
 ##### Groq
 
@@ -2121,6 +2157,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Products**: [GroqCloud](https://groq.com/cloud)
 - **Tech Blog**: [Groq Blog](https://groq.com/blog)
 - **Careers**: [Groq Careers](https://groq.com/company)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#groq--28b)
 
 ##### Hugging Face
 
@@ -2129,6 +2166,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [Hugging Face Blog](https://huggingface.co/blog)
 - **GitHub**: [huggingface](https://github.com/huggingface)
 - **Careers**: [Hugging Face Careers](https://huggingface.co/jobs)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#hugging-face--45b)
 
 ##### Inflection AI
 
@@ -2149,6 +2187,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [OpenAI Blog](https://openai.com/blog)
 - **GitHub**: [openai](https://github.com/openai)
 - **Careers**: [OpenAI Careers](https://openai.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#openai---852b)
 
 ##### Perplexity AI
 
@@ -2156,18 +2195,21 @@ A curated navigation list of global technology companies — official sites, pro
 - **Products**: [Perplexity](https://www.perplexity.ai/)
 - **Tech Blog**: [Perplexity Blog](https://www.perplexity.ai/hub/blog)
 - **Careers**: [Perplexity Careers](https://www.perplexity.ai/hub/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#perplexity-ai---20b)
 
 ##### Runway
 
 - **Official Site**: [Runway](https://runway.com/)
 - **Products**: [Runway](https://runway.com/)
 - **Careers**: [Runway Careers](https://runway.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#runway--53b)
 
 ##### SambaNova
 
 - **Official Site**: [SambaNova](https://sambanova.ai/)
 - **Products**: [SambaNova Suite](https://sambanova.ai/)
 - **Careers**: [SambaNova Careers](https://sambanova.ai/company/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#sambanova-systems--5b)
 
 ##### Scale AI
 
@@ -2175,12 +2217,14 @@ A curated navigation list of global technology companies — official sites, pro
 - **Products**: [Scale Data Engine](https://scale.com/data-engine) | [Scale GenAI Platform](https://scale.com/genai-platform)
 - **Tech Blog**: [Scale AI Blog](https://scale.com/blog)
 - **Careers**: [Scale AI Careers](https://scale.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#scale-ai--29b交易隐含)
 
 ##### Sierra AI
 
 - **Official Site**: [Sierra AI](https://sierra.ai/)
 - **Products**: [Sierra](https://sierra.ai/)
 - **Careers**: [Sierra Careers](https://sierra.ai/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#sierra--45b)
 
 ##### Together AI
 
@@ -2188,12 +2232,14 @@ A curated navigation list of global technology companies — official sites, pro
 - **Products**: [Together AI](https://www.together.ai/)
 - **Tech Blog**: [Together AI Blog](https://www.together.ai/blog)
 - **Careers**: [Together AI Careers](https://www.together.ai/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#together-ai--83b)
 
 ##### xAI
 
 - **Official Site**: [xAI](https://x.ai/)
 - **Products**: [Grok](https://x.ai/)
 - **Careers**: [xAI Careers](https://x.ai/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#xai---250b合并交易估值)
 
 #### 欧洲
 
@@ -2224,6 +2270,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [Mistral AI News](https://mistral.ai/news/)
 - **GitHub**: [mistralai](https://github.com/mistralai)
 - **Careers**: [Mistral AI Careers](https://mistral.ai/careers/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#mistral-ai--137b)
 
 ##### Stability AI
 
@@ -2232,6 +2279,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [Stability AI News](https://stability.ai/news-updates)
 - **GitHub**: [Stability-AI](https://github.com/stability-ai)
 - **Careers**: [Stability AI Careers](https://stability.ai/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#stability-ai--1b公开报道)
 
 #### 日韩
 
@@ -2246,6 +2294,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Official Site**: [Sakana AI](https://sakana.ai/)
 - **Products**: [Sakana AI](https://sakana.ai/)
 - **Careers**: [Sakana AI Careers](https://sakana.ai/careers/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#sakana-ai--265b)
 
 ##### Upstage
 
@@ -2330,6 +2379,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [ClickHouse Blog](https://clickhouse.com/blog)
 - **GitHub**: [ClickHouse](https://github.com/ClickHouse)
 - **Careers**: [ClickHouse Careers](https://clickhouse.com/company/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#clickhouse--15b)
 
 ##### Cockroach Labs
 
@@ -2546,6 +2596,7 @@ A curated navigation list of global technology companies — official sites, pro
 ##### 追觅科技
 
 - **集团官网**: [追觅科技](https://www.dreame.tech/)
+- **初创情报**: [估值 · 融资 · 赛道叙事 → awesome-startups](https://github.com/allengaller/awesome-startups#12-dreame-technology--追觅科技--2b)
 
 #### 美国
 
@@ -2701,6 +2752,7 @@ A curated navigation list of global technology companies — official sites, pro
 
 - **集团官网**: [地平线](https://www.horizon.auto/)
 - **核心产品**: [地平线征程芯片](https://www.horizon.auto/solutions/horizon-journey)
+- **初创情报**: [估值 · 融资 · 赛道叙事 → awesome-startups](https://github.com/allengaller/awesome-startups#13-horizon-robotics--地平线--已上市hkex)
 
 ##### 海思（华为）
 
@@ -3242,6 +3294,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Products**: [Chime](https://www.chime.com/)
 - **Tech Blog**: [Chime Blog](https://www.chime.com/blog/)
 - **Careers**: [Chime Careers](https://careers.chime.com/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#chime--25b)
 
 ##### Coinbase
 
@@ -3275,6 +3328,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [Plaid Blog](https://plaid.com/blog/)
 - **GitHub**: [plaid](https://github.com/plaid)
 - **Careers**: [Plaid Careers](https://plaid.com/careers/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#plaid--134b)
 
 ##### Robinhood
 
@@ -3300,6 +3354,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Stripe Docs](https://docs.stripe.com/)
 - **GitHub**: [stripe](https://github.com/stripe)
 - **Careers**: [Stripe Careers](https://stripe.com/jobs)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#5-stripe---159b)
 
 ##### Visa
 
@@ -3324,6 +3379,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Developer Community**: [Klarna Docs](https://docs.klarna.com/)
 - **GitHub**: [klarna](https://github.com/klarna)
 - **Careers**: [Klarna Careers](https://www.klarna.com/international/careers/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#klarna--已上市-147b)
 
 ##### Revolut
 
@@ -3332,6 +3388,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [Revolut Blog](https://www.revolut.com/en-GB/blog/)
 - **GitHub**: [revolut](https://github.com/revolut)
 - **Careers**: [Revolut Careers](https://www.revolut.com/careers/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#revolut--45b)
 
 ##### Wise
 
@@ -3340,6 +3397,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [Wise Blog](https://wise.com/blog/)
 - **GitHub**: [transferwise](https://github.com/transferwise)
 - **Careers**: [Wise Careers](https://wise.com/careers)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#wise--已上市-12b)
 
 #### 日韩
 
@@ -3415,6 +3473,7 @@ A curated navigation list of global technology companies — official sites, pro
 - **Tech Blog**: [Flexport Blog](https://www.flexport.com/blog/)
 - **GitHub**: [flexport](https://github.com/flexport)
 - **Careers**: [Flexport Careers](https://www.flexport.com/company/careers/)
+- **Startup Intel**: [valuation · funding · track notes → awesome-startups](https://github.com/allengaller/awesome-startups#flexport--8b)
 
 ##### UPS
 
@@ -3563,3 +3622,11 @@ A curated navigation list of global technology companies — official sites, pro
 #### 日韩
 
 #### 东南亚
+
+---
+
+## 相关清单
+
+| 清单 | 说明 |
+| --- | --- |
+| [Awesome Startups](https://github.com/allengaller/awesome-startups) | 2025–2026 全球初创公司估值 / 融资 / 赛道情报，含单公司深度研究、深圳 / 西安创业圈与 GTM 研究台 |

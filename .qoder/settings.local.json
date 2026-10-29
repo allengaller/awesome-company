@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /Users/allengaller/Documents/GitHub/allengaller/awesome-company/ && echo \"---\" && ls -la /Users/allengaller/Documents/GitHub/allengaller/awesome-startups/ 2>/dev/null || ls -la /Users/allengaller/Documents/GitHub/allengaller/ | head -50)"
+    ]
+  }
+}
